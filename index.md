@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+Welcome to /fg/lt/, or as I've recently taken to calling it, /fg+lt/. We are always open to users of all levels, including absolute beginners.
+
+There are four ways to try GNU/Linux, you can:
+
+0) Install a GNU/Linux OS on a VM (Virtual Machine/VirtualBox) for "safety purposes"
+1) Use the Live ISO directly without installing anything, that way, you can get a "full GNU/Linux experience".
+2) Dual-boot GNU/Linux with Windows/Mac (recommended if you want to learn more about GNU/Linux)
+3) Go balls deep and overwrite everything with GNU/Linux
+
+Before asking, please search for answers to your questions in resources.
+
+Please be civil, notice the "Friendly" in every Friendly GNU/Linux Thread.
+
+Understand that much of your software from Windows will be unavailable, although maybe WINE can make up for it.
+
+IRC connection details:
+Server: chat.freenode.net:6667 (no SSL, 6697 for SSL) - Channel: #flt
+If you don't have an IRC client (which you should), go to https://kiwiirc.com/client/irc.freenode.net/flt.
+
+Resources:
+
+- man &lt;insert command here&gt;
+- Your friendly neighborhood search engine (searx.me, ixquick, whatever)
+- https://wiki.archlinux.org/ (Most of the configurations and troubleshoots will work on various distros, including Debian)
+- https://wiki.installgentoo.com/index.php/Category:GNU/Linux
+- https://wiki.installgentoo.com/index.php/Babbies_First_Linux
+- https://prism-break.org/en/categories/gnu-linux/
+- http://linuxcommand.org/tlcl.php
+
