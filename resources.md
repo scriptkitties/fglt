@@ -27,9 +27,12 @@ layout: default
 - [List of monospaced bitmap fonts for programming](https://github.com/Tecate/bitmap-fonts)
 
 You may also need to enable bitmap fonts and rebuild the font cache:
+
+```
 rm -v /etc/fonts/conf.d/70-no-bitmaps.conf
 ln -s ../conf.avail/70-yes-bitmaps.conf .
 fc-cache -v -f
+```
 
 - [Fonts patched with shitloads of icon glyphs](https://github.com/ryanoasis/nerd-fonts)
 - [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/)
