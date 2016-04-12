@@ -7,9 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fglt.nl" # the base hostname & protocol for your site
 
 # build settings
-markdown: kramdown
-kramdown:
-  input: GFM
+markdown: redcarpet
 
 # custom collections
 collections:

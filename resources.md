@@ -3,8 +3,7 @@ title: Resources
 layout: default
 ---
 
-## Shell scripting {#shell}
-
+## Shell scripting
 - [The based GNU Bourne Again SHell](https://www.gnu.org/software/bash/)
 - [The community driven BASH wiki](http://wiki.bash-hackers.org/)
 - [The Grymoire - home for UNIX wizards](http://www.grymoire.com/Unix/index.html)
@@ -19,8 +18,7 @@ layout: default
 - [Great online (and offline) linting tool](http://www.shellcheck.net/)
 - [Know what you are doing](http://explainshell.com/)
 
-## Fonts {#fonts}
-
+## Fonts
 - [General informations](https://wiki.archlinux.org/index.php/Fonts)
 - [Huge list of font resources](https://github.com/brabadu/awesome-fonts)
 - [List of monospaced fonts for programming](https://github.com/chrissimpkins/codeface)
@@ -41,9 +39,7 @@ fc-cache -v -f
 - [Read the documentation](file:///usr/share/doc/fontconfig/fontconfig-user.html)
 
 ## Tiling
-
 ### Tiling window managers
-
 - [General informations](https://wiki.archlinux.org/index.php/Window_manager)
 - [Awesome](https://wiki.archlinux.org/index.php/Awesome)
 - [Awesome + Gaps](https://github.com/copycat-killer/lain)

@@ -8,16 +8,20 @@ levels, including absolute beginners.
 
 There are four ways to try GNU/Linux, you can:
 
-0. Install a GNU/Linux OS on a VM (Virtual Machine/VirtualBox) for "safety purposes"
-1. Use the Live ISO directly without installing anything, that way, you can get a "full GNU/Linux experience".
-2. Dual-boot GNU/Linux with Windows/Mac (recommended if you want to learn more about GNU/Linux)
+0. Install a GNU/Linux OS on a VM (Virtual Machine/VirtualBox) for "safety
+   purposes"
+1. Use the Live ISO directly without installing anything, that way, you can get
+   a "full GNU/Linux experience".
+2. Dual-boot GNU/Linux with Windows/Mac (recommended if you want to learn more
+   about GNU/Linux)
 3. Go balls deep and overwrite everything with GNU/Linux
 
 Before asking, please search for answers to your questions in resources.
 
 Please be civil, notice the "Friendly" in every Friendly GNU/Linux Thread.
 
-Understand that much of your software from Windows will be unavailable, although maybe WINE can make up for it.
+Understand that much of your software from Windows will be unavailable,
+although maybe WINE can make up for it.
 
 IRC connection details:
 Server: `chat.freenode.net:6667` (no SSL, 6697 for SSL) - Channel: `#flt`
