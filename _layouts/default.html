@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		{% include head.html %}
+	</head>
+	<body id="body">
+		<div class="container">
+			<header>
+				{% include header.html %}
+			</header>
+			<div class="masthead">
+				<nav>
+					<ul class="nav nav-justified">
+						{% include navigation.html %}
+					</ul>
+				</nav>
+			</div>
+			<main id="main">
+				{{ content }}
+			</main>
+			<footer>
+				{% include footer.html %}
+			</footer>
+		</div>
+		{% include scripts.html %}
+	</body>
+</html>
+

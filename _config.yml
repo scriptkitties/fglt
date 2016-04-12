@@ -1,0 +1,16 @@
+# site settings
+title: Friendly GNU/Linux Thread/Website
+email: tyil@scriptkitties.church
+description: > # this means to ignore newlines until "baseurl:"
+  Nondescript
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://fglt.nl" # the base hostname & protocol for your site
+
+# build settings
+markdown: kramdown
+
+# custom collections
+collections:
+  guides:
+    output: true
+

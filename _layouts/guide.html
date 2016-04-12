@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article class="guide">
+	{{ content }}
+	<footer class="guide-footer">
+		<hr>
+		<p>
+			Thanks to the author(s) of this guide:
+		</p>
+		<ul>
+		{% for author in page.authors %}
+			<li>{{ author }}</li>
+		{% endfor %}
+		</ul>
+	</footer>
+</article>
+
