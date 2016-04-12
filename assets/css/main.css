@@ -111,3 +111,8 @@ img {
 	margin-top: 20px;
 }
 
+/* force scrollbar */
+html {
+	overflow-y: scroll;
+}
+
