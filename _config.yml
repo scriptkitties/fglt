@@ -8,6 +8,15 @@ url: "http://fglt.nl" # the base hostname & protocol for your site
 
 # build settings
 markdown: redcarpet
+redcarpet:
+  extensions: [
+    "tables",
+    "autolink",
+    "strikethrough",
+    "space_after_headers",
+    "with_toc_data",
+    "fenced_code_blocks"
+  ]
 
 # custom collections
 collections:
