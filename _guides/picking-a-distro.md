@@ -59,7 +59,7 @@ helpful and friendly.
 
 ### Freedom
 #### [Parabola GNU/Linux][parabola]
-A distribution based on [Archlinux][archlinux]. It does not allow installation
+A distribution based on [Arch Linux][archlinux]. It does not allow installation
 of any non-free software.
 
 #### [Trisquel][trisquel]
@@ -98,18 +98,18 @@ whatever distribution's package manager feels best to you, and start
 customizing everything you want different.
 
 ## Why isn't … in this list?
-### [Archlinux][archlinux]
-Archlinux doesn't provide anything special. People often claim it's
+### [Arch Linux][archlinux]
+Arch Linux doesn't provide anything special. People often claim it's
 "customizable", but it's no more customizable than Ubuntu itself. The community
 is also very unwelcoming to people who want to customize it beyond what the
 devs intended.
 
 There's claims of it being "light-weight", but a debian netinstall is smaller
-than a base Archlinux installation. This is mostly due to Archlinux including
+than a base Arch Linux installation. This is mostly due to Arch Linux including
 development headers in all their packages, which is completely unneeded for a
 binary package distribution.
 
-- [An email from an Archlinux dev on Archlinux](https://lists.archlinux.org/pipermail/arch-general/2015-July/039443.html)
+- [An email from an Arch Linux dev on Arch Linux](https://lists.archlinux.org/pipermail/arch-general/2015-July/039443.html)
 
 ### Everything not mentioned
 It either doesn't fit the categories, or I just don't know about the
