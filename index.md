@@ -18,22 +18,24 @@ There are four ways to try GNU/Linux, you can:
 
 Before asking, please search for answers to your questions in resources.
 
-Please be civil, notice the "Friendly" in every Friendly GNU/Linux Thread.
+Please be civil, notice the "**Friendly**" in every Friendly GNU/Linux Thread.
 
 Understand that much of your software from Windows will be unavailable,
 although maybe WINE can make up for it.
 
-IRC connection details:
-Server: `chat.freenode.net:6667` (no SSL, 6697 for SSL) - Channel: `#flt`
-If you don't have an IRC client (which you should), go to [KiwiIRC](https://kiwiirc.com/client/irc.freenode.net/flt).
+Check out the [IRC guide]({{ "irc.html" | prepend: site.baseurl }}) in case you
+want more real-time discussion.
 
 Resources:
 
 - `man` &lt;insert command here&gt;
 - Your friendly neighborhood search engine (searx.me, ixquick, whatever)
-- https://wiki.archlinux.org/ (Most of the configurations and troubleshoots will work on various distros, including Debian)
+- https://wiki.archlinux.org/ (Most of the configurations and troubleshoots
+  will work on various distros, including Debian)
 - https://wiki.installgentoo.com/index.php/Category:GNU/Linux
 - https://wiki.installgentoo.com/index.php/Babbies_First_Linux
 - https://prism-break.org/en/categories/gnu-linux/
 - http://linuxcommand.org/tlcl.php
+- More resources (formerly found in the pastas) on the [Resources page]({{
+  "resources.html" | prepend: site.baseurl }})
 
