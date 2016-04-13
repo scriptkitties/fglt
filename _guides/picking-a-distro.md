@@ -43,6 +43,13 @@ brings along the downside of having to compile all your packages yourself, save
 for a very small set of packages which have ***-bin*** versions available (such
 as Firefox and LibreOffice).
 
+#### [Mageia][mageia]
+Using the traditional installer, Mageia is very customizable, yet easy for
+beginners who are willing to read up on the documentation. All updates to the
+system are tested by the QA team, so it's a pretty safe bet for stability too.
+If you wish to do so, the installer can leave you with a system containing only
+free software.
+
 #### [Ubuntu netinstall][ubuntu]
 This is the most minimal version of Ubuntu available. This means that you have
 a small starting base which you can setup completely to your liking. Ubuntu
@@ -76,6 +83,10 @@ The release cycles are incredibly slow, which is a good thing when going for
 stability in general. Before packages hit the stable repositories, they have
 been thoroughly tested to make sure that they won't break anything.
 
+#### [Mageia][mageia]
+Due to their extensive QA testing before pushing new changes, the distro is
+really stable, yet doesn't use packages as outdated as Debian stable.
+
 ### Ricing
 Every distro can be customized to be Your Special Snowflake™. Just pick
 whatever distribution's package manager feels best to you, and start
@@ -106,6 +117,7 @@ added by sending in a MR on the repository.
 [funtoo]: http://www.funtoo.org/Welcome
 [gentoo]: https://www.gentoo.org/
 [lubuntu]: http://lubuntu.net/
+[mageia]: https://www.mageia.org/en/
 [parabola]: https://www.parabola.nu/
 [trisquel]: https://trisquel.info/
 [ubuntu]: http://www.ubuntu.com/
