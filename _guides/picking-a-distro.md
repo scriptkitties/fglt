@@ -93,6 +93,8 @@ than a base Archlinux installation. This is mostly due to Archlinux including
 development headers in all their packages, which is completely unneeded for a
 binary package distribution.
 
+- [An email from an Archlinux dev on Archlinux](https://lists.archlinux.org/pipermail/arch-general/2015-July/039443.html)
+
 ### Everything not mentioned
 It either doesn't fit the categories, or I just don't know about the
 distribution. I'd greatly appreciate any help in maintaining this list, and
