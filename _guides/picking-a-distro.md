@@ -58,9 +58,12 @@ repositories. There's also a big community behind it which is usually pretty
 helpful and friendly.
 
 ### Freedom
-#### [Parabola GNU/Linux][parabola]
-A distribution based on [Arch Linux][archlinux]. It does not allow installation
-of any non-free software.
+#### [Parabola GNU/Linux-libre][parabola]
+A distribution based on [Arch Linux][archlinux]. Since only a small part of
+Arch official packages are nonfree or contain nonfree components, there's no
+need for them to repackage everything. In their repos, you'll find Arch
+official packages, directly from its official repositories, minus the nonfree
+packages, plus their libre replacements, when possible.
 
 #### [Trisquel][trisquel]
 A free distribution based on [Debian][debian].
