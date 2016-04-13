@@ -1,5 +1,4 @@
 body {
-	padding-top: 20px;
 }
 
 .footer {
@@ -92,12 +91,13 @@ body {
 }
 
 /* sticky footer */
-#body {
+.container {
+	padding-top: 20px;
 	display: flex;
 	min-height: 100vh;
 	flex-direction: column;
 }
-#main {
+.flex-body {
 	flex: 1;
 }
 
@@ -114,5 +114,9 @@ img {
 /* force scrollbar */
 html {
 	overflow-y: scroll;
+}
+
+footer {
+	padding-bottom: 30px;
 }
 

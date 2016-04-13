@@ -3,8 +3,8 @@
 	<head>
 		{% include head.html %}
 	</head>
-	<body id="body">
-		<div class="container">
+	<body>
+		<div class="container flex-body">
 			<header>
 				{% include header.html %}
 			</header>
@@ -15,12 +15,14 @@
 					</ul>
 				</nav>
 			</div>
-			<main id="main">
+			<main class="flex-body">
 				{{ content }}
 			</main>
-			<footer>
-				{% include footer.html %}
-			</footer>
+			<div class="flex-footer">
+				<footer>
+					{% include footer.html %}
+				</footer>
+			</div>
 		</div>
 		{% include scripts.html %}
 	</body>
