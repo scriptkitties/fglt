@@ -104,7 +104,7 @@ Arch Linux doesn't provide anything special. People often claim it's
 is also very unwelcoming to people who want to customize it beyond what the
 devs intended.
 
-There's claims of it being "light-weight", but a debian netinstall is smaller
+There's claims of it being "lightweight", but a debian netinstall is smaller
 than a base Arch Linux installation. This is mostly due to Arch Linux including
 development headers in all their packages, which is completely unneeded for a
 binary package distribution.
