@@ -76,6 +76,11 @@ main repos, so not all hardware may be supported out of the box.
 Lubuntu's LXDE desktop environment is made specifically to be usable on systems
 with low resources.
 
+#### [Xubuntu][xubuntu]
+While not as lightweight as Lubuntu, it's lightweight enough to run on most
+machines. It's a little more polished than Lubuntu by default, but this is
+ofcourse subjective to your tastes.
+
 ### Stability
 #### [Debian][debian]
 Debian is often described as the most stable GNU+Linux distribution around.
