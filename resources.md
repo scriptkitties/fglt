@@ -17,6 +17,9 @@ layout: default
 - [Interesting, useful and dangerous one-liners](http://www.commandlinefu.com/)
 - [Great online (and offline) linting tool](http://www.shellcheck.net/)
 - [Know what you are doing](http://explainshell.com/)
+- [drobbin's Awk by example](http://www.funtoo.org/Awk_by_Example,_Part_1)
+- [drobbin's Bash by example](http://www.funtoo.org/Bash_by_Example,_Part_1)
+- [drobbin's Sed by example](http://www.funtoo.org/Sed_by_Example,_Part_1)
 
 ## Fonts
 - [General informations](https://wiki.archlinux.org/index.php/Fonts)
