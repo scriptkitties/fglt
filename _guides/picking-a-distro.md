@@ -31,6 +31,10 @@ Xubuntu is a spin-off from [Ubuntu][ubuntu]. Like Lubuntu, it comes with
 a graphical installer and the default UI is pretty similar to Windows.
 
 ### Customizability
+#### [Fedora][fedora]
+The server release provides netinstall images in which you can choose what is
+installed at installation time like many other netinstall distros like Ubuntu.
+
 #### [Funtoo][funtoo]
 A spin-off from [Gentoo][gentoo]. Funtoo is against systemd, and uses OpenRC
 instead. Other than that, it is pretty similar to Gentoo nowadays.
