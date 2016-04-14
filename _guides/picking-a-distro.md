@@ -126,6 +126,7 @@ added by sending in a MR on the repository.
 
 [archlinux]: https://www.archlinux.org/
 [debian]: https://www.debian.org/
+[fedora]: https://getfedora.org/
 [funtoo]: http://www.funtoo.org/Welcome
 [gentoo]: https://www.gentoo.org/
 [lubuntu]: http://lubuntu.net/
