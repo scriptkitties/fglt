@@ -71,7 +71,7 @@ Choose a 32-bit installation. Yes, even if your processor is a 64-bit one. Wine 
 
 ![Choosing the architecture](https://a.cocaine.ninja/iwkdji.png)
 
-Now, we're going to install the packages that are often needed by visual novels. These are: corefonts, d3dx9\_36, directmusic, dsound, dotnet40, ffdshow, quartz, and vcrun6. Simply select all of the "POL\_Install\_\<package name\>" options.
+Now, we're going to install the packages that are often needed by visual novels. These are: corefonts, d3dx9\_36, dotnet40, ffdshow, quartz, and vcrun6. Simply select all of the "POL\_Install\_\<package name\>" options.
 
 ![Selecting packages](http://gateway.glop.me/ipfs/QmbJCiyfBzh58ggcGmfKy5WvTxwEke29pPaKPQuPHiwahp/icTfp0.png)
 
