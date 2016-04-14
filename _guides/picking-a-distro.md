@@ -19,6 +19,12 @@ feel like a distro should be mentioned, send in a MR on this repository.
 
 ## Which distro should I pick for …?
 ### Beginner friendly
+#### [Linux Mint][mint]
+The purpose of Linux Mint is to produce a modern, elegant and comfortable
+operating system which is both powerful and easy to use. It's made to work out
+of the box with full multimedia support while being easy to use. It is based on
+Ubuntu, hence comes with all the software that Ubuntu itself supports.
+
 #### [Lubuntu][lubuntu]
 Lubuntu is a spin-off from [Ubuntu][ubuntu]. It comes with a graphical
 installer and sports the LXDE desktop environment, which is ment to be
@@ -131,6 +137,7 @@ added by sending in a MR on the repository.
 [gentoo]: https://www.gentoo.org/
 [lubuntu]: http://lubuntu.net/
 [mageia]: https://www.mageia.org/en/
+[mint]: https://www.linuxmint.com/
 [parabola]: https://www.parabola.nu/
 [trisquel]: https://trisquel.info/
 [ubuntu]: http://www.ubuntu.com/
