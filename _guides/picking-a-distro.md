@@ -122,6 +122,19 @@ than a base Arch Linux installation. This is mostly due to Arch Linux including
 development headers in all their packages, which is completely unneeded for a
 binary package distribution.
 
+### [FreeBSD][freebsd]/[OpenBSD][openbsd]
+These are fine operating systems on themselves, but they are not GNU+Linux
+distributions, therefore they are not included in this list. If you want to try
+it out, the installation is about the same as Debian, but it comes with more up
+to date software and a great ports system, but hardware support is often not as
+great as GNU+Linux.
+
+### [OpenSUSE][opensuse]
+I've never used OpenSUSE nor do I know anyone who has ever done such a thing.
+Therefore I can't recommend it with a nice little description about it. If you
+have experience with it, and feel it should be included, please send in a merge
+request.
+
 - [An email from an Arch Linux dev on Arch Linux](https://lists.archlinux.org/pipermail/arch-general/2015-July/039443.html)
 
 ### Everything not mentioned
@@ -133,11 +146,14 @@ added by sending in a MR on the repository.
 [archlinux]: https://www.archlinux.org/
 [debian]: https://www.debian.org/
 [fedora]: https://getfedora.org/
+[freebsd]: https://www.freebsd.org/
 [funtoo]: http://www.funtoo.org/Welcome
 [gentoo]: https://www.gentoo.org/
 [lubuntu]: http://lubuntu.net/
 [mageia]: https://www.mageia.org/en/
 [mint]: https://www.linuxmint.com/
+[openbsd]: http://www.openbsd.org/
+[opensuse]: https://www.opensuse.org/
 [parabola]: https://www.parabola.nu/
 [trisquel]: https://trisquel.info/
 [ubuntu]: http://www.ubuntu.com/
