@@ -1,11 +1,14 @@
 body {
+	padding-top: 20px;
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
 }
 
 .footer {
-	padding-top: 40px;
-	padding-bottom: 40px;
-	margin-top: 40px;
-	border-top: 1px solid #eee;
+	padding: 20px 0;
+	background-color: rgba(0, 0, 0, 0.3);
+	border-top: 10px solid rgba(0, 0, 0, 0.1);
 }
 
 /* Main marketing message and sign up button */
@@ -91,12 +94,6 @@ body {
 }
 
 /* sticky footer */
-.container {
-	padding-top: 20px;
-	display: flex;
-	min-height: 100vh;
-	flex-direction: column;
-}
 .flex-body {
 	flex: 1;
 }
@@ -114,9 +111,5 @@ img {
 /* force scrollbar */
 html {
 	overflow-y: scroll;
-}
-
-footer {
-	padding-bottom: 30px;
 }
 
