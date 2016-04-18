@@ -122,6 +122,8 @@ than a base Arch Linux installation. This is mostly due to Arch Linux including
 development headers in all their packages, which is completely unneeded for a
 binary package distribution.
 
+- [An email from an Arch Linux dev on Arch Linux](https://lists.archlinux.org/pipermail/arch-general/2015-July/039443.html)
+
 ### [FreeBSD][freebsd]/[OpenBSD][openbsd]
 These are fine operating systems on themselves, but they are not GNU+Linux
 distributions, therefore they are not included in this list. If you want to try
@@ -134,8 +136,6 @@ I've never used OpenSUSE nor do I know anyone who has ever done such a thing.
 Therefore I can't recommend it with a nice little description about it. If you
 have experience with it, and feel it should be included, please send in a merge
 request.
-
-- [An email from an Arch Linux dev on Arch Linux](https://lists.archlinux.org/pipermail/arch-general/2015-July/039443.html)
 
 ### Everything not mentioned
 It either doesn't fit the categories, or I just don't know about the
