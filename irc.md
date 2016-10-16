@@ -7,7 +7,7 @@ layout: default
 ## Connection details
 * Server: chat.freenode.net
 * Port: 6697 for SSL, 6667 for plain
-* Channel: #flt
+* Channel: #sqt
 
 ## Connect now via webchat
 - [KiwiIRC](https://kiwiirc.com/client/irc.freenode.net/flt)
