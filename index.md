@@ -39,3 +39,5 @@ Resources:
 - More resources (formerly found in the pastas) on the [Resources page]({{
   "resources.html" | prepend: site.baseurl }})
 
+This website is also available via TOR at `lvmmj2cjbat6zhwk.onion`.
+
