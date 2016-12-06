@@ -26,6 +26,11 @@ although maybe WINE can make up for it.
 Check out the [IRC guide]({{ "irc.html" | prepend: site.baseurl }}) in case you
 want more real-time discussion.
 
+For any official announcements or appeals to staff, please join the [mailing
+list](https://ml.tyil.email/mailman/listinfo/fglt). If you are new to the
+concept of mailing lists, read the instructions on how to use it on the ML
+site.
+
 Resources:
 
 - `man` &lt;insert command here&gt;
