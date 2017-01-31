@@ -149,7 +149,7 @@ added by sending in a MR on the repository.
 [freebsd]: https://www.freebsd.org/
 [funtoo]: http://www.funtoo.org/Welcome
 [gentoo]: https://www.gentoo.org/
-[lubuntu]: http://lubuntu.net/
+[lubuntu]: http://lubuntu.me/
 [mageia]: https://www.mageia.org/en/
 [mint]: https://www.linuxmint.com/
 [openbsd]: http://www.openbsd.org/
