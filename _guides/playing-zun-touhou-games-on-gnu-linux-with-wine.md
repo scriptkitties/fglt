@@ -52,37 +52,37 @@ You can find an archive of touhou games on nyaa. thcrap is available [here](http
 
 First, we'll start PlayOnLinux. The executable name is `playonlinux`.
 
-![Main POL window](https://sugoi.vidyagam.es/qt/mpOA2SS.png)
+![Main POL window](https://i.imgur.com/l1efYXF.png)
 
 This is where you're going to be able to launch all of your games. (one convenient aspect of using PlayOnLinux is a centralized interface for all of your games.)
 
 The first thing we're gonna do is create a virtual drive which will contain all of our installed games. To do this, click on the "Install" button at the top, then on "Install a non-listed program" on the bottom left of the new window.
 
-![Installing a non-listed program](https://d2.maxfile.ro/mctgyxklrp.png)
+![Installing a non-listed program](https://i.imgur.com/5dRz6wv.png)
 
 When PlayOnLinux gives you the choice between installing in a new virtual drive or editing an existing application, choose the former option.
 
-![New virtual drive](http://comfy.moe/lfocuj.png)
+![New virtual drive](https://i.imgur.com/26J2Oeu.png)
 
 Give a name to the new virtual drive. It doesn't really matter, just choose something you'll remember.
 
-![Giving a name to the virtual drive](https://a.desu.sh/kflszk.png)
+![Giving a name to the virtual drive](https://i.imgur.com/vGeRWOF.png)
 
 On the next screen, choose "Install some libraries".
 
-![Installing libraries](https://sugoi.vidyagam.es/qt/2eiAQ9L.png)
+![Installing libraries](https://i.imgur.com/CYh8ayq.png)
 
 Choose a 32-bit installation. Yes, even if your processor is a 64-bit one. Wine is still kind of buggy in 64-bit mode.
 
-![Choosing the architecture](https://a.cocaine.ninja/iwkdji.png)
+![Choosing the architecture](https://i.imgur.com/fHTwpa4.png)
 
 Now, we're going to install the packages that are often needed by visual novels. These are: corefonts, d3dx9\_36, directmusic, dsound, and dinput8. Simply select all of the "POL\_Install\_\<package name\>" options.
 
-![Selecting packages](http://gateway.glop.me/ipfs/QmbJCiyfBzh58ggcGmfKy5WvTxwEke29pPaKPQuPHiwahp/icTfp0.png)
+![Selecting packages](https://i.imgur.com/84z2Elk.png)
 
 Everything should install relatively quickly. After the installation finishes, you should see this window:
 
-![Installation window](https://u.aww.moe/m7vsm0.png)
+![Installation window](https://i.imgur.com/qT1r5Op.png)
 
 You can ignore it for now. simply press Cancel.
 
@@ -96,7 +96,7 @@ Generally, games can be installed in two ways: either from an installation execu
 
 Everything from now on will happen in the configuration window. You can access it by pressing "Configure" at the top of the main window. Then, click on your virtual drive on the left:
 
-![Settings](http://y.zxq.co/zoefzl.png)
+![Settings](https://i.imgur.com/wmWMmOo.png)
 
 <div id='section-id-69'/>
 
@@ -112,15 +112,15 @@ That was easy, wasn't it?
 
 This is a bit longer than the previous step, but it's still really easy. I'm going to use this collection as an example:
 
-![Pirating is evil kids](http://b.1339.cf/ecnkfyx.png)
+![Pirating is evil kids](https://i.imgur.com/Eq2VeJ2.png)
 
 Go to the configuration window, move to the "Miscellaneous" tab, and click on "Open virtual drive's directory". This should open your file manager.
 
-![Files](http://cdn.che.moe/mdrtor.png)
+![Files](https://i.imgur.com/hdg7Uiv.png)
 
 Navigate to the `drive_c/Program Files` folder, then copy your game installation there.
 
-![Moving things](http://y.zxq.co/wmjtvf.png)
+![Moving things](https://i.imgur.com/0bahiEc.png)
 
 The game should now be inside your virtual drive, ready to be launched.
 
@@ -134,11 +134,11 @@ Extract the thcrap archive you downloaded in a folder (for example, `drive_c/Pro
 
 Go to the configuration window, move to the "Miscellaneous" tab, and click on "Open a shell". The newly opened shell will place you at the root of the virtual drive. I will assume you know how to use `cd`, so navigate to the root of the directory you put thcrap in (for example, if you used the same path as me, `cd "Program Files/Touhou Community Reliant Patcher"` should work \[upper-case / lower-case matters!\]).
 
-![Terminal window](https://u.aww.moe/ioad4i.png)
+![Terminal window](https://i.imgur.com/u4FWCDH.png)
 
 Then, type `wine thcrap_configure.exe`. Afterwards, follow the instructions (steps 3 to 6) [Here](https://www.thpatch.net/wiki/Touhou_Community_Reliant_Automatic_Patcher#Detailed).
 
-![Patching games](https://r.kyaa.sg/pivoux.png)
+![Patching games](https://i.imgur.com/XH0ARPI.png)
 
 <div id='section-id-105'/>
 
@@ -146,13 +146,13 @@ Then, type `wine thcrap_configure.exe`. Afterwards, follow the instructions (ste
 
 Installing the game is nice, but now we need to figure out how to launch it. In the configure window, go to the General tab and click "Make a new shortcut from this virtual drive". It will scan the executables inside the virtual drive and then display a list.
 
-![These alt names for images are getting even less descriptive than my git history](https://my.mixtape.moe/lorwpv.png)
+![These alt names for images are getting even less descriptive than my git history](https://i.imgur.com/TQxnGgk.png)
 
 Scroll down until you reach the shortcuts ending with ".lnk" (these are thcrap's shortcuts). Afterwards, just select each shortcut (for example, "th07 (en).lnk") and click on "Next". Choose a shortcut name (for example "Touhou 07 - Perfect Cherry Blossom") and click on next again.
 
 Your game is now displayed in the main POL window!
 
-![Woo we did it reddit](http://b.1339.cf/grkswwu.png)
+![Woo we did it reddit](https://i.imgur.com/2njbxws.png)
 
 You'll be brought back to the shortcut selection menu. Just do it in batch for every single game and then click cancel when you're finished.
 
@@ -162,7 +162,7 @@ While we now have game shortcuts in the main POL window, there aren't any icons 
 
 This also means you can easily customize the icons used for the games.
 
-![Cool, right?](https://a.cocaine.ninja/vkqgve.png)
+![Cool, right?](https://i.imgur.com/qvZQCiP.png)
 
 <div id='section-id-127'/>
 
@@ -170,7 +170,7 @@ This also means you can easily customize the icons used for the games.
 
 Just double click on the icon.
 
-![IT WERKS](https://r.kyaa.sg/htpkmu.png)
+![IT WERKS](https://i.imgur.com/PJZPxYX.png)
 
 =======================
 
@@ -188,7 +188,7 @@ Next, go to the configuration window in POL and select the shortcut of the game 
 
 Then, go to the Miscellaneous tab, and paste "LANG="ja\_JP.UTF-8" in the "command to exec before running the program" box.
 
-![Easy, isn't it?](http://comfy.moe/xzrrzi.png)
+![Easy, isn't it?](https://i.imgur.com/OZosjnv.png)
 
 <div id='section-id-147'/>
 
@@ -196,7 +196,7 @@ Then, go to the Miscellaneous tab, and paste "LANG="ja\_JP.UTF-8" in the "comman
 
 Some tiling WMs, like i3 or bspwm, may alter the window, making it impossible to play or kind of ugly. To fix this, we're going to run the program in a virtual desktop. Open the configuration window in POL, go in the "Wine" tab, and click on "Configure Wine". Then, go to "Graphics, and click on "Emulate a virtual desktop".
 
-![bspwm fucks up wine windows, for example](https://a.cocaine.ninja/vevrcs.png)
+![bspwm fucks up wine windows, for example](https://i.imgur.com/8TR4LDQ.png)
 
 In this virtual desktop, the application should render correctly.
 
