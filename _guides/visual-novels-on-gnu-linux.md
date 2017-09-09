@@ -25,6 +25,7 @@ So you've finally switched to linux, and now you're eager to play some of your m
       - [I need to launch my game in a japanese locale!](#section-id-121)
       - [My window manager / desktop environment is fucking up the dimensions of the program!](#section-id-132)
       - [I need to access the hard drive. How do I open it in my file manager?](#section-id-147)
+      - [My game crashes when starting / when attempting to display a dialog box!](#section-id-148)
   - [Contact](#section-id-151)
  
 <div id='section-id-9'/>
@@ -183,6 +184,13 @@ In this virtual desktop, the application should render correctly.
 #### I need to access the hard drive. How do I open it in my file manager?
 
 Open the configuration window in POL, go in the "Miscellaneous" tab, and click on "Open virtual drive's directory". In the file manager window that opens, navigate to the `drive_c` folder. This is the root of the virtual drive.
+
+<div id='section-id-148'/>
+
+#### My game crashes when starting / when attempting to display a dialog box!
+
+It may be because of missing MS Gothic / Mincho fonts. Some visual novels require them but don't necessarily take care to provide the files if they don't exist. Download these two files: [file 1](https://comfy.moe/vrqxtk.ttc), [file 2](https://comfy.moe/fqutxr.ttc), and rename them respectively `msgothic.ttc` and `msmincho.ttc`. Afterwards, move the two files in the `drive_c/windows/Fonts` folder (check the question above if you don't know how to do that). This should normally resolve the issue.
+
 
 <div id='section-id-151'/>
 
