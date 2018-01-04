@@ -2,9 +2,9 @@
 title: Friendly GNU/Linux Thread/Website
 email: tyil@scriptkitties.church
 description: > # this means to ignore newlines until "baseurl:"
-  Nondescript
+  The Friendly GNU/Linux Thread/Website, for all your GNU+Linux questions
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://fglt.nl" # the base hostname & protocol for your site
+url: "https://fglt.nl" # the base hostname & protocol for your site
 
 # build settings
 markdown: redcarpet
@@ -20,6 +20,7 @@ redcarpet:
 
 # custom collections
 collections:
+  pages:
+    output: true
   guides:
     output: true
-
