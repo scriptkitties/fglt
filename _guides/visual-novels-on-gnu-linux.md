@@ -196,4 +196,4 @@ It may be because of missing MS Gothic / Mincho fonts. Some visual novels requir
 
 ## Contact
 
-If you have anything to add to this guide (or want to correct something I said), query apt-get on IRC. I'm on Rizon, freenode, and SynIRC. My e-mail address is ![email](https://apt-get.xyz/assets/mail.png).
+If you have anything to add to this guide (or want to correct something I said), query apt-get on IRC. I'm on Rizon and Freenode. My e-mail address is ![email](https://apt-get.xyz/assets/mail.png).
