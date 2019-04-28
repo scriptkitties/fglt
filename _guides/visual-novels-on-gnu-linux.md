@@ -82,7 +82,7 @@ Everything should install relatively quickly. After the installation finishes, y
 
 We're gonna install LAVFilters. It is often necessary to play videos in some VNs (TYPE-MOON's, for example). I know it may seem redundant along with ffdshow, but I've encountered games which needed both.
 
-[Download the latest exe from here](https://github.com/Nevcairiel/LAVFilters/releases), and select it in the PlayOnLinux installation window. Just keep clicking next.
+[Download v0.70.2](https://github.com/Nevcairiel/LAVFilters/releases/tag/0.70.2) (the last one supporting winXP, which is what our wineprefix targets), and select it in the PlayOnLinux installation window. Just keep clicking next.
 
 Afterwards, PlayOnLinux will show this window:
 
@@ -196,4 +196,4 @@ It may be because of missing MS Gothic / Mincho fonts. Some visual novels requir
 
 ## Contact
 
-If you have anything to add to this guide (or want to correct something I said), query apt-get on IRC. I'm on Rizon, freenode, and SynIRC. My e-mail address is aptget (at) cock (dot) lu.
+If you have anything to add to this guide (or want to correct something I said), query apt-get on IRC. I'm on Rizon, freenode, and SynIRC. My e-mail address is ![email](https://apt-get.xyz/assets/mail.png).
