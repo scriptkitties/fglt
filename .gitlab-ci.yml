@@ -1,0 +1,30 @@
+stages:
+  - build
+  - push
+
+build:
+  stage: build
+  image: ruby:latest
+  before_script:
+    - bundle install
+  script:
+    - bundle exec jekyll build
+  artifacts:
+    paths:
+      - _site
+
+push:
+  stage: push
+  only:
+    - master
+  image: docker:stable
+  services:
+    - docker:dind
+  variables:
+    DOCKER_HOST: tcp://docker:2375
+    DOCKER_DRIVER: overlay2
+  before_script:
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+  script:
+    - docker build -t $CI_REGISTRY_IMAGE:latest .
+    - docker push $CI_REGISTRY_IMAGE:latest
