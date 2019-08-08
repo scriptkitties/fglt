@@ -24,12 +24,8 @@ Understand that much of your software from Windows will be unavailable,
 although maybe WINE can make up for it.
 
 Check out the [IRC guide]({{ "irc.html" | prepend: site.baseurl }}) in case you
-want more real-time discussion.
-
-For any official announcements or appeals to staff, please join the [mailing
-list](https://ml.tyil.email/mailman/listinfo/fglt). If you are new to the
-concept of mailing lists, read the instructions on how to use it on the ML
-site.
+want more real-time discussion. FGLT also has it's own [instance on the
+Fediverse](https://soc.fglt.nl/)!
 
 Resources:
 
