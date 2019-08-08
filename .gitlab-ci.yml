@@ -2,7 +2,7 @@ stages:
   - build
   - push
 
-build:
+Build Docker image:
   stage: build
   image: ruby:latest
   before_script:
@@ -13,7 +13,7 @@ build:
     paths:
       - _site
 
-push:
+Push Docker image:
   stage: push
   only:
     - master
