@@ -21,7 +21,8 @@ Before asking, please search for answers to your questions in resources.
 Please be civil, notice the "**Friendly**" in every Friendly GNU/Linux Thread.
 
 Understand that much of your software from Windows will be unavailable,
-although maybe WINE can make up for it.
+although maybe [Wine](https://help.ubuntu.com/community/Wine) can make up for
+it.
 
 Check out the [IRC guide]({{ "irc.html" | prepend: site.baseurl }}) in case you
 want more real-time discussion. FGLT also has it's own [instance on the
