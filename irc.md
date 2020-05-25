@@ -44,3 +44,8 @@ connect to the IRC network.
   there is only losing</p>
   <footer><tt>ShadowM00n</tt>, 2019</footer>
 </blockquote>
+
+<blockquote>
+  <p>There are no human "races" we are all same you fucking racist</p>
+  <footer><tt>Falson</tt>, 2019</footer>
+</blockquote>
