@@ -61,3 +61,9 @@ connect to the IRC network.
   except with incendiary rounds</p>
   <footer><tt>kline</tt>, 2020, in reply to the above</footer>
 </blockquote>
+
+<blockquote>
+  <p>this place is just shit. asking if a piece of shit is left wing or right
+  wing is just a weird look</p>
+  <footer><tt>samcv</tt>, 2020</footer>
+</blockquote>
