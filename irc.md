@@ -40,6 +40,7 @@ connect to the IRC network.
 </blockquote>
 
 <blockquote>
-  <p>there is no winning </p>
+  <p>there is no winning<br>
+  there is only losing</p>
   <footer><tt>ShadowM00n</tt>, 2019</footer>
 </blockquote>
