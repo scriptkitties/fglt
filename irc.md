@@ -49,3 +49,9 @@ connect to the IRC network.
   <p>There are no human "races" we are all same you fucking racist</p>
   <footer><tt>Falson</tt>, 2019</footer>
 </blockquote>
+
+<blockquote>
+  <p>i'm now angry<br>
+  this is how this channel works</p>
+  <footer><tt>je\_suis\_libre</tt>, 2020</footer>
+</blockquote>
