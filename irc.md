@@ -55,3 +55,9 @@ connect to the IRC network.
   this is how this channel works</p>
   <footer><tt>je\_suis\_libre</tt>, 2020</footer>
 </blockquote>
+
+<blockquote>
+  <p>it's like nerd sniping<br>
+  except with incendiary rounds</p>
+  <footer><tt>kline</tt>, 2020, in reply to the above</footer>
+</blockquote>
