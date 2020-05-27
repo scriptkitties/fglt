@@ -5,21 +5,21 @@ layout: default
 
 ## Shell scripting
 - [The based GNU Bourne Again SHell](https://www.gnu.org/software/bash/)
-- [The community driven BASH wiki](http://wiki.bash-hackers.org/)
-- [The Grymoire - home for UNIX wizards](http://www.grymoire.com/Unix/index.html)
-- [Greg's (also known as GreyCat's) Bash FAQ](http://mywiki.wooledge.org/BashFAQ)
-- [Greg's (also known as GreyCat's) Bash Guide](http://mywiki.wooledge.org/BashGuide)
-- [Greg's (also known as GreyCat's) Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls)
-- [Pement SED guide](http://www.pement.org/sed/sed1line.txt)
-- [Pement AWK guide](http://www.pement.org/awk/awk1line.txt)
+- [The community driven BASH wiki](https://wiki.bash-hackers.org/)
+- [The Grymoire - home for UNIX wizards](https://www.grymoire.com/Unix/index.html)
+- [Greg's (also known as GreyCat's) Bash FAQ](https://mywiki.wooledge.org/BashFAQ)
+- [Greg's (also known as GreyCat's) Bash Guide](https://mywiki.wooledge.org/BashGuide)
+- [Greg's (also known as GreyCat's) Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
+- [Pement SED guide](https://www.pement.org/sed/sed1line.txt)
+- [Pement AWK guide](https://www.pement.org/awk/awk1line.txt)
 - [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 - [The Linux Command Line - A Book By William Shotts](http://linuxcommand.org/tlcl.php)
-- [Interesting, useful and dangerous one-liners](http://www.commandlinefu.com/)
-- [Great online (and offline) linting tool](http://www.shellcheck.net/)
-- [Know what you are doing](http://explainshell.com/)
-- [drobbin's Awk by example](http://www.funtoo.org/Awk_by_Example,_Part_1)
-- [drobbin's Bash by example](http://www.funtoo.org/Bash_by_Example,_Part_1)
-- [drobbin's Sed by example](http://www.funtoo.org/Sed_by_Example,_Part_1)
+- [Interesting, useful and dangerous one-liners](https://www.commandlinefu.com/)
+- [Great online (and offline) linting tool](https://www.shellcheck.net/)
+- [Know what you are doing](https://explainshell.com/)
+- [drobbin's Awk by example](https://www.funtoo.org/Awk_by_Example,_Part_1)
+- [drobbin's Bash by example](https://www.funtoo.org/Bash_by_Example,_Part_1)
+- [drobbin's Sed by example](https://www.funtoo.org/Sed_by_Example,_Part_1)
 
 ## Fonts
 - [General informations](https://wiki.archlinux.org/index.php/Fonts)
@@ -36,7 +36,7 @@ fc-cache -v -f
 ```
 
 - [Fonts patched with shitloads of icon glyphs](https://github.com/ryanoasis/nerd-fonts)
-- [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/)
+- [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/)
 - [Premade fontconfigs](https://wiki.archlinux.org/index.php/Infinality)
 - [Configure your own fontconfig](https://wiki.archlinux.org/index.php/Font_configuration)
 - [Read the documentation](file:///usr/share/doc/fontconfig/fontconfig-user.html)
@@ -55,9 +55,9 @@ fc-cache -v -f
 ### Tiling scripts
 These work DE/WM independent
 
-- [Pytyle](http://sourceforge.net/projects/pytyle/)
+- [Pytyle](https://sourceforge.net/projects/pytyle/)
 - [Pytyle2](https://code.google.com/p/pytyle/)
 - [Pytyle3](https://github.com/BurntSushi/pytyle3/)
 - [Pytyle differences](https://bbs.archlinux.org/viewtopic.php?pid=1058199#p1058199)
-- [Horsefuckers tiling BASH scripts](http://twily.info/scripts/tiling/)
+- [Horsefuckers tiling BASH scripts](https://twily.info/scripts/tiling/)
 
