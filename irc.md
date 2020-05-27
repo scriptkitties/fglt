@@ -23,47 +23,39 @@ connect to the IRC network.
 
 ## Shit `#sqt` says
 
-<blockquote>
-  <p>the only time you scored above average on your tests was the chromosome
-  count you fucking mongoloid</p>
-  <footer><tt>kline</tt>, 2019-08-20</footer>
-</blockquote>
+> the only time you scored above average on your tests was the chromosome count
+> you fucking mongoloid  
 
-<blockquote>
-  <p>i had to sign my spoon back in at the end of training, sadly</p>
-  <footer><tt>kline</tt>, 2019-08-19</footer>
-</blockquote>
+—kline, 2019-08-20
 
-<blockquote>
-  <p>I only acknowledge things that fit my narrative to be upset</p>
-  <footer><tt>tyil</tt>, 2019</footer>
-</blockquote>
+> i had to sign my spoon back in at the end of training, sadly  
 
-<blockquote>
-  <p>there is no winning<br>
-  there is only losing</p>
-  <footer><tt>ShadowM00n</tt>, 2019</footer>
-</blockquote>
+—kline, 2019-08-19
 
-<blockquote>
-  <p>There are no human "races" we are all same you fucking racist</p>
-  <footer><tt>Falson</tt>, 2019</footer>
-</blockquote>
+> I only acknowledge things that fit my narrative to be upset  
 
-<blockquote>
-  <p>i'm now angry<br>
-  this is how this channel works</p>
-  <footer><tt>je\_suis\_libre</tt>, 2020</footer>
-</blockquote>
+—tyil, 2019
 
-<blockquote>
-  <p>it's like nerd sniping<br>
-  except with incendiary rounds</p>
-  <footer><tt>kline</tt>, 2020, in reply to the above</footer>
-</blockquote>
+> there is no winning  
+> there is only losing  
 
-<blockquote>
-  <p>this place is just shit. asking if a piece of shit is left wing or right
-  wing is just a weird look</p>
-  <footer><tt>samcv</tt>, 2020</footer>
-</blockquote>
+—ShadowM00n, 2019
+
+> There are no human "races" we are all same you fucking racist  
+
+—Falson, 2019
+
+> i'm now angry  
+> this is how this channel works  
+
+—je\_suis\_libre, 2020
+
+> it's like nerd sniping  
+> except with incendiary rounds  
+
+—kline, in reply to the above
+
+> this place is just shit. asking if a piece of shit is left wing or right wing
+> is just a weird look  
+
+—samcv, 2020
