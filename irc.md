@@ -59,3 +59,7 @@ connect to the IRC network.
 > is just a weird look  
 
 —samcv, 2020
+
+> bro i just type `apt install x` and it works lol  
+
+—tesla_, 2020
