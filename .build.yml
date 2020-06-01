@@ -1,0 +1,22 @@
+image: alpine/latest
+sources:
+  - https://git.sr.ht/~tyil/www-fglt.nl
+packages:
+  - docker
+  - ruby-bundler
+  - ruby-dev
+secrets:
+  - 4577a183-953e-4612-a48b-e48c4c4763c9
+tasks:
+  - prepare: |
+      sudo rc-service docker start
+  - build: |
+      cd www-fglt.nl
+      bundle install
+      bundle exec jekyll build
+      sudo docker build -t tyil/www-fglt.nl:ci-$JOB_ID .
+  - publish-quay: |
+      COMMIT="$(git -C www-fglt.nl/ rev-parse HEAD)"
+      sudo cp -r ~/.docker ~root/.
+      sudo docker tag tyil/www-fglt.nl:ci-$JOB_ID quay.io/tyil/www-fglt.nl:git-$COMMIT 
+      sudo docker push quay.io/tyil/www-fglt.nl:git-$COMMIT
