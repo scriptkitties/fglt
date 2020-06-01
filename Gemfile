@@ -1,4 +1,5 @@
 source "https://rubygems.org" do
 	gem "jekyll"
-	gem "redcarpet"
+	gem "json"
+	gem "bigdecimal"
 end
