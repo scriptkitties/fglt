@@ -67,3 +67,7 @@ connect to the IRC network.
 > it's 2020, you can be gay even if you didn't see twilight
 
 —Wotac, 2020-06-01
+
+> I have no idea what I'm doing, and it kind of makes me mad.
+
+-ShadowM00n, 2020-06-01
