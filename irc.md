@@ -37,7 +37,7 @@ connect to the IRC network.
 —tyil, 2019
 
 > there is no winning  
-> there is only losing  
+> only less losing
 
 —ShadowM00n, 2019
 
