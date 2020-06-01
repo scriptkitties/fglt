@@ -20,3 +20,5 @@ tasks:
       sudo cp -r ~/.docker ~root/.
       sudo docker tag tyil/www-fglt.nl:ci-$JOB_ID quay.io/tyil/www-fglt.nl:git-$COMMIT 
       sudo docker push quay.io/tyil/www-fglt.nl:git-$COMMIT
+      sudo docker tag tyil/www-fglt.nl:ci-$JOB_ID quay.io/tyil/www-fglt.nl:latest
+      sudo docker push quay.io/tyil/www-fglt.nl:latest
