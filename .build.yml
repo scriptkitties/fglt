@@ -9,16 +9,22 @@ secrets:
   - 4577a183-953e-4612-a48b-e48c4c4763c9
 tasks:
   - prepare: |
+      sudo mkdir -p /etc/docker
+      cat <<-EOF > /tmp/dockerd.json
+      {
+        "group": "build"
+      }
+      EOF
+      sudo mv /tmp/dockerd.json /etc/docker/daemon.json
       sudo rc-service docker start
   - build: |
       cd www-fglt.nl
       bundle install
       bundle exec jekyll build
-      sudo docker build -t tyil/www-fglt.nl:ci-$JOB_ID .
+      docker build -t tyil/www-fglt.nl:ci-$JOB_ID .
   - publish-quay: |
       COMMIT="$(git -C www-fglt.nl/ rev-parse HEAD)"
-      sudo cp -r ~/.docker ~root/.
-      sudo docker tag tyil/www-fglt.nl:ci-$JOB_ID quay.io/tyil/www-fglt.nl:git-$COMMIT 
-      sudo docker push quay.io/tyil/www-fglt.nl:git-$COMMIT
-      sudo docker tag tyil/www-fglt.nl:ci-$JOB_ID quay.io/tyil/www-fglt.nl:latest
-      sudo docker push quay.io/tyil/www-fglt.nl:latest
+      docker tag tyil/www-fglt.nl:ci-$JOB_ID quay.io/tyil/www-fglt.nl:git-$COMMIT 
+      docker push quay.io/tyil/www-fglt.nl:git-$COMMIT
+      docker tag tyil/www-fglt.nl:ci-$JOB_ID quay.io/tyil/www-fglt.nl:latest
+      docker push quay.io/tyil/www-fglt.nl:latest
