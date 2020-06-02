@@ -62,7 +62,7 @@ connect to the IRC network.
 
 > bro i just type `apt install x` and it works lol  
 
-—tesla_, 2020-05-28
+—tesla\_, 2020-05-28
 
 > it's 2020, you can be gay even if you didn't see twilight
 
