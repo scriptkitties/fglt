@@ -70,4 +70,4 @@ connect to the IRC network.
 
 > I have no idea what I'm doing, and it kind of makes me mad.
 
--ShadowM00n, 2020-06-01
+—ShadowM00n, 2020-06-01
