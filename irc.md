@@ -53,3 +53,11 @@ connect to the IRC network.
 
 > &lt;ShadowM00n&gt; I have no idea what I'm doing, and it kind of makes me
 > mad.  
+
+> &lt;tejr&gt; Time to count who talks the most in #sqt  
+> …  
+> &lt;tejr&gt; ahaha tyil you are first by a huge margin  
+> &lt;tejr&gt; It's not even close  
+> &lt;tejr&gt; But, guess who's second  
+> &lt;tyil&gt; hitler?  
+> &lt;Wotac&gt; no that's third  
