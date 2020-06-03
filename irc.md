@@ -61,3 +61,7 @@ connect to the IRC network.
 > &lt;tejr&gt; But, guess who's second  
 > &lt;tyil&gt; hitler?  
 > &lt;Wotac&gt; no that's third  
+
+> &lt;Dwarf&gt; imagine being American lmao  
+> &lt;tyil&gt; I'd rather not  
+> &lt;Wotac&gt; i think my imaginary self got shot immediately  
