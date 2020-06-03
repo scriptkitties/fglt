@@ -112,12 +112,3 @@ img {
 html {
 	overflow-y: scroll;
 }
-
-/* attribution for quotes */
-main blockquote {
-	margin: 1em 0 0 0;
-}
-main blockquote + p {
-	font-style: italic;
-	margin: 0 0 1em 26px;
-}
