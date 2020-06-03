@@ -30,7 +30,7 @@ connect to the IRC network.
 
 > &lt;kline&gt; i had to sign my spoon back in at the end of training, sadly  
 
-> &lt;tyil&gt;I only acknowledge things that fit my narrative to be upset  
+> &lt;tyil&gt; I only acknowledge things that fit my narrative to be upset  
 
 > &lt;ShadowM00n&gt; there is no winning  
 > &lt;ShadowM00n&gt; only less losing  
