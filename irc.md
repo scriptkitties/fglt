@@ -25,19 +25,19 @@ connect to the IRC network.
 
 ### 2017
 
-> &lt;tejr&gt; i have been writing vim plugins
-> &lt;tejr&gt; hel!!
-> &lt;tejr&gt; s/l/lp/
-> &lt;ShadowM00n&gt; and lo', he happen'd upon a vision
-> &lt;tejr&gt; sir i perceive by this editor in my hand that i am condemned to configure and thence write pluggins and i find myself afraid to do the former and unable to do the latter
-> &lt;ShadowM00n&gt; why not willing to configure, since this editor is attended to by so many options?
-> &lt;tejr&gt; because i fear this ad-hoc, byzantine scripting language will sink me lower than the grave, and i shall fall into Topkek
+> &lt;tejr&gt; i have been writing vim plugins  
+> &lt;tejr&gt; hel!!  
+> &lt;tejr&gt; s/l/lp/  
+> &lt;ShadowM00n&gt; and lo', he happen'd upon a vision  
+> &lt;tejr&gt; sir i perceive by this editor in my hand that i am condemned to configure and thence write pluggins and i find myself afraid to do the former and unable to do the latter  
+> &lt;ShadowM00n&gt; why not willing to configure, since this editor is attended to by so many options?  
+> &lt;tejr&gt; because i fear this ad-hoc, byzantine scripting language will sink me lower than the grave, and i shall fall into Topkek  
 
 ### 2019
 
-> &lt;tyil&gt; Dwarf: There’s big penises and there’s small penises, but the best penis of all...
-> &lt;tyil&gt; is happenis
-> &lt;Dwarf&gt; aw
+> &lt;tyil&gt; Dwarf: There’s big penises and there’s small penises, but the best penis of all...  
+> &lt;tyil&gt; is happenis  
+> &lt;Dwarf&gt; aw  
 
 > &lt;kline&gt; the only time you scored above average on your tests was the
 > chromosome count you fucking mongoloid  
@@ -53,16 +53,16 @@ connect to the IRC network.
 
 ### 2020
 
-> &lt;ProtoMan&gt; herbstluftwm finally got proper floating windows, I have the perfect tiling wm now
-> &lt;tyil&gt; nice
-> &lt;tyil&gt; only took them like 10 years
-> &lt;ProtoMan&gt; remind me what you've done in the past 10 years?
-> &lt;tyil&gt; install gentoo
+> &lt;ProtoMan&gt; herbstluftwm finally got proper floating windows, I have the perfect tiling wm now  
+> &lt;tyil&gt; nice  
+> &lt;tyil&gt; only took them like 10 years  
+> &lt;ProtoMan&gt; remind me what you've done in the past 10 years?  
+> &lt;tyil&gt; install gentoo  
 
-> &lt;kline&gt; just wanna say fuck mikrotik
-> &lt;Dwarf&gt; i identify as a mikrotik router and I find this offensive
-> &lt;Wotac&gt; i identify as TCP and i didn't really get that
-> &lt;Dwarf&gt; ACK
+> &lt;kline&gt; just wanna say fuck mikrotik  
+> &lt;Dwarf&gt; i identify as a mikrotik router and I find this offensive  
+> &lt;Wotac&gt; i identify as TCP and i didn't really get that  
+> &lt;Dwarf&gt; ACK  
 
 > &lt;je\_suis\_libre&gt; i'm now angry  
 > &lt;je\_suis\_libre&gt; this is how this channel works  
