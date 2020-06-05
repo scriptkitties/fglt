@@ -90,3 +90,21 @@ connect to the IRC network.
 > &lt;Dwarf&gt; imagine being American lmao  
 > &lt;tyil&gt; I'd rather not  
 > &lt;Wotac&gt; i think my imaginary self got shot immediately  
+
+> &lt;kline&gt; hey man i know lots of poorly adjusted but technically capable people :^)  
+
+> &lt;leonardus&gt; i dont think .wang can be registered  
+> &lt;tejr&gt; It can!  
+> &lt;leonardus&gt; where?  
+> &lt;ShadowM00n&gt; internet  
+> &lt;leonardus&gt; oh, of course  
+
+> &lt;tejr&gt; The whole reason I come in here is so I can take the mask off and shriek autistically at things  
+> &lt;ShadowM00n&gt; which is why we keep mistaking him for tyil  
+
+> &lt;Wotac&gt; i'm not an expert on this but i'm under the impression that suicide is very often a thought there  
+> &lt;tyil&gt; same  
+> &lt;tyil&gt; whenever I switch to this buffer, really  
+
+> &lt;tejr&gt; Now why the fuck do you think I would know what any of this weeb shit means tyil  
+> &lt;tyil&gt; haha tejr go reee  
