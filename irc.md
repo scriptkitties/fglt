@@ -73,3 +73,6 @@ connect to the IRC network.
 > &lt;leonardus&gt; where?  
 > &lt;ShadowM00n&gt; internet  
 > &lt;leonardus&gt; oh, of course  
+
+> &lt;tejr&gt; The whole reason I come in here is so I can take the mask off and shriek autistically at things  
+> &lt;ShadowM00n&gt; which is why we keep mistaking him for tyil  
