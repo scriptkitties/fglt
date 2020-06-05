@@ -67,3 +67,9 @@ connect to the IRC network.
 > &lt;Wotac&gt; i think my imaginary self got shot immediately  
 
 > &lt;kline&gt; hey man i know lots of poorly adjusted but technically capable people :^)  
+
+> &lt;leonardus&gt; i dont think .wang can be registered  
+> &lt;tejr&gt; It can!  
+> &lt;leonardus&gt; where?  
+> &lt;ShadowM00n&gt; internet  
+> &lt;leonardus&gt; oh, of course  
