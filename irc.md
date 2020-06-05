@@ -65,3 +65,5 @@ connect to the IRC network.
 > &lt;Dwarf&gt; imagine being American lmao  
 > &lt;tyil&gt; I'd rather not  
 > &lt;Wotac&gt; i think my imaginary self got shot immediately  
+
+> &lt;kline&gt; hey man i know lots of poorly adjusted but technically capable people :^)  
