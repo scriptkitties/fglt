@@ -76,3 +76,7 @@ connect to the IRC network.
 
 > &lt;tejr&gt; The whole reason I come in here is so I can take the mask off and shriek autistically at things  
 > &lt;ShadowM00n&gt; which is why we keep mistaking him for tyil  
+
+> &lt;Wotac&gt; i'm not an expert on this but i'm under the impression that suicide is very often a thought there  
+> &lt;tyil&gt; same  
+> &lt;tyil&gt; whenever I switch to this buffer, really  
