@@ -80,3 +80,6 @@ connect to the IRC network.
 > &lt;Wotac&gt; i'm not an expert on this but i'm under the impression that suicide is very often a thought there  
 > &lt;tyil&gt; same  
 > &lt;tyil&gt; whenever I switch to this buffer, really  
+
+> &lt;tejr&gt; Now why the fuck do you think I would know what any of this weeb shit means tyil  
+> &lt;tyil&gt; haha tejr go reee  
