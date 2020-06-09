@@ -124,6 +124,11 @@ a, a:hover {
 	color: #dd9769;
 }
 code, pre {
-	background-color: #1d2b37;
+	background-color: #233546;
 	color: inherit;
+}
+
+/* Distinguish blockquote backgrounds just a little */
+blockquote {
+	background-color: #233546;
 }
