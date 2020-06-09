@@ -40,4 +40,3 @@ Resources:
 - <http://linuxcommand.org/tlcl.php>
 - More resources (formerly found in the pastas) on the [Resources page]({{
   "resources.html" | prepend: site.baseurl }})
-
