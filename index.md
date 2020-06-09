@@ -30,7 +30,10 @@ Fediverse](https://soc.fglt.nl/)!
 
 Resources:
 
-- `man <insert command here>`
+- Bundled help and manual pages:
+	- `man <insert command here>`
+	- `help <insert command here>`
+	- `<insert command here> --help`
 - Your friendly neighborhood search engine (searx.me, ixquick, whatever)
 - <https://wiki.archlinux.org/> (Most of the configurations and troubleshoots
   will work on various distros, including Debian)
