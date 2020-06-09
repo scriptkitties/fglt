@@ -31,9 +31,9 @@ Fediverse](https://soc.fglt.nl/)!
 Resources:
 
 - Bundled help and manual pages:
-	- `man <insert command here>`
-	- `help <insert command here>`
-	- `<insert command here> --help`
+	- `$ man <insert command here>`
+	- `$ help <insert command here>`
+	- `$ <insert command here> --help`
 - Your friendly neighborhood search engine:
 	- [DuckDuckGo](https://duckduckgo.com/)
 	- [StartPage](https://www.startpage.com/)
