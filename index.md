@@ -44,7 +44,7 @@ are most welcome to join and shitp—err, *converse* with us.
 - Your friendly neighborhood search engine:
 	- [DuckDuckGo](https://duckduckgo.com/)
 	- [StartPage](https://www.startpage.com/)
-	- [searx.me](https://searx.space/)
+	- [Searx](https://searx.tyil.nl/)
 - <https://wiki.archlinux.org/> (Most of the configurations and troubleshoots
   will work on various distros, including Debian)
 - <https://wiki.installgentoo.com/index.php/Category:GNU/Linux>
