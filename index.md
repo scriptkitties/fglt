@@ -32,12 +32,12 @@ Resources:
 
 - `man` &lt;insert command here&gt;
 - Your friendly neighborhood search engine (searx.me, ixquick, whatever)
-- https://wiki.archlinux.org/ (Most of the configurations and troubleshoots
+- <https://wiki.archlinux.org/> (Most of the configurations and troubleshoots
   will work on various distros, including Debian)
-- https://wiki.installgentoo.com/index.php/Category:GNU/Linux
-- https://wiki.installgentoo.com/index.php/Babbies_First_Linux
-- https://prism-break.org/en/categories/gnu-linux/
-- http://linuxcommand.org/tlcl.php
+- <https://wiki.installgentoo.com/index.php/Category:GNU/Linux>
+- <https://wiki.installgentoo.com/index.php/Babbies_First_Linux>
+- <https://prism-break.org/en/categories/gnu-linux/>
+- <http://linuxcommand.org/tlcl.php>
 - More resources (formerly found in the pastas) on the [Resources page]({{
   "resources.html" | prepend: site.baseurl }})
 
