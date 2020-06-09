@@ -147,15 +147,15 @@ added by sending in a MR on the repository.
 [debian]: https://www.debian.org/
 [fedora]: https://getfedora.org/
 [freebsd]: https://www.freebsd.org/
-[funtoo]: http://www.funtoo.org/Welcome
+[funtoo]: https://www.funtoo.org/Welcome
 [gentoo]: https://www.gentoo.org/
-[lubuntu]: http://lubuntu.me/
+[lubuntu]: https://lubuntu.me/
 [mageia]: https://www.mageia.org/en/
 [mint]: https://www.linuxmint.com/
-[openbsd]: http://www.openbsd.org/
+[openbsd]: https://www.openbsd.org/
 [opensuse]: https://www.opensuse.org/
 [parabola]: https://www.parabola.nu/
 [trisquel]: https://trisquel.info/
-[ubuntu]: http://www.ubuntu.com/
-[xubuntu]: http://xubuntu.org/
+[ubuntu]: https://ubuntu.com/
+[xubuntu]: https://xubuntu.org/
 
