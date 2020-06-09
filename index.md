@@ -34,7 +34,10 @@ Resources:
 	- `man <insert command here>`
 	- `help <insert command here>`
 	- `<insert command here> --help`
-- Your friendly neighborhood search engine (searx.me, ixquick, whatever)
+- Your friendly neighborhood search engine:
+	- [DuckDuckGo](https://duckduckgo.com/)
+	- [StartPage](https://www.startpage.com/)
+	- [searx.me](https://searx.space/)
 - <https://wiki.archlinux.org/> (Most of the configurations and troubleshoots
   will work on various distros, including Debian)
 - <https://wiki.installgentoo.com/index.php/Category:GNU/Linux>
