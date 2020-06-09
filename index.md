@@ -30,7 +30,7 @@ Fediverse](https://soc.fglt.nl/)!
 
 Resources:
 
-- `man` &lt;insert command here&gt;
+- `man <insert command here>`
 - Your friendly neighborhood search engine (searx.me, ixquick, whatever)
 - <https://wiki.archlinux.org/> (Most of the configurations and troubleshoots
   will work on various distros, including Debian)
