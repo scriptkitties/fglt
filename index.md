@@ -8,13 +8,13 @@ levels, including absolute beginners.
 
 There are four ways to try GNU/Linux, you can:
 
-0. Install a GNU/Linux OS on a VM (Virtual Machine/VirtualBox) for "safety
+1. Install a GNU/Linux OS on a VM (Virtual Machine/VirtualBox) for "safety
    purposes"
-1. Use the Live ISO directly without installing anything, that way, you can get
+2. Use the Live ISO directly without installing anything, that way, you can get
    a "full GNU/Linux experience".
-2. Dual-boot GNU/Linux with Windows/Mac (recommended if you want to learn more
+3. Dual-boot GNU/Linux with Windows/Mac (recommended if you want to learn more
    about GNU/Linux)
-3. Go balls deep and overwrite everything with GNU/Linux
+4. Go balls deep and overwrite everything with GNU/Linux
 
 Before asking, please search for answers to your questions in resources.
 
