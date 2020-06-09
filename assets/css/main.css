@@ -127,3 +127,8 @@ code, pre {
 	background-color: #233546;
 	color: inherit;
 }
+
+/* Distinguish blockquote backgrounds just a little */
+blockquote {
+	background-color: #233546;
+}
