@@ -117,3 +117,13 @@ img {
 html {
 	overflow-y: scroll;
 }
+
+/* Wash out the colors in the links and code blocks to avoid the contrast
+ * making things hard to read */
+a, a:hover {
+	color: #dd9769;
+}
+code, pre {
+	background-color: #1d2b37;
+	color: inherit;
+}
