@@ -41,10 +41,6 @@ a graphical installer and the default UI is pretty similar to Windows.
 The server release provides netinstall images in which you can choose what is
 installed at installation time like many other netinstall distros like Ubuntu.
 
-#### [Funtoo][funtoo]
-A spin-off from [Gentoo][gentoo]. Funtoo is against systemd, and uses OpenRC
-instead. Other than that, it is pretty similar to Gentoo nowadays.
-
 #### [Gentoo][gentoo]
 Gentoo is often hailed as the go-to distribution if you want to customize
 **everything**. It has an advanced package system that uses so-called **USE
@@ -147,7 +143,6 @@ added by sending in a MR on the repository.
 [debian]: https://www.debian.org/
 [fedora]: https://getfedora.org/
 [freebsd]: https://www.freebsd.org/
-[funtoo]: https://www.funtoo.org/Welcome
 [gentoo]: https://www.gentoo.org/
 [lubuntu]: https://lubuntu.me/
 [mageia]: https://www.mageia.org/en/
