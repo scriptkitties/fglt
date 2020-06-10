@@ -11,9 +11,9 @@ using GNU/Linux, even in `$CURRENT_YEAR`.  Just a little time invested in
 learning how to use shell script will pay off many times over.
 
 - [Greg/Greycat's Wiki](https://mywiki.wooledge.org/)
-    - [Bash Guide](https://mywiki.wooledge.org/BashGuide)—If you're unsure, *start here*!
-    - [Bash FAQ](https://mywiki.wooledge.org/BashFAQ)
-    - [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
+	- [Bash Guide](https://mywiki.wooledge.org/BashGuide)—If you're unsure, *start here*!
+	- [Bash FAQ](https://mywiki.wooledge.org/BashFAQ)
+	- [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
 - [GNU Bourne-Again SHell](https://www.gnu.org/software/bash/)—Official Bash site and documentation
 - [Bash Wiki](https://wiki.bash-hackers.org/)
 - [The Grymoire](https://www.grymoire.com/Unix/index.html)—<code>$HOME</code> for <span style="font-variant:small-caps;">Unix</span> wizards
@@ -23,12 +23,12 @@ learning how to use shell script will pay off many times over.
 - [ShellCheck](https://www.shellcheck.net/)—Great online (and offline) tool to look for common errors in shell script
 - [explainshell.com](https://explainshell.com/)—Get detail on how a line of cryptic shell script works
 - Eric Pement's guides:
-    - [sed guide](https://www.pement.org/sed/sed1line.txt)
-    - [AWK guide](https://www.pement.org/awk/awk1line.txt)
+	- [sed guide](https://www.pement.org/sed/sed1line.txt)
+	- [AWK guide](https://www.pement.org/awk/awk1line.txt)
 - Daniel "drobbin" Robbins' guides:
-    - [AWK by example](https://www.funtoo.org/Awk_by_Example,_Part_1)
-    - [Bash by example](https://www.funtoo.org/Bash_by_Example,_Part_1)
-    - [sed by example](https://www.funtoo.org/Sed_by_Example,_Part_1)
+	- [AWK by example](https://www.funtoo.org/Awk_by_Example,_Part_1)
+	- [Bash by example](https://www.funtoo.org/Bash_by_Example,_Part_1)
+	- [sed by example](https://www.funtoo.org/Sed_by_Example,_Part_1)
 
 ## Fonts
 - [General information](https://wiki.archlinux.org/index.php/Fonts)
