@@ -38,10 +38,10 @@ learning how to use shell script will pay off many times over.
 
 You may also need to enable bitmap fonts and rebuild the font cache:
 
-```
-rm -v /etc/fonts/conf.d/70-no-bitmaps.conf
-ln -s ../conf.avail/70-yes-bitmaps.conf .
-fc-cache -v -f
+```sh
+$ rm -v /etc/fonts/conf.d/70-no-bitmaps.conf
+$ ln -s ../conf.avail/70-yes-bitmaps.conf .
+$ fc-cache -v -f
 ```
 
 - [Fonts patched with shitloads of icon glyphs](https://github.com/ryanoasis/nerd-fonts)
