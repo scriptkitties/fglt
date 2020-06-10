@@ -33,8 +33,8 @@ learning how to use shell script will pay off many times over.
 ## Fonts
 - [General informations](https://wiki.archlinux.org/index.php/Fonts)
 - [Huge list of font resources](https://github.com/brabadu/awesome-fonts)
-- [List of monospaced fonts for programming](https://github.com/chrissimpkins/codeface)
-- [List of monospaced bitmap fonts for programming](https://github.com/Tecate/bitmap-fonts)
+- [List of monospace fonts for programming](https://github.com/chrissimpkins/codeface)
+- [List of monospace bitmap fonts for programming](https://github.com/Tecate/bitmap-fonts)
 
 You may also need to enable bitmap fonts and rebuild the font cache:
 
