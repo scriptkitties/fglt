@@ -6,8 +6,8 @@ layout: default
 
 ## Connection details
 
-* Server: chat.freenode.net
-* Port: 6697 for SSL, 6667 for plain
+* Server: [chat.freenode.net](https://freenode.net/kb/answer/chat)
+* Port: [6697 for secure](ircs://chat.freenode.net:6697), [6667 for cleartext](/assets/img/shiggy.jpg)
 * Channel: #sqt
 
 ## Connect now via webchat
@@ -25,7 +25,11 @@ connect to the IRC network.
 
 Please see [bots in #sqt](/irc/bots.html).
 
-## Shit `#sqt` says
+## Constantly <span style="color:green;">&gt;greentexting</span>/memeing/shit-talking
+
+![We don't do that here.](/assets/img/we-dont-do-that-here.jpg "We don't do that here.")
+
+## Shit #sqt says
 
 ### 2017
 
