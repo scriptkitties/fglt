@@ -25,7 +25,7 @@ learning how to use shell script will pay off many times over.
 - Eric Pement's "one-liner" compilations:
 	- [sed one-liners](https://www.pement.org/sed/sed1line.txt)
 	- [AWK one-liners](https://www.pement.org/awk/awk1line.txt)
-- Daniel "drobbin" Robbins' guides:
+- Daniel "drobbins" Robbins' guides:
 	- [AWK by example](https://www.funtoo.org/Awk_by_Example,_Part_1)
 	- [Bash by example](https://www.funtoo.org/Bash_by_Example,_Part_1)
 	- [sed by example](https://www.funtoo.org/Sed_by_Example,_Part_1)
