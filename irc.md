@@ -25,7 +25,7 @@ connect to the IRC network.
 
 Please see [bots in #sqt](/irc/bots.html).
 
-## Shit `#sqt` says
+## Shit #sqt says
 
 ### 2017
 
