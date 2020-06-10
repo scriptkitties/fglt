@@ -3,6 +3,7 @@ title: Picking a GNU+Linux distribution
 layout: guide
 authors: [
 	"Patrick 'tyil' Spek &lt;p.spek@tyil.work&gt;"
+	"ShadowM00n &lt;shadowm00n@airmail.cc&gt;"
 ]
 ---
 
@@ -97,6 +98,13 @@ The release cycles are incredibly slow, which is a good thing when going for
 stability in general. Before packages hit the stable repositories, they have
 been thoroughly tested to make sure that they won't break anything.
 
+#### [Devuan][devuan]
+Just as stable as Debian, because it (mostly) pulls from the same sources,
+Devuan's distinctiveness comes from their commitment to preserving "init
+freedom". As such, the primary user-facing changes are the removal of systemd
+and changing various packages to remove (or replace) systemd dependencies. They
+currently use the classical sysvinit by default.
+
 #### [Mageia][mageia]
 Due to their extensive QA testing before pushing new changes, the distro is
 really stable, yet doesn't use packages as outdated as Debian stable.
@@ -141,6 +149,7 @@ added by sending in a MR on the repository.
 
 [archlinux]: https://www.archlinux.org/
 [debian]: https://www.debian.org/
+[devuan]: https://www.devuan.org/
 [fedora]: https://getfedora.org/
 [freebsd]: https://www.freebsd.org/
 [gentoo]: https://www.gentoo.org/
