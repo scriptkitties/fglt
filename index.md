@@ -32,7 +32,7 @@ discussion.
 
 ## Fediverse (Pleroma, Mastodon, GNU Social, etc)
 
-FGLT also has [its own instance](https://soc.fglt.nl/) on the
+/fg/lt/ also has [its own instance](https://soc.fglt.nl/) on the
 [Fediverse](https://en.wikipedia.org/wiki/Fediverse).  You are most welcome to
 join and shitp—err, *converse* with us.
 
