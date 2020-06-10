@@ -6,7 +6,7 @@ layout: default
 
 ## Connection details
 
-* Server: chat.freenode.net
+* Server: [chat.freenode.net](https://freenode.net/kb/answer/chat)
 * Port: [6697 for secure](ircs://chat.freenode.net:6697), [6667 for cleartext](/assets/img/shiggy.jpg)
 * Channel: #sqt
 
