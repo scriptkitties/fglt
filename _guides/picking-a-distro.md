@@ -2,7 +2,7 @@
 title: Picking a GNU+Linux distribution
 layout: guide
 authors: [
-	"Patrick 'tyil' Spek &lt;p.spek@tyil.work&gt;"
+	"Patrick 'tyil' Spek &lt;p.spek@tyil.work&gt;",
 	"ShadowM00n &lt;shadowm00n@airmail.cc&gt;"
 ]
 ---
