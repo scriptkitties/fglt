@@ -31,8 +31,9 @@ discussion.
 
 ## Fediverse (Pleroma, Mastodon, GNU Social, etc)
 
-FGLT also has its own [instance on the Fediverse](https://soc.fglt.nl/).  You
-are most welcome to join and shitp—err, *converse* with us.
+FGLT also has [its own instance](https://soc.fglt.nl/) on the
+[Fediverse](https://en.wikipedia.org/wiki/Fediverse).  You are most welcome to
+join and shitp—err, *converse* with us.
 
 ## Getting help
 
