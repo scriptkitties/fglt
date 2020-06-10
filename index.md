@@ -1,4 +1,5 @@
 ---
+index: true
 layout: default
 ---
 
@@ -31,8 +32,9 @@ discussion.
 
 ## Fediverse (Pleroma, Mastodon, GNU Social, etc)
 
-FGLT also has its own [instance on the Fediverse](https://soc.fglt.nl/).  You
-are most welcome to join and shitp—err, *converse* with us.
+/fg/lt/ also has [its own instance](https://soc.fglt.nl/) on the
+[Fediverse](https://en.wikipedia.org/wiki/Fediverse).  You are most welcome to
+join and shitp—err, *converse* with us.
 
 ## Getting help
 
@@ -45,12 +47,16 @@ are most welcome to join and shitp—err, *converse* with us.
 	- [DuckDuckGo](https://duckduckgo.com/)
 	- [StartPage](https://www.startpage.com/)
 	- [Searx](https://searx.tyil.nl/)
-- <https://wiki.archlinux.org/> (Most of the configurations and troubleshoots
-  will work on various distros, including Debian)
-- <https://wiki.installgentoo.com/index.php/Category:GNU/Linux>
-- <https://wiki.installgentoo.com/index.php/Babbies_First_Linux>
-- <https://prism-break.org/en/categories/gnu-linux/>
-- <http://linuxcommand.org/tlcl.php>
+- [ArchWiki](https://wiki.archlinux.org/)—Community support wiki for Arch
+  Linux; most of the configuration and troubleshooting will also work on other
+  distributions.
+- [InstallGentoo Wiki](https://wiki.installgentoo.com/wiki/Main_Page)
+	- [Category:GNU/Linux](https://wiki.installgentoo.com/index.php/Category:GNU/Linux)
+	- [Babbies' First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)
+- [Prism Break: GNU/Linux](https://prism-break.org/en/categories/gnu-linux/)—Software
+  to avoid dragnet surveillance
+- [<cite>The Linux Command Line</cite>](http://linuxcommand.org/tlcl.php)—Site
+  for a book by William Shotts
 
-More resources (formerly found in the pastas) are available on the [resources
-page](/resources.html).
+More resources (formerly found in the pastas) are available on the
+[resources page](/resources.html).

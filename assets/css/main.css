@@ -5,6 +5,14 @@ body {
 	min-height: 100vh;
 }
 
+/* Header link is same color as plain text, so it works like a link but doesn't
+ * look like one unless hovered */
+header h1 a,
+header h1 a:hover,
+header h1 a:active {
+	color: inherit;
+}
+
 header #motto {
 	font-style: italic;
 	text-align: center;
