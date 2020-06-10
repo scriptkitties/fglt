@@ -7,7 +7,7 @@ layout: default
 ## Connection details
 
 * Server: chat.freenode.net
-* Port: 6697 for SSL, 6667 for plain
+* Port: [6697 for secure](ircs://chat.freenode.net:6697), [6667 for cleartext](/assets/img/shiggy.jpg)
 * Channel: #sqt
 
 ## Connect now via webchat
