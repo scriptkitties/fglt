@@ -22,9 +22,9 @@ learning how to use shell script will pay off many times over.
 - [commandlinefu.com](https://www.commandlinefu.com/)—Interesting, useful, and dangerous one-liners
 - [ShellCheck](https://www.shellcheck.net/)—Great online (and offline) tool to look for common errors in shell script
 - [explainshell.com](https://explainshell.com/)—Get detail on how a line of cryptic shell script works
-- Eric Pement's guides:
-	- [sed guide](https://www.pement.org/sed/sed1line.txt)
-	- [AWK guide](https://www.pement.org/awk/awk1line.txt)
+- Eric Pement's "one-liner" compilations:
+	- [sed one-liners](https://www.pement.org/sed/sed1line.txt)
+	- [AWK one-liners](https://www.pement.org/awk/awk1line.txt)
 - Daniel "drobbin" Robbins' guides:
 	- [AWK by example](https://www.funtoo.org/Awk_by_Example,_Part_1)
 	- [Bash by example](https://www.funtoo.org/Bash_by_Example,_Part_1)
