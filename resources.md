@@ -31,7 +31,7 @@ learning how to use shell script will pay off many times over.
     - [sed by example](https://www.funtoo.org/Sed_by_Example,_Part_1)
 
 ## Fonts
-- [General informations](https://wiki.archlinux.org/index.php/Fonts)
+- [General information](https://wiki.archlinux.org/index.php/Fonts)
 - [Huge list of font resources](https://github.com/brabadu/awesome-fonts)
 - [List of monospace fonts for programming](https://github.com/chrissimpkins/codeface)
 - [List of monospace bitmap fonts for programming](https://github.com/Tecate/bitmap-fonts)
