@@ -4,22 +4,31 @@ layout: default
 ---
 
 ## Shell scripting
-- [The based GNU Bourne Again SHell](https://www.gnu.org/software/bash/)
-- [The community driven BASH wiki](https://wiki.bash-hackers.org/)
-- [The Grymoire - home for UNIX wizards](https://www.grymoire.com/Unix/index.html)
-- [Greg's (also known as GreyCat's) Bash FAQ](https://mywiki.wooledge.org/BashFAQ)
-- [Greg's (also known as GreyCat's) Bash Guide](https://mywiki.wooledge.org/BashGuide)
-- [Greg's (also known as GreyCat's) Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
-- [Pement SED guide](https://www.pement.org/sed/sed1line.txt)
-- [Pement AWK guide](https://www.pement.org/awk/awk1line.txt)
-- [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
-- [The Linux Command Line - A Book By William Shotts](http://linuxcommand.org/tlcl.php)
-- [Interesting, useful and dangerous one-liners](https://www.commandlinefu.com/)
-- [Great online (and offline) linting tool](https://www.shellcheck.net/)
-- [Know what you are doing](https://explainshell.com/)
-- [drobbin's Awk by example](https://www.funtoo.org/Awk_by_Example,_Part_1)
-- [drobbin's Bash by example](https://www.funtoo.org/Bash_by_Example,_Part_1)
-- [drobbin's Sed by example](https://www.funtoo.org/Sed_by_Example,_Part_1)
+
+Bash is by far the most common flavor of shell script, but there are others.
+Knowing how to write at least basic shell script well is still essential for
+using GNU/Linux, even in `$CURRENT_YEAR`.  Just a little time invested in
+learning how to use shell script will pay off many times over.
+
+- [Greg/Greycat's Wiki](https://mywiki.wooledge.org/)
+    - [Bash Guide](https://mywiki.wooledge.org/BashGuide)—If you're unsure, *start here*!
+    - [Bash FAQ](https://mywiki.wooledge.org/BashFAQ)
+    - [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
+- [GNU Bourne-Again SHell](https://www.gnu.org/software/bash/)—Official Bash site and documentation
+- [Bash Wiki](https://wiki.bash-hackers.org/)
+- [The Grymoire](https://www.grymoire.com/Unix/index.html)—<code>$HOME</code> for <span style="font-variant:small-caps;">Unix</span> wizards
+- [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)—Google's coding guidelines for shell script
+- [<cite>The Linux Command Line</cite>](http://linuxcommand.org/tlcl.php)—Site for a book by William Shotts
+- [commandlinefu.com](https://www.commandlinefu.com/)—Interesting, useful, and dangerous one-liners
+- [ShellCheck](https://www.shellcheck.net/)—Great online (and offline) tool to look for common errors in shell script
+- [explainshell.com](https://explainshell.com/)—Get detail on how a line of cryptic shell script works
+- Eric Pement's guides:
+    - [sed guide](https://www.pement.org/sed/sed1line.txt)
+    - [AWK guide](https://www.pement.org/awk/awk1line.txt)
+- Daniel "drobbin" Robbins' guides:
+    - [AWK by example](https://www.funtoo.org/Awk_by_Example,_Part_1)
+    - [Bash by example](https://www.funtoo.org/Bash_by_Example,_Part_1)
+    - [sed by example](https://www.funtoo.org/Sed_by_Example,_Part_1)
 
 ## Fonts
 - [General informations](https://wiki.archlinux.org/index.php/Fonts)
