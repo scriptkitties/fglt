@@ -69,4 +69,3 @@ These work DE/WM independent
 - [Pytyle3](https://github.com/BurntSushi/pytyle3/)
 - [Pytyle differences](https://bbs.archlinux.org/viewtopic.php?pid=1058199#p1058199)
 - [Horsefuckers tiling BASH scripts](https://twily.info/scripts/tiling/)
-
