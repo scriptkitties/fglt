@@ -19,7 +19,7 @@ learning how to use shell script will pay off many times over.
 - [The Grymoire](https://www.grymoire.com/Unix/index.html)—<code>$HOME</code> for <span style="font-variant:small-caps;">Unix</span> wizards
 - [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)—Google's coding guidelines for shell script
 - [<cite>The Linux Command Line</cite>](http://linuxcommand.org/tlcl.php)—Site for a book by William Shotts
-- [commandlinefu.com](http://www.commandlinefu.com/commands/browse)—Interesting, useful, and dangerous one-liners
+- [commandlinefu.com](https://www.commandlinefu.com/commands/browse)—Interesting, useful, and dangerous one-liners
 - [ShellCheck](https://www.shellcheck.net/)—Great online (and offline) tool to look for common errors in shell script
 - [explainshell.com](https://explainshell.com/)—Get detail on how a line of cryptic shell script works
 - Eric Pement's "one-liner" compilations:
