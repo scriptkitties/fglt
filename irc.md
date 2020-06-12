@@ -127,4 +127,4 @@ Please see [bots in #sqt](/irc/bots.html).
 > shit means tyil  
 > &lt;tyil&gt; haha tejr go reee  
 
-> &lt;RTB64&gt; stop telling me what to use dude, Jesus
+> &lt;RTB64&gt; stop telling me what to use dude, Jesus  
