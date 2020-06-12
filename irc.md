@@ -126,3 +126,5 @@ Please see [bots in #sqt](/irc/bots.html).
 > &lt;tejr&gt; Now why the fuck do you think I would know what any of this weeb
 > shit means tyil  
 > &lt;tyil&gt; haha tejr go reee  
+
+> &lt;RTB64&gt; stop telling me what to use dude, Jesus
