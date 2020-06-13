@@ -12,9 +12,10 @@ layout: default
 	3. The bots will do said annoying things badly.
 2. The need for fixing the bots will be discussed periodically.
 	1. However, this will never actually happen (see Axiom 1.3).
-3. Ideas for developing useful bots will be discussed periodically.
+3. Ideas for developing useful features for the bots will be discussed
+   periodically.
 	1. However, this will never actually happen (see Axiom 1.1).
-4. Ideas for creating good, useful, new bots will be discussed periodically.
+4. Ideas for creating useful new bots will be discussed periodically.
 	1. However, this will never actually happen (see Axiom 1).
 5. The bot creators will consistently claim Axioms 1–4 are untrue.
 6. The bot creators will never remove their bots from the channel, on the basis
