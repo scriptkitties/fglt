@@ -140,3 +140,8 @@ code, pre {
 blockquote {
 	background-color: #233546;
 }
+
+/* Make deeper headings italic, just for some visual distinction */
+h3, h4, h5, h6 {
+	font-style: italic;
+}
