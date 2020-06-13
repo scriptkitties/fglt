@@ -30,6 +30,16 @@ learning how to use shell script will pay off many times over.
 	- [Bash by example](https://www.funtoo.org/Bash_by_Example,_Part_1)
 	- [sed by example](https://www.funtoo.org/Sed_by_Example,_Part_1)
 
+## Text editors
+
+### Vim
+
+- `$ vimtutor`—Do it!  You won't learn how to use Vim well by reading.  You need to *practice*, starting with the basics.
+- [IRC Style Tutorial](https://www.vi-improved.org/irc-style-tutorial/)—Follow along as an experienced Vim user walks a newbie through the basics
+- [Vim help files](https://vimhelp.org/)—`:help`, official documentation
+	- [User manual](https://vimhelp.org/usr_toc.txt.html#usr_toc.txt)—`:help user-manual`
+	- [Quick reference](https://vimhelp.org/quickref.txt.html#quickref)—`:help quick-reference`
+
 ## Fonts
 - [General information](https://wiki.archlinux.org/index.php/Fonts)
 - [Huge list of font resources](https://github.com/brabadu/awesome-fonts)
