@@ -128,3 +128,6 @@ Please see [bots in #sqt](/irc/bots.html).
 > &lt;tyil&gt; haha tejr go reee  
 
 > &lt;RTB64&gt; stop telling me what to use dude, Jesus  
+
+> &lt;tejr&gt; [I have no tools because I destroyed my tools with my tools](https://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)  
+> &lt;leonardus&gt; [https://usercontent.irccloud-cdn.com/file/TnHJigNj/image.png](/assets/img/tejrs-tools.jpg)  
