@@ -64,10 +64,11 @@ make to the site should be reflected in your browser after a refresh.
 
 #### Sharing your changes
 
-Follow the instructions on [git-sendmail.io](http://git-send-email.io/)
-relevant to your operating system to get set up with [`git-send-email`]().  We can't give generic instructions here, as
-how to do this depends on too many variables---chiefly your operating system
-and email provider.
+Follow the instructions on [git-send-email.io](http://git-send-email.io/)
+relevant to your operating system to get set up with
+[`git-send-email`](https://git-scm.com/docs/git-send-email).  We can't give
+generic instructions here, as how to do this depends on too many
+variables---chiefly your operating system and email provider.
 
 Then, assuming you've been working on `master`, do this:
 
