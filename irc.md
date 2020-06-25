@@ -131,3 +131,8 @@ Please see [bots in #sqt](/irc/bots.html).
 
 > &lt;tejr&gt; [I have no tools because I destroyed my tools with my tools](https://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)  
 > &lt;leonardus&gt; [https://usercontent.irccloud-cdn.com/file/TnHJigNj/image.png](/assets/img/tejrs-tools.jpg)  
+
+> &lt;Dwarf&gt; It's full of naked anime girls :(  
+> &lt;Dwarf&gt; And dudes dressed up as naked anime girls  
+> &lt;+ShadowM00n&gt; maybe you should leave  
+> &lt;Dwarf&gt; no :D  
