@@ -134,5 +134,5 @@ Please see [bots in #sqt](/irc/bots.html).
 
 > &lt;Dwarf&gt; It's full of naked anime girls :(  
 > &lt;Dwarf&gt; And dudes dressed up as naked anime girls  
-> &lt;+ShadowM00n&gt; maybe you should leave  
+> &lt;ShadowM00n&gt; maybe you should leave  
 > &lt;Dwarf&gt; no :D  
