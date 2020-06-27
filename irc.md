@@ -136,3 +136,20 @@ Please see [bots in #sqt](/irc/bots.html).
 > &lt;Dwarf&gt; And dudes dressed up as naked anime girls  
 > &lt;ShadowM00n&gt; maybe you should leave  
 > &lt;Dwarf&gt; no :D  
+
+> &lt;kyrio&gt; i run everything as root  
+> &lt;kyrio&gt; i install new things to run as root daily  
+> &lt;kyrio&gt; all my permissions are 777  
+> &lt;kyrio&gt; i use apache behind nginx behind lighttpd  
+> &lt;kyrio&gt; actually i use cloudflare between each one  
+> &lt;kyrio&gt; ssh is enabled at every level  
+> &lt;kyrio&gt; i run php exclusively  
+> &lt;kyrio&gt; i use discord and tiktok on my iphone  
+> &lt;kyrio&gt; i prefer templeos  
+> &lt;kyrio&gt; i only buy intel  
+> &lt;kyrio&gt; my favorite windows version was ME  
+> &lt;kyrio&gt; internet explorer 6.0 was the best version and modern browsers can't compete  
+> &lt;kyrio&gt; reddit is the best website  
+> &lt;kyrio&gt; it should be illegal to have sex with anyone under age 21  
+> &lt;kyrio&gt; there is nothing better in life that smoking some weed and watching cartoons about pickles on my ipad while i eat a bowl of fruit loops  
+> &lt;kyrio&gt; i had a special adapter case shaped like nintendo's mario made for me by someone on etsy. it holds the 7 adapters that i need to listen to music on my iphone while i charge it. it only cost me $733, which i thought was a really great deal!  
