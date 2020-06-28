@@ -153,3 +153,16 @@ Please see [bots in #sqt](/irc/bots.html).
 > &lt;kyrio&gt; it should be illegal to have sex with anyone under age 21  
 > &lt;kyrio&gt; there is nothing better in life that smoking some weed and watching cartoons about pickles on my ipad while i eat a bowl of fruit loops  
 > &lt;kyrio&gt; i had a special adapter case shaped like nintendo's mario made for me by someone on etsy. it holds the 7 adapters that i need to listen to music on my iphone while i charge it. it only cost me $733, which i thought was a really great deal!  
+
+> &lt;tyil&gt; how can I submit new genders to the gender database  
+> &lt;tyil&gt; I want perlgender to be a thing now  
+> &lt;tejr&gt; Perlgender people love having moustaches and wearing cowboy hats  
+> &lt;tyil&gt; they usually ramble in ways nobody outside the community can understand  
+> &lt;tyil&gt; outsiders refer to it as "linenoise"  
+> &lt;tejr&gt; They say shit like "chomp my hash" during sex  
+> &lt;tyil&gt; "oh yeah push your scalar into my list"  
+> &lt;tyil&gt; thats not illegal cuz she's an animation and I'm a human~  
+> &lt;tyil&gt; first name dora  
+> &lt;tyil&gt; last name FUCK  
+> &lt;tejr&gt; Another backpack, cuz I know you like to coordinate  
+> &lt;ProtoMan&gt; i've missed these high level conversations  
