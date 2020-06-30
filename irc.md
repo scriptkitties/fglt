@@ -25,10 +25,6 @@ connect to the IRC network.
 
 Please see [bots in #sqt](/irc/bots.html).
 
-## Constantly <span style="color:green;">&gt;greentexting</span>/memeing/shit-talking
-
-![We don't do that here.](/assets/img/we-dont-do-that-here.jpg "We don't do that here.")
-
 ## Shit #sqt says
 
 ### 2020
