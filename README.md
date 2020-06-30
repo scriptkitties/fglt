@@ -15,9 +15,7 @@ Mirrors of this repository can be found at the following locations:
 - https://gitlab.com/skitties/websites/fglt.nl
 - https://github.com/scriptkitties/fglt
 
-### Contributing
-
-#### Making a development copy
+### Making a development copy
 
 These instructions should work using Bash on a Linux-based OS, and maybe on
 BSD, too---not tested yet.  They're known to work on Debian.  They use rbenv
@@ -62,7 +60,7 @@ Run the development web server:
 You should then be able to browse to <http://127.0.0.1:4000/>, and changes you
 make to the site should be reflected in your browser after a refresh.
 
-#### Sharing your changes
+### Sharing your changes
 
 Follow the instructions on [git-send-email.io](http://git-send-email.io/)
 relevant to your operating system to get set up with
