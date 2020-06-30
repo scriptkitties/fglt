@@ -21,10 +21,6 @@ process of installing one differs per distribution. See your distribution's
 wiki for help on installing one, and using the connection details above to
 connect to the IRC network.
 
-## Bots
-
-Please see [bots in #sqt](/irc/bots.html).
-
 ## Shit #sqt says
 
 ### 2020
