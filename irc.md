@@ -31,40 +31,20 @@ Please see [bots in #sqt](/irc/bots.html).
 
 ## Shit #sqt says
 
-### 2017
-
-> &lt;tejr&gt; i have been writing vim plugins  
-> &lt;tejr&gt; hel!!  
-> &lt;tejr&gt; s/l/lp/  
-> &lt;ShadowM00n&gt; and lo', he happen'd upon a vision  
-> &lt;tejr&gt; sir i perceive by this editor in my hand that i am condemned to
-> configure and thence write pluggins and i find myself afraid to do the former
-> and unable to do the latter  
-> &lt;ShadowM00n&gt; why not willing to configure, since this editor is
-> attended to by so many options?  
-> &lt;tejr&gt; because i fear this ad-hoc, byzantine scripting language will
-> sink me lower than the grave, and i shall fall into Topkek  
-
-### 2019
-
-> &lt;tyil&gt; Dwarf: There’s big penises and there’s small penises, but the
-> best penis of all...  
-> &lt;tyil&gt; is happenis  
-> &lt;Dwarf&gt; aw  
-
-> &lt;kline&gt; the only time you scored above average on your tests was the
-> chromosome count you fucking mongoloid  
-
-> &lt;kline&gt; i had to sign my spoon back in at the end of training, sadly  
-
-> &lt;tyil&gt; I only acknowledge things that fit my narrative to be upset  
-
-> &lt;ShadowM00n&gt; there is no winning  
-> &lt;ShadowM00n&gt; only less losing  
-
-> &lt;Falson&gt; There are no human "races" we are all same you fucking racist  
-
 ### 2020
+
+> &lt;tyil&gt; how can I submit new genders to the gender database  
+> &lt;tyil&gt; I want perlgender to be a thing now  
+> &lt;tejr&gt; Perlgender people love having moustaches and wearing cowboy hats  
+> &lt;tyil&gt; they usually ramble in ways nobody outside the community can understand  
+> &lt;tyil&gt; outsiders refer to it as "linenoise"  
+> &lt;tejr&gt; They say shit like "chomp my hash" during sex  
+> &lt;tyil&gt; "oh yeah push your scalar into my list"  
+> &lt;tyil&gt; thats not illegal cuz she's an animation and I'm a human~  
+> &lt;tyil&gt; first name dora  
+> &lt;tyil&gt; last name FUCK  
+> &lt;tejr&gt; Another backpack, cuz I know you like to coordinate  
+> &lt;ProtoMan&gt; i've missed these high level conversations  
 
 > &lt;ProtoMan&gt; herbstluftwm finally got proper floating windows, I have the
 > perfect tiling wm now  
@@ -154,15 +134,35 @@ Please see [bots in #sqt](/irc/bots.html).
 > &lt;kyrio&gt; there is nothing better in life that smoking some weed and watching cartoons about pickles on my ipad while i eat a bowl of fruit loops  
 > &lt;kyrio&gt; i had a special adapter case shaped like nintendo's mario made for me by someone on etsy. it holds the 7 adapters that i need to listen to music on my iphone while i charge it. it only cost me $733, which i thought was a really great deal!  
 
-> &lt;tyil&gt; how can I submit new genders to the gender database  
-> &lt;tyil&gt; I want perlgender to be a thing now  
-> &lt;tejr&gt; Perlgender people love having moustaches and wearing cowboy hats  
-> &lt;tyil&gt; they usually ramble in ways nobody outside the community can understand  
-> &lt;tyil&gt; outsiders refer to it as "linenoise"  
-> &lt;tejr&gt; They say shit like "chomp my hash" during sex  
-> &lt;tyil&gt; "oh yeah push your scalar into my list"  
-> &lt;tyil&gt; thats not illegal cuz she's an animation and I'm a human~  
-> &lt;tyil&gt; first name dora  
-> &lt;tyil&gt; last name FUCK  
-> &lt;tejr&gt; Another backpack, cuz I know you like to coordinate  
-> &lt;ProtoMan&gt; i've missed these high level conversations  
+### 2019
+
+> &lt;Falson&gt; There are no human "races" we are all same you fucking racist  
+
+> &lt;ShadowM00n&gt; there is no winning  
+> &lt;ShadowM00n&gt; only less losing  
+
+> &lt;tyil&gt; I only acknowledge things that fit my narrative to be upset  
+
+> &lt;kline&gt; i had to sign my spoon back in at the end of training, sadly  
+
+> &lt;kline&gt; the only time you scored above average on your tests was the
+> chromosome count you fucking mongoloid  
+
+> &lt;tyil&gt; Dwarf: There’s big penises and there’s small penises, but the
+> best penis of all...  
+> &lt;tyil&gt; is happenis  
+> &lt;Dwarf&gt; aw  
+
+### 2017
+
+> &lt;tejr&gt; i have been writing vim plugins  
+> &lt;tejr&gt; hel!!  
+> &lt;tejr&gt; s/l/lp/  
+> &lt;ShadowM00n&gt; and lo', he happen'd upon a vision  
+> &lt;tejr&gt; sir i perceive by this editor in my hand that i am condemned to
+> configure and thence write pluggins and i find myself afraid to do the former
+> and unable to do the latter  
+> &lt;ShadowM00n&gt; why not willing to configure, since this editor is
+> attended to by so many options?  
+> &lt;tejr&gt; because i fear this ad-hoc, byzantine scripting language will
+> sink me lower than the grave, and i shall fall into Topkek  
