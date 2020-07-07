@@ -12,6 +12,8 @@ Glaucon joins the agora with its usual 30--40 patrons present, most of whom are 
 Dramatis personae
 -----------------
 
+In order of appearance:
+
 * **Glaucon:** A Cretin visitor to the agora, with grand ideals of freedom and minimalism in computing  
 * **Thrasymachus:** A self-taught Ithacan sysadmin with no engineering knowledge
 * **Socrates:** Famed philosopher-engineer of Athens  
