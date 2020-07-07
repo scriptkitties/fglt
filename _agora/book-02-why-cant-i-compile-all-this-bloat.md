@@ -1,6 +1,5 @@
 ---
 title: Agora—Book II—Why Can’t I Compile All This Bloat?
-permalink: /agora/dialogues/book-02-why-cant-i-compile-all-this-bloat.html
 layout: default
 ---
 
