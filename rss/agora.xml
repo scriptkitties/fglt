@@ -20,7 +20,6 @@ layout: null
 			<pubDate>{{ dialogue.date | date_to_rfc822 }}</pubDate>
 			<link>{{ dialogue.url | prepend: site.baseurl | prepend: site.url }}</link>{% if dialogue.description %}
 			<description>{{ dialogue.description | strip | xml_escape }}</description>{% endif %}
-			<author>Nondescript</author>
 		</item>{% endfor %}
 	</channel>
 </rss>
