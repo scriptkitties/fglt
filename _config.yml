@@ -1,5 +1,6 @@
 # site settings
 title: Friendly GNU/Linux Thread/Website
+author: tyil
 email: tyil@scriptkitties.church
 description: > # this means to ignore newlines until "baseurl:"
   The Friendly GNU/Linux Thread/Website, for all your GNU+Linux questions
