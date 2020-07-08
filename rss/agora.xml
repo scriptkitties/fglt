@@ -2,7 +2,7 @@
 layout: null
 ---
 {% assign documents = site.agora | sort: 'date' | reverse %}<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
 	<channel>
 		<title>{{ site.title }}</title>
 		<description>{{ site.description | strip | xml_escape }}</description>
@@ -13,8 +13,7 @@ layout: null
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<docs>http://www.feedvalidator.org/docs/rss2.html</docs>
 		<ttl>1440</ttl>
-		<generator>Jekyll v{{ jekyll.version }}</generator>
-		<atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />{% for post in documents limit:10 %}
+		<generator>Jekyll v{{ jekyll.version }}</generator>{% for dialogue in dialogues limit:10 %}
 		<item>
 			<title>{{ post.title }}</title>
 			<guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
