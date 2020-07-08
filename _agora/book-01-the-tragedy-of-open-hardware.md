@@ -1,5 +1,5 @@
 ---
-title: Agora—Book I—The Tragedy of Open Hardware
+title: Book I—The Tragedy of Open Hardware
 layout: default
 ---
 
