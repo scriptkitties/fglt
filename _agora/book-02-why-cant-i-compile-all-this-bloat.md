@@ -87,7 +87,7 @@ Practical and portable C
 **Socrates:** if you're in a reduced version of Linux  
 **Socrates:** and running in 16 bit mode  
 **Socrates:** the suckless source will need to be appropriately portable to this environment  
-**Socrates:** the jump is presumably much smaller than, say, Linux to windows  
+**Socrates:** the jump is presumably much smaller than, say, Linux to Windows  
 **Socrates:** but presumably larger than between Debian and Ubuntu  
 **Glaucon:** I was fine in DOS, I just needed multitasking, and applying a multitasking environment over it seemed like a sillier solution than just finding a reduced Linux like this one  
 **Glaucon:** for reference, I don't plan on compiling any software that won't work in the command line  
@@ -107,7 +107,7 @@ Practical and portable C
 **Socrates:** if they exist, make sure to run the tests  
 **Glaucon:** if what exists?  
 **Socrates:** tests  
-**Socrates:** consider how much of a hassle it has been to upgrade Linux to go from 16-bit `time_ts` to 32-bit `time_ts`  
+**Socrates:** consider how much of a hassle it has been to upgrade Linux to go from 32-bit `time_t`s to 64-bit `time_t`s  
 **Socrates:** and now you want to change things as fundamental as the width of a pointer  
 **Socrates:** just remember that there are things that will run, but not always work. unless you have made a deliberate effort to port and audit, it's possible for stuff to fuck up in quiet, insidious ways  
 **Glaucon:** My guess is  
@@ -193,7 +193,7 @@ The road less travelled by, for a reason
 Glaucon and the Temple of God
 -----------------------------
 
-**Socrates**: this is what Glaucon is worried will happen if he uses technology: <https://www.youtube.com/watch?v=6y0QKiTQPkY>  
+**Socrates**: this is what Glaucon is worried will happen if he uses technology: <https://invidio.us/watch?v=6y0QKiTQPkY>  
 **Socrates**: (btw the lightning doesn't happen with TempleOS)  
 **Socrates**: which actually is a really good idea  
 **Socrates:** Glaucon: have you tried TempleOS yet?  
@@ -263,7 +263,7 @@ Keep it simple and/or difficult
 The truth gets vicious when you corner it
 -----------------------------------------
 
-**Socrates:** so, remember the other day I linked [an architecture diagram for an AVR device?](/assets/img/agora/block-diagram-avr-chip.png)  
+**Socrates:** so, remember the other day I linked [an architecture diagram for an AVR device?](/assets/img/agora/block-diagram-avr-chip.png) [^avr]  
 **Glaucon:** yes  
 **Socrates:** and it had things like flash ROM and static SRAM *inside* the system boundary?  
 **Glaucon:** I don't remember that but I'll take your word  
@@ -440,3 +440,5 @@ Epilogue
 **Adeimantus:** did I miss something here?  
 **Socrates:** I was teaching him about translation units from the C standard earlier, I was joking that he doesn't know what a linker is with respect to "defines as bloat when you don't know what a compiler is"  
 **Thrasymachus:** I think Adeimantus thought you were testing him :)  
+
+[^avr]: From our previous discussion, where we consider [the practical openness of x86](book-01-the-tragedy-of-open-hardware.html#the-practical-openness-of-x86)
