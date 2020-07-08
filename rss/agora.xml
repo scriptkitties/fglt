@@ -4,21 +4,21 @@ layout: null
 {% assign dialogues = site.agora | sort: 'date' | reverse %}<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 	<channel>
-		<title>{{ site.title }}</title>
+		<title>{{ site.title | xml_escape }}</title>
 		<description>{{ site.description | strip | xml_escape }}</description>
-		<link>{{ site.baseurl | prepend: site.url }}</link>
+		<link>{{ site.baseurl | prepend: site.url | xml_escape }}</link>
 		<language>en</language>
-		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
-		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
-		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+		<managingEditor>{{ site.email | xml_escape }} ({{ site.author | xml_escape }})</managingEditor>
+		<webMaster>{{ site.email | xml_escape }} ({{ site.author | xml_escape }})</webMaster>
+		<pubDate>{{ site.time | date_to_rfc822 | xml_escape }}</pubDate>
 		<docs>https://www.rssboard.org/rss-specification</docs>
 		<ttl>180</ttl>
-		<generator>Jekyll v{{ jekyll.version }}</generator>{% for dialogue in dialogues limit:10 %}
+		<generator>Jekyll v{{ jekyll.version | xml_escape }}</generator>{% for dialogue in dialogues limit:10 %}
 		<item>
-			<title>{{ dialogue.title }}</title>
-			<guid isPermaLink="true">{{ dialogue.url | prepend: site.baseurl | prepend: site.url }}</guid>
-			<pubDate>{{ dialogue.date | date_to_rfc822 }}</pubDate>
-			<link>{{ dialogue.url | prepend: site.baseurl | prepend: site.url }}</link>{% if dialogue.description %}
+			<title>{{ dialogue.title | xml_escape }}</title>
+			<guid isPermaLink="true">{{ dialogue.url | prepend: site.baseurl | prepend: site.url | xml_escape }}</guid>
+			<pubDate>{{ dialogue.date | date_to_rfc822 | xml_escape }}</pubDate>
+			<link>{{ dialogue.url | prepend: site.baseurl | prepend: site.url | xml_escape }}</link>{% if dialogue.description %}
 			<description>{{ dialogue.description | strip | xml_escape }}</description>{% endif %}
 		</item>{% endfor %}
 	</channel>
