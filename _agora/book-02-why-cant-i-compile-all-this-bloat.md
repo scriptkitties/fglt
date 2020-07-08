@@ -33,7 +33,7 @@ Prelude
 **Socrates:** it should be said that neither of those are requirements of the program, they're requirements to compile the program  
 **Socrates:** which is subtly different  
 **Glaucon:** right right  
-**Glaucon:** because once compiled the program should just run on it's own, right?  
+**Glaucon:** because once compiled the program should just run on its own, right?  
 **Socrates:** if the compiled program has no runtime dependencies, sure  
 **Glaucon:** &gt;runtime dependencies  
 **Glaucon:** bloat  
