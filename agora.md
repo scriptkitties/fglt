@@ -20,4 +20,4 @@ clarity, along with some footnotes, but it represents the conversations pretty
 well as they happened.
 
 {% for dialogue in site.agora %}
-* *[{{ dialogue.title }}]({{ dialogue.url }})*{% endfor%}
+* [<cite>{{ dialogue.title }}</cite>]({{ dialogue.url }}){% endfor%}
