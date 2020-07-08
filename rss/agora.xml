@@ -19,7 +19,7 @@ layout: null
 			<guid isPermaLink="true">{{ dialogue.url | prepend: site.baseurl | prepend: site.url | xml_escape }}</guid>
 			<pubDate>{{ dialogue.date | date_to_rfc822 | xml_escape }}</pubDate>
 			<link>{{ dialogue.url | prepend: site.baseurl | prepend: site.url | xml_escape }}</link>{% if dialogue.description %}
-			<description>{{ dialogue.description | strip | xml_escape }}</description>{% endif %}
+			<description>{{ dialogue.content | xml_escape }}</description>{% endif %}
 		</item>{% endfor %}
 	</channel>
 </rss>
