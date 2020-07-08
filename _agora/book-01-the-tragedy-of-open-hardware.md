@@ -1,6 +1,5 @@
 ---
-title: Agora—Book I—The Tragedy of Open Hardware
-permalink: /agora/dialogues/book-01-the-tragedy-of-open-hardware.html
+title: Book I—The Tragedy of Open Hardware
 layout: default
 ---
 

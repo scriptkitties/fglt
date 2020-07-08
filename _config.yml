@@ -20,6 +20,8 @@ redcarpet:
 
 # custom collections
 collections:
+  agora:
+    output: true
   pages:
     output: true
   guides:

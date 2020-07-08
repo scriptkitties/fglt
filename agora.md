@@ -1,7 +1,7 @@
 ---
 title: Agora
-permalink: /agora.html
 layout: default
+rss: /rss/agora.xml
 ---
 
 Dialogues
@@ -19,4 +19,5 @@ The names are pseudonyms, and there's a little editing and correction for
 clarity, along with some footnotes, but it represents the conversations pretty
 well as they happened.
 
-* [Book I---<cite>The Tragedy of Open Hardware</cite>](agora/dialogues/book-01-the-tragedy-of-open-hardware.html)
+{% for dialogue in site.agora %}
+* *[{{ dialogue.title }}]({{ dialogue.url }})*{% endfor%}
