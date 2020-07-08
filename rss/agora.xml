@@ -12,7 +12,7 @@ layout: null
 		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<docs>http://www.feedvalidator.org/docs/rss2.html</docs>
-		<ttl>1440</ttl>
+		<ttl>180</ttl>
 		<generator>Jekyll v{{ jekyll.version }}</generator>{% for dialogue in dialogues limit:10 %}
 		<item>
 			<title>{{ post.title }}</title>
