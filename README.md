@@ -1,7 +1,7 @@
 # Friendly GNU/Linux Thread/Website
 
 This is a website with information on using GNU+Linux, mostly targeted to new
-users. It is a supporting element to the Friendly GNU/Linux threads found on
+users.  It is a supporting element to the Friendly GNU/Linux threads found on
 4chan's /g/ board.
 
 ## Contributing
@@ -11,9 +11,9 @@ If you wish to contribute to the website, send a patch to
 
 Mirrors of this repository can be found at the following locations:
 
-- https://git.sr.ht/~tyil/www-fglt.nl
-- https://gitlab.com/skitties/websites/fglt.nl
-- https://github.com/scriptkitties/fglt
+- <https://git.sr.ht/~tyil/www-fglt.nl>
+- <https://gitlab.com/skitties/websites/fglt.nl>
+- <https://github.com/scriptkitties/fglt>
 
 ### Making a development copy
 
@@ -70,10 +70,8 @@ variables---chiefly your operating system and email provider.
 
 Then, assuming you've been working on `master`, do this:
 
-	$ git send-email origin/master..
-
-Follow the interactive prompts.  Ideally, your subject line should start with
-`[PATCH www-fglt.nl]`.
+	$ git config format.subjectPrefix 'PATCH www-fglt.nl'
+	$ git send-email origin/master
 
 If you're trying to stay anonymous, you should probably send *yourself* a test
 first, and check the headers of the email you receive carefully, because the
@@ -82,8 +80,11 @@ headers or commit data that you'd rather not share.  It'll be published to
 a *public mailing list*, so you need to be sure you're comfortable sharing
 everything in there.
 
-Once you're confident it all looks sane, the maintainer address is
-`~tyil/public-inbox@lists.sr.ht`.  Good luck!
+Once you're confident it all looks sane, you can set up the maintainer address,
+and submit your patches for real:
+
+	$ git config sendemail.to '~tyil/public-inbox@lists.sr.ht'
+	$ git send-email origin/master
 
 ## License
 
@@ -92,7 +93,7 @@ Once you're confident it all looks sane, the maintainer address is
 All content is released under the CC-BY-SA license, unless explicitly stated
 otherwise on a given page.
 
-### Sourcecode
+### Source code
 
-The sourcecode is all released under the GNU General Public License, which can
-be found in LICENSE.
+The source code is all released under the GNU General Public License, which can
+be found in `LICENSE`.
