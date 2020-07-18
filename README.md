@@ -11,9 +11,9 @@ If you wish to contribute to the website, send a patch to
 
 Mirrors of this repository can be found at the following locations:
 
-- https://git.sr.ht/~tyil/www-fglt.nl
-- https://gitlab.com/skitties/websites/fglt.nl
-- https://github.com/scriptkitties/fglt
+- <https://git.sr.ht/~tyil/www-fglt.nl>
+- <https://gitlab.com/skitties/websites/fglt.nl>
+- <https://github.com/scriptkitties/fglt>
 
 ### Making a development copy
 
