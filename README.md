@@ -92,7 +92,7 @@ Once you're confident it all looks sane, the maintainer address is
 All content is released under the CC-BY-SA license, unless explicitly stated
 otherwise on a given page.
 
-### Sourcecode
+### Source code
 
-The sourcecode is all released under the GNU General Public License, which can
+The source code is all released under the GNU General Public License, which can
 be found in LICENSE.
