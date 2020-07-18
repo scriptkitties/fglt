@@ -1,7 +1,7 @@
 # Friendly GNU/Linux Thread/Website
 
 This is a website with information on using GNU+Linux, mostly targeted to new
-users. It is a supporting element to the Friendly GNU/Linux threads found on
+users.  It is a supporting element to the Friendly GNU/Linux threads found on
 4chan's /g/ board.
 
 ## Contributing
