@@ -95,4 +95,4 @@ otherwise on a given page.
 ### Source code
 
 The source code is all released under the GNU General Public License, which can
-be found in LICENSE.
+be found in `LICENSE`.
