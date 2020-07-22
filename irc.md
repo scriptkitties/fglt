@@ -25,6 +25,9 @@ connect to the IRC network.
 
 ### 2020
 
+> &lt;tyil&gt; u seem like a white supremacist  
+> &lt;Wotac&gt; i can't tell if you meant that as a compliment  
+
 > &lt;tyil&gt; how can I submit new genders to the gender database  
 > &lt;tyil&gt; I want perlgender to be a thing now  
 > &lt;tejr&gt; Perlgender people love having moustaches and wearing cowboy hats  
