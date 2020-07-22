@@ -24,6 +24,8 @@ In order of appearance:
 Prelude
 -------
 
+*<span class="name">Glaucon</span> returns to the agora.  The discussion thus far for the evening has included text parsing programming languages, health care privacy laws, and a joint effort in trying to explain the agora's rules on obscenity to a foul-mouthed and recalcitrant Spartan.*
+
 <b class="name">Glaucon:</b> so, uh  
 <b class="name">Glaucon:</b> I still don't understand how compilation works  
 <b class="name">Glaucon:</b> if I have a simple program, with the only requirements being---let's say---just the C compiler and `make`, as long as my system has some form of `make` and---let's say---`tcc`, it'll compile correctly?  
@@ -139,6 +141,8 @@ Practical and portable C
 
 The road less travelled by, for a reason
 ----------------------------------------
+
+*<span class="name">Cephalus</span> has taken an interest in his countryman's intentions with esoteric operating systems, being himself experienced in such things.*
 
 <b class="name">Cephalus:</b> what web browser are you on right now  
 <b class="name">Glaucon:</b> Chrome on a Windows 10 laptop  

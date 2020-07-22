@@ -23,6 +23,8 @@ In order of appearance:
 Prelude
 -------
 
+*<span class="name">Glaucon</span> joins the agora for the first time.  Those already present have just finished a bracing discussion on the applicability of blockchain technology to dishwashers.*
+
 <b class="name">Glaucon:</b> why hello  
 <b class="name">Glaucon:</b> I need some help with something   
 <b class="name">Glaucon:</b> Does anyone know of any completely free hardware computers? I'm looking and I can't find any  
@@ -374,6 +376,8 @@ Metaphor for software brainlets
 The market realities of reverse engineering
 -------------------------------------------
 
+*The Ithacan sysadmin <span class="name">Thrasymachus</span>, now intrigued, suspends his heckling to ask a question.*
+
 <b class="name">Thrasymachus:</b> This is all very new to me, so I'll ask the dumb question  
 <b class="name">Thrasymachus:</b> "Then why don't people do that?  Only legal pressure?"  
 <b class="name">Socrates:</b> ARM IP targets the people who don't want to make their own processor. if you can reverse and reimplement ARM, you could make your own non-ARM IP and not pay them  
@@ -514,6 +518,8 @@ Stage 3: Bargaining
 FPGAs
 -----
 
+*<span class="name">Socrates</span> is quiet for a moment, and looks at <span class="name">Glaucon</span>, expecting to be asked how one might accomplish this feat, but the question is not forthcoming; his student has been struck dumb.*
+
 <b class="name">Socrates:</b> come on  
 <b class="name">Socrates:</b> take the bait  
 <b class="name">Glaucon:</b> fine go on  
@@ -568,10 +574,9 @@ FPGAs
 <b class="name">Socrates:</b> CPU: <https://opencores.org/projects/rv01_RISC-V_core>  
 <b class="name">Socrates:</b> USB: <https://opencores.org/projects/usb_host_core>  
 <b class="name">Socrates:</b> put these onto an FPGA and you basically have a working RISC-V computer  
+<b class="name">Socrates:</b> put it onto an ASIC, and well done, you're an RISC-V device manufacturer  
 <b class="name">Glaucon:</b> damn  
-<b class="name">Socrates:</b> put it onto an ASIC, and well done, you're an ARM device manufacturer  
 <b class="name">Glaucon:</b> I had looked at FPGAs to make 386 IBM PC clones  
-<b class="name">Socrates:</b> s/ARM/RISC-V  
 <b class="name">Glaucon:</b> what FPGA do you recommend  
 <b class="name">Glaucon:</b> I kinda wanna do this  
 <b class="name">Socrates:</b> I mean, this will probably take 2--3 years of learning and a few thousand dollars  
@@ -630,6 +635,8 @@ Doing it the hardest way
 
 Epilogue
 --------
+
+*<span class="name">Polemarchus</span> the Spartan, having wandered in late, realises the extent of the discussion he has missed.*
 
 <b class="name">Polemarchus:</b> hey could you maybe talk about CPU architectures for two and a half hours? oh you already did?  
 <b class="name">Glaucon:</b> yeah sorry we can do it again if you'd like  
