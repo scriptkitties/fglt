@@ -145,3 +145,11 @@ blockquote {
 h3, h4, h5, h6 {
 	font-style: italic;
 }
+
+b.name {
+	color: #ffffff;
+	font-variant: small-caps;
+}
+span.name {
+	font-variant: small-caps;
+}

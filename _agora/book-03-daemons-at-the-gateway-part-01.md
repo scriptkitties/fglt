@@ -22,241 +22,241 @@ Dramatis personae
 
 In order of appearance:
 
-* **Glaucon:** A Cretin visitor to the agora, with grand ideals of freedom and minimalism in computing
-* **Socrates:** Famed philosopher-engineer of Athens
-* **Adeimantus:** A Cretin regular
-* **Thrasymachus:** An Ithacan regular
-* **Pyrrhus:** An eccentric Epirote who first visited the agora around the same time as Glaucon
+* <span class="name">Glaucon</span>, a Cretin visitor to the agora, with grand ideals of freedom and minimalism in computing
+* <span class="name">Socrates</span>, famed philosopher-engineer of Athens
+* <span class="name">Adeimantus</span>, a Cretin regular
+* <span class="name">Thrasymachus</span>, an Ithacan regular
+* <span class="name">Pyrrhus</span>, an eccentric Epirote who first visited the agora around the same time as Glaucon
 
 Prelude
 -------
 
-*The citizens in the agora have been discussing the finer points of mail servers, conversational automata, and correctly naming characters in <cite>Sailor Moon</cite>, before Glaucon poses his question.*
+*The citizens in the agora have been discussing the finer points of mail servers, conversational automata, and correctly naming characters in <cite>Sailor Moon</cite>, before <span class="name">Glaucon</span> poses his question.*
 
-**Glaucon:** Socrates, do you know what FidoNet and Usenet are?  
-**Socrates:** yes  
-**Glaucon:** what's the difference between them?  
-**Glaucon:** I still don't understand  
-**Socrates:** Usenet was a network of NNTP servers  
-**Socrates:** FidoNet was a network of bulletin board systems  
-**Socrates:** NNTP is a sister protocol to email, which had shared roots in using what was basically SCP to copy people's mail and files around  
-**Socrates:** BBSes were basically someone who said "what if I put a custom login shell on my home SSH connection a la [netris.rocketnine.space](https://netris.rocketnine.space)  
-**Glaucon:** but I've heard people use FidoNet to connect to Usenet?  
-**Socrates:** yes, in the same way that you can use some SSH shell server to connect to IRC  
-**Socrates:** NNTP services were not something afforded to home users at the beginning of the Internet  
-**Socrates:** so a BBS service that did have access to Usenet was a good springboard  
-**Socrates:** that some of these BBS services peered with each other is separate  
-**Glaucon:** right, BBS was a weird custom connection to a server which had email and connections with other users and stuff, but you couldn't just Telnet in usually, you needed the software?  
-**Socrates:** no  
-**Glaucon:** I'm lost then  
-**Glaucon:** go on  
+<b class="name">Glaucon:</b> Socrates, do you know what FidoNet and Usenet are?  
+<b class="name">Socrates:</b> yes  
+<b class="name">Glaucon:</b> what's the difference between them?  
+<b class="name">Glaucon:</b> I still don't understand  
+<b class="name">Socrates:</b> Usenet was a network of NNTP servers  
+<b class="name">Socrates:</b> FidoNet was a network of bulletin board systems  
+<b class="name">Socrates:</b> NNTP is a sister protocol to email, which had shared roots in using what was basically SCP to copy people's mail and files around  
+<b class="name">Socrates:</b> BBSes were basically someone who said "what if I put a custom login shell on my home SSH connection a la [netris.rocketnine.space](https://netris.rocketnine.space)  
+<b class="name">Glaucon:</b> but I've heard people use FidoNet to connect to Usenet?  
+<b class="name">Socrates:</b> yes, in the same way that you can use some SSH shell server to connect to IRC  
+<b class="name">Socrates:</b> NNTP services were not something afforded to home users at the beginning of the Internet  
+<b class="name">Socrates:</b> so a BBS service that did have access to Usenet was a good springboard  
+<b class="name">Socrates:</b> that some of these BBS services peered with each other is separate  
+<b class="name">Glaucon:</b> right, BBS was a weird custom connection to a server which had email and connections with other users and stuff, but you couldn't just Telnet in usually, you needed the software?  
+<b class="name">Socrates:</b> no  
+<b class="name">Glaucon:</b> I'm lost then  
+<b class="name">Glaucon:</b> go on  
 
 A strange game
 --------------
 
-**Socrates:** `$ ssh netris.rocketnine.space`  
-**Socrates:** enjoy a game, get back to me in 5  
+<b class="name">Socrates:</b> `$ ssh netris.rocketnine.space`  
+<b class="name">Socrates:</b> enjoy a game, get back to me in 5  
 
-*Glaucon, Adeimantus, and Thrasymachus each try the game.*
+*<span class="name">Glaucon</span>, <span class="name">Adeimantus</span>, and <span class="name">Thrasymachus</span> each try the game.*
 
-**Adeimantus:** wow, better than BSD `tetris` [^bsd]  
-**Thrasymachus:** Cool  
-**Socrates:** good, right?  
-**Glaucon:** I didn't know you could do something like this with SSH  
-**Glaucon:** the latency is non-existent  
-**Socrates:** imagine now that you did this via Telnet  
-**Socrates:** and imagine instead of Tetris it was something like a modern (well, late 00s I guess now) web forum  
-**Glaucon:** was I supposed to play multiplayer to test?  
-**Socrates:** I don't really mind as long as you get the picture  
-**Socrates:** this is what a BBS was  
-**Adeimantus:** except with awesome ASCII art  
-**Socrates:** yes, in the late BBS age, there were experiments in using other protocols, usually for more advanced graphical capabilities  
-**Socrates:** FidoNet likewise was a popular experiment, but an experiment nonetheless  
-**Glaucon:** even with stronger PCs, I still don't get it  
-**Glaucon:** why did we stop?  
-**Socrates:** AOL, basically [^sep]  
+<b class="name">Adeimantus:</b> wow, better than BSD `tetris` [^bsd]  
+<b class="name">Thrasymachus:</b> Cool  
+<b class="name">Socrates:</b> good, right?  
+<b class="name">Glaucon:</b> I didn't know you could do something like this with SSH  
+<b class="name">Glaucon:</b> the latency is non-existent  
+<b class="name">Socrates:</b> imagine now that you did this via Telnet  
+<b class="name">Socrates:</b> and imagine instead of Tetris it was something like a modern (well, late 00s I guess now) web forum  
+<b class="name">Glaucon:</b> was I supposed to play multiplayer to test?  
+<b class="name">Socrates:</b> I don't really mind as long as you get the picture  
+<b class="name">Socrates:</b> this is what a BBS was  
+<b class="name">Adeimantus:</b> except with awesome ASCII art  
+<b class="name">Socrates:</b> yes, in the late BBS age, there were experiments in using other protocols, usually for more advanced graphical capabilities  
+<b class="name">Socrates:</b> FidoNet likewise was a popular experiment, but an experiment nonetheless  
+<b class="name">Glaucon:</b> even with stronger PCs, I still don't get it  
+<b class="name">Glaucon:</b> why did we stop?  
+<b class="name">Socrates:</b> AOL, basically [^sep]  
 
 The genealogy of network forums
 -------------------------------
 
-**Socrates:** BBSes still exist to this day  
-**Socrates:** firstly as web forums  
-**Socrates:** now as Reddit  
-**Glaucon:** neat  
-**Socrates:** there are still some hangers-on who use *þe olde style* BBSes, but Reddit is a direct descendant, via web forums  
-**Glaucon:** so Usenet is sort of like a more versatile FidoNet?  
-**Socrates:** no  
-**Glaucon:** uhh  
-**Glaucon:** I still don't get how they relate  
-**Socrates:** they don't  
-**Glaucon:** so that Tetris game was supposed to be FidoNet?  
-**Glaucon:** or Usenet?  
-**Socrates:** BBS  
-**Glaucon:** oh okay  
-**Socrates:** of which FidoNet was an overlaid network  
-**Socrates:** BBSes were like forums  
-**Glaucon:** BBS is a custom Telnet, FidoNet was a network of them, and Usenet is more like proto-Internet?  
-**Socrates:** no  
-**Glaucon:** but that's an accurate description of BBS?  
-**Socrates:** BBSes were just software running on a server  
-**Glaucon:** right  
-**Socrates:** you still had to connect like Telnet  
-**Socrates:** but it was no more custom than SSH to Netris is "custom" SSH  
-**Socrates:** make sense?  
-**Socrates:** (i.e., it's not at all custom, just instead of launching `bash`, it launches another application)  
-**Socrates:** SSH/Telnet remained unchanged  
-**Glaucon:** right that's what I meant  
-**Glaucon:** you jack into a program as opposed to the terminal [^svt]  
+<b class="name">Socrates:</b> BBSes still exist to this day  
+<b class="name">Socrates:</b> firstly as web forums  
+<b class="name">Socrates:</b> now as Reddit  
+<b class="name">Glaucon:</b> neat  
+<b class="name">Socrates:</b> there are still some hangers-on who use *þe olde style* BBSes, but Reddit is a direct descendant, via web forums  
+<b class="name">Glaucon:</b> so Usenet is sort of like a more versatile FidoNet?  
+<b class="name">Socrates:</b> no  
+<b class="name">Glaucon:</b> uhh  
+<b class="name">Glaucon:</b> I still don't get how they relate  
+<b class="name">Socrates:</b> they don't  
+<b class="name">Glaucon:</b> so that Tetris game was supposed to be FidoNet?  
+<b class="name">Glaucon:</b> or Usenet?  
+<b class="name">Socrates:</b> BBS  
+<b class="name">Glaucon:</b> oh okay  
+<b class="name">Socrates:</b> of which FidoNet was an overlaid network  
+<b class="name">Socrates:</b> BBSes were like forums  
+<b class="name">Glaucon:</b> BBS is a custom Telnet, FidoNet was a network of them, and Usenet is more like proto-Internet?  
+<b class="name">Socrates:</b> no  
+<b class="name">Glaucon:</b> but that's an accurate description of BBS?  
+<b class="name">Socrates:</b> BBSes were just software running on a server  
+<b class="name">Glaucon:</b> right  
+<b class="name">Socrates:</b> you still had to connect like Telnet  
+<b class="name">Socrates:</b> but it was no more custom than SSH to Netris is "custom" SSH  
+<b class="name">Socrates:</b> make sense?  
+<b class="name">Socrates:</b> (i.e., it's not at all custom, just instead of launching `bash`, it launches another application)  
+<b class="name">Socrates:</b> SSH/Telnet remained unchanged  
+<b class="name">Glaucon:</b> right that's what I meant  
+<b class="name">Glaucon:</b> you jack into a program as opposed to the terminal [^svt]  
 
 The golden age of email
 -----------------------
 
-**Socrates:** OK, we know how BBSes worked (and are)  
-**Socrates:** let's talk about the birth of email and NNTP  
-**Socrates:** we're going properly back now to pre-ARPANET days  
-**Socrates:** back in the old days, every computer was a universe unto itself---networking didn't exist, and I don't even mean LANs  
-**Glaucon:** well you could have multiple terminals connected to one computer  
-**Socrates:** computers with multiple terminals were really just screens and keyboards with *really* long cables  
-**Socrates:** and terminals weren't computers  
-**Socrates:** they were literally just human interface devices that had serial out the back  
-**Glaucon:** well a teletype could be a terminal  
-**Glaucon:** it's just an access point  
-**Socrates:** you could send "mail" to a user by essentially writing a file, sending it the mail daemon, that could parse and distribute copies of that into people's own home directories, when you couldn't directly  
-**Socrates:** so you could write to Alice and Bob, and the server would insert that mail file into their `~/mbox`  
-**Socrates:** this was good  
-**Socrates:** in fact, this was basically peak email---it's all been downhill ever since  
+<b class="name">Socrates:</b> OK, we know how BBSes worked (and are)  
+<b class="name">Socrates:</b> let's talk about the birth of email and NNTP  
+<b class="name">Socrates:</b> we're going properly back now to pre-ARPANET days  
+<b class="name">Socrates:</b> back in the old days, every computer was a universe unto itself---networking didn't exist, and I don't even mean LANs  
+<b class="name">Glaucon:</b> well you could have multiple terminals connected to one computer  
+<b class="name">Socrates:</b> computers with multiple terminals were really just screens and keyboards with *really* long cables  
+<b class="name">Socrates:</b> and terminals weren't computers  
+<b class="name">Socrates:</b> they were literally just human interface devices that had serial out the back  
+<b class="name">Glaucon:</b> well a teletype could be a terminal  
+<b class="name">Glaucon:</b> it's just an access point  
+<b class="name">Socrates:</b> you could send "mail" to a user by essentially writing a file, sending it the mail daemon, that could parse and distribute copies of that into people's own home directories, when you couldn't directly  
+<b class="name">Socrates:</b> so you could write to Alice and Bob, and the server would insert that mail file into their `~/mbox`  
+<b class="name">Socrates:</b> this was good  
+<b class="name">Socrates:</b> in fact, this was basically peak email---it's all been downhill ever since  
 
 Cursing daemons
 ---------------
 
-**Glaucon:** I understand so far  
-**Glaucon:** but what's a daemon?  
-**Glaucon:** I read that term a few days ago and was like "wat"  
+<b class="name">Glaucon:</b> I understand so far  
+<b class="name">Glaucon:</b> but what's a daemon?  
+<b class="name">Glaucon:</b> I read that term a few days ago and was like "wat"  
 
-*Surprised by this confession of ignorance, Adeimantus interrupts, attracting the attention of Pyrrhus, another newcomer.*
+*Surprised by this confession of ignorance, <span class="name">Adeimantus</span> interrupts, attracting the attention of <span class="name">Pyrrhus</span>, another newcomer.*
 
-**Adeimantus:** "what's a daemon?" *really?*  
-**Glaucon:** okay okay, go on  
-**Pyrrhus:** A daemon is just a program that can run without user input strictly required  
-**Socrates:** a daemon is just server software  
-**Socrates:** `httpd` = http daemon = Apache  
-**Socrates:** etc  
-**Glaucon:** neato  
-**Socrates:** see also: systemd  
-**Adeimantus:** he said the s-word  
-**Pyrrhus:** Inb4 systemD is botnet  
-**Adeimantus:** see, there it goes  
+<b class="name">Adeimantus:</b> "what's a daemon?" *really?*  
+<b class="name">Glaucon:</b> okay okay, go on  
+<b class="name">Pyrrhus:</b> A daemon is just a program that can run without user input strictly required  
+<b class="name">Socrates:</b> a daemon is just server software  
+<b class="name">Socrates:</b> `httpd` = http daemon = Apache  
+<b class="name">Socrates:</b> etc  
+<b class="name">Glaucon:</b> neato  
+<b class="name">Socrates:</b> see also: systemd  
+<b class="name">Adeimantus:</b> he said the s-word  
+<b class="name">Pyrrhus:</b> Inb4 systemD is botnet  
+<b class="name">Adeimantus:</b> see, there it goes  
 
 Uni-to-uni copy
 ---------------
 
-*After a brief scuffle about systemd, Socrates' lesson resumes.*
+*After a brief scuffle about systemd, <span class="name">Socrates</span>' lesson resumes.*
 
-**Socrates:** anyway, some bastard decided it would be cool if MIT could speak to Berkeley to share projects, and ARPA (later DARPA) decided "shit man, it would be really cool if we could do this in the military, too"  
-**Socrates:** so ARPA paid a lot of money for research, and experimental campus-to-campus networking that connected MIT to Berkeley to Los Alamos, etc  
-**Socrates:** let me get the map  
-**Socrates:** [https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arpanet_1974.svg/1920px-Arpanet_1974.svg.png](/assets/img/agora/arpanet-1974.png)  
-**Socrates:** (or [https://upload.wikimedia.org/wikipedia/commons/b/bf/Arpanet_logical_map%2C_march_1977.png](/assets/img/agora/arpanet-1977.png))  
-**Socrates:** this network came about, and someone said, "sure would be cool if I could mail Peter at Berkeley, like I could mail Alice here"  
-**Socrates:** then someone said "well we have this tool called `uucp` [Unix-to-Unix copy, basically the granddaddy of `scp`], and mail messages are just files---why not hack them together?"  
-**Glaucon:** I have a feeling I don't know what `scp` is  
-**Glaucon:** because I'm just thinking of anomalies [^scp]  
-**Socrates:** `cp`, but over SSH  
-**Glaucon:** ah okay  
-**Socrates:** `$ scp dick.png socrates@server.com:pics/`  
-**Socrates:** secure copy (via SSH) `dick.png` into `server.com` in `/home/socrates/pics`  
-**Glaucon:** whatever file you wanted to send  
-**Glaucon:** mail or image or whatever  
-**Glaucon:** `$ uucp meme.png fatso@memes.nerd:memes/`  
-**Glaucon:** or whatever  
-**Socrates:** close enough  
-**Socrates:** now, like I said, it's all starting to get complicated  
-**Socrates:** and this is where NNTP and email begin to diverge  
-**Socrates:** but at this point, sending files and sending emails were one and the same thing: via UUCP  
-**Socrates:** back then routing wasn't that fancy, so you'd say something like `socratespc!freenode!glauconspc!glaucon` to specify the path  
-**Socrates:** but that's besides the point  
-**Pyrrhus:** Works well until the route is 200 computers  
-**Pyrrhus:** `uucp: command not found`  
-**Pyrrhus:** mfw  
-**Adeimantus:** `# apt install uucp`  
-**Pyrrhus:** I'm running Gentoo  
-**Adeimantus:** `# emerge uucp` then, fuck  
-**Adeimantus:** do I have to do everything around here?  
+<b class="name">Socrates:</b> anyway, some bastard decided it would be cool if MIT could speak to Berkeley to share projects, and ARPA (later DARPA) decided "shit man, it would be really cool if we could do this in the military, too"  
+<b class="name">Socrates:</b> so ARPA paid a lot of money for research, and experimental campus-to-campus networking that connected MIT to Berkeley to Los Alamos, etc  
+<b class="name">Socrates:</b> let me get the map  
+<b class="name">Socrates:</b> [https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arpanet_1974.svg/1920px-Arpanet_1974.svg.png](/assets/img/agora/arpanet-1974.png)  
+<b class="name">Socrates:</b> (or [https://upload.wikimedia.org/wikipedia/commons/b/bf/Arpanet_logical_map%2C_march_1977.png](/assets/img/agora/arpanet-1977.png))  
+<b class="name">Socrates:</b> this network came about, and someone said, "sure would be cool if I could mail Peter at Berkeley, like I could mail Alice here"  
+<b class="name">Socrates:</b> then someone said "well we have this tool called `uucp` [Unix-to-Unix copy, basically the granddaddy of `scp`], and mail messages are just files---why not hack them together?"  
+<b class="name">Glaucon:</b> I have a feeling I don't know what `scp` is  
+<b class="name">Glaucon:</b> because I'm just thinking of anomalies [^scp]  
+<b class="name">Socrates:</b> `cp`, but over SSH  
+<b class="name">Glaucon:</b> ah okay  
+<b class="name">Socrates:</b> `$ scp dick.png socrates@server.com:pics/`  
+<b class="name">Socrates:</b> secure copy (via SSH) `dick.png` into `server.com` in `/home/socrates/pics`  
+<b class="name">Glaucon:</b> whatever file you wanted to send  
+<b class="name">Glaucon:</b> mail or image or whatever  
+<b class="name">Glaucon:</b> `$ uucp meme.png fatso@memes.nerd:memes/`  
+<b class="name">Glaucon:</b> or whatever  
+<b class="name">Socrates:</b> close enough  
+<b class="name">Socrates:</b> now, like I said, it's all starting to get complicated  
+<b class="name">Socrates:</b> and this is where NNTP and email begin to diverge  
+<b class="name">Socrates:</b> but at this point, sending files and sending emails were one and the same thing: via UUCP  
+<b class="name">Socrates:</b> back then routing wasn't that fancy, so you'd say something like `socratespc!freenode!glauconspc!glaucon` to specify the path  
+<b class="name">Socrates:</b> but that's besides the point  
+<b class="name">Pyrrhus:</b> Works well until the route is 200 computers  
+<b class="name">Pyrrhus:</b> `uucp: command not found`  
+<b class="name">Pyrrhus:</b> mfw  
+<b class="name">Adeimantus:</b> `# apt install uucp`  
+<b class="name">Pyrrhus:</b> I'm running Gentoo  
+<b class="name">Adeimantus:</b> `# emerge uucp` then, fuck  
+<b class="name">Adeimantus:</b> do I have to do everything around here?  
 
 Protocols vs networks
 ---------------------
 
-**Socrates:** someone realized that actually being able to have some kind of mailing list where everyone could subscribe would be pretty cool, and you could all message each other on various topics, share files, etc  
-**Socrates:** so they wrote news servers, which were like mail servers, but they handled many *channels* inside of them rather than users, and delivered the contents to users via mail   
-**Socrates:** so `comp.lang.python` would be about computers-&gt;languages-&gt;python  
-**Socrates:** so everyone could shitpost in real time on their local news server  
-**Socrates:** and then, every night, when the lines were open (they were still dial-up style connections, even between universities at the cutting edge of research in those days)  
-**Socrates:** they would connect to their peers and copy the day's news file to everyone else  
-**Socrates:** and those spread throughout the network  
-**Socrates:** eventually, this system grew and developed into a fully defined protocol called NNTP  
-**Socrates:** these individual servers don't *have* to talk to anyone in particular, but the biggest and most commonly used news network was called Usenet  
-**Glaucon:** oh I thought it was like, a protocol  
-**Glaucon:** but it was a specific network  
-**Glaucon:** for news  
-**Socrates:** Usenet is to NNTP as freenode is to IRC  
-**Glaucon:** right  
-**Glaucon:** kinda like how QuakeNet started out being for Quake players to find matches and just became one of the biggest servers over time  
-**Socrates:** right  
-**Socrates:** Usenet was even more dominant though  
-**Socrates:** pretty much the only other networks were tiny  
-**Socrates:** Usenet became *the* network, in the same way that the Internet is *the* inter-network-network  
-**Glaucon:** even though the Internet is just a network, the protocol is HTTP  
-**Glaucon:** but because it's so ubiquitous we think of it as the way of connecting itself sometimes?  
-**Socrates:** well, no, the Internet isn't HTTP; the *web* is  
-**Glaucon:** right right, the world wide web is HTTP  
-**Socrates:** anyway, NNTP went down this whole path by itself, and eventually was entirely diverged, as email made its own evolution from very simple local mail servers into its own fully fledged SMTP system  
-**Glaucon:** so NNTP isn't the protocol we use for email now, SMTP is?  
-**Socrates:** correct. NNTP became specialized in managing news lists, which were basically bundled and federated mailing lists  
-**Socrates:** usually your Usenet address was the same as your email address, back when you were `socrates@aol.com` or whatever  
-**Socrates:** they gave you the same account on both their mail server and their news server  
-**Socrates:** (though you'd usually have to pay extra for them to turn on access to the news server)  
-**Socrates:** (same as if they gave you web space like `http://aol.com/webspaces/~socrates`)  
-**Glaucon:** okay  
-**Glaucon:** so BBS is just a connection to a specific software on a remote computer, email is SMTP used for mailing, and NNTP is a protocol used for news lists?  
-**Socrates:** pretty much  
-**Glaucon:** the Internet is a network, the web is a host of sites that are connected via HTTP, FidoNet is a network of BBSes  
-**Socrates:** BBS is just an interactive (usually bespoke) bit of interactive software you can Telnet to instead of landing in a shell  
-**Glaucon:** a BBS is just software running on a computer? it doesn't refer to the server itself?  
-**Socrates:** correct  
-**Socrates:** BBS is just software, same as an ircd (IRC daemon) (freenode's is called ircd-seven)  
-**Socrates:** Apache's technical name is "HTTPD"  
-**Glaucon:** and Usenet is a network of news lists?  
-**Socrates:** yes  
-**Glaucon:** it just gets confusing because the usage of these things overlap  
-**Socrates:** but the problem is the Internet exists at a layer underpinning all these  
+<b class="name">Socrates:</b> someone realized that actually being able to have some kind of mailing list where everyone could subscribe would be pretty cool, and you could all message each other on various topics, share files, etc  
+<b class="name">Socrates:</b> so they wrote news servers, which were like mail servers, but they handled many *channels* inside of them rather than users, and delivered the contents to users via mail   
+<b class="name">Socrates:</b> so `comp.lang.python` would be about computers-&gt;languages-&gt;python  
+<b class="name">Socrates:</b> so everyone could shitpost in real time on their local news server  
+<b class="name">Socrates:</b> and then, every night, when the lines were open (they were still dial-up style connections, even between universities at the cutting edge of research in those days)  
+<b class="name">Socrates:</b> they would connect to their peers and copy the day's news file to everyone else  
+<b class="name">Socrates:</b> and those spread throughout the network  
+<b class="name">Socrates:</b> eventually, this system grew and developed into a fully defined protocol called NNTP  
+<b class="name">Socrates:</b> these individual servers don't *have* to talk to anyone in particular, but the biggest and most commonly used news network was called Usenet  
+<b class="name">Glaucon:</b> oh I thought it was like, a protocol  
+<b class="name">Glaucon:</b> but it was a specific network  
+<b class="name">Glaucon:</b> for news  
+<b class="name">Socrates:</b> Usenet is to NNTP as freenode is to IRC  
+<b class="name">Glaucon:</b> right  
+<b class="name">Glaucon:</b> kinda like how QuakeNet started out being for Quake players to find matches and just became one of the biggest servers over time  
+<b class="name">Socrates:</b> right  
+<b class="name">Socrates:</b> Usenet was even more dominant though  
+<b class="name">Socrates:</b> pretty much the only other networks were tiny  
+<b class="name">Socrates:</b> Usenet became *the* network, in the same way that the Internet is *the* inter-network-network  
+<b class="name">Glaucon:</b> even though the Internet is just a network, the protocol is HTTP  
+<b class="name">Glaucon:</b> but because it's so ubiquitous we think of it as the way of connecting itself sometimes?  
+<b class="name">Socrates:</b> well, no, the Internet isn't HTTP; the *web* is  
+<b class="name">Glaucon:</b> right right, the world wide web is HTTP  
+<b class="name">Socrates:</b> anyway, NNTP went down this whole path by itself, and eventually was entirely diverged, as email made its own evolution from very simple local mail servers into its own fully fledged SMTP system  
+<b class="name">Glaucon:</b> so NNTP isn't the protocol we use for email now, SMTP is?  
+<b class="name">Socrates:</b> correct. NNTP became specialized in managing news lists, which were basically bundled and federated mailing lists  
+<b class="name">Socrates:</b> usually your Usenet address was the same as your email address, back when you were `socrates@aol.com` or whatever  
+<b class="name">Socrates:</b> they gave you the same account on both their mail server and their news server  
+<b class="name">Socrates:</b> (though you'd usually have to pay extra for them to turn on access to the news server)  
+<b class="name">Socrates:</b> (same as if they gave you web space like `http://aol.com/webspaces/~socrates`)  
+<b class="name">Glaucon:</b> okay  
+<b class="name">Glaucon:</b> so BBS is just a connection to a specific software on a remote computer, email is SMTP used for mailing, and NNTP is a protocol used for news lists?  
+<b class="name">Socrates:</b> pretty much  
+<b class="name">Glaucon:</b> the Internet is a network, the web is a host of sites that are connected via HTTP, FidoNet is a network of BBSes  
+<b class="name">Socrates:</b> BBS is just an interactive (usually bespoke) bit of interactive software you can Telnet to instead of landing in a shell  
+<b class="name">Glaucon:</b> a BBS is just software running on a computer? it doesn't refer to the server itself?  
+<b class="name">Socrates:</b> correct  
+<b class="name">Socrates:</b> BBS is just software, same as an ircd (IRC daemon) (freenode's is called ircd-seven)  
+<b class="name">Socrates:</b> Apache's technical name is "HTTPD"  
+<b class="name">Glaucon:</b> and Usenet is a network of news lists?  
+<b class="name">Socrates:</b> yes  
+<b class="name">Glaucon:</b> it just gets confusing because the usage of these things overlap  
+<b class="name">Socrates:</b> but the problem is the Internet exists at a layer underpinning all these  
 
 Clue through the labyrinth
 --------------------------
 
-**Glaucon:** So who runs the Internet, exactly?  
-**Glaucon:** Is it DARPA still?  
-**Socrates:** no one, it's a collaboration  
-**Socrates:** the Internet is exactly as it sounds: inter-networked networks  
-**Glaucon:** how are they connected?  
-**Glaucon:** satellites? landlines?  
-**Socrates:** consider a university  
-**Socrates:** it has its own computer. later, it has its own network as they buy several computers and plug them together  
-**Socrates:** we have all these universities, and they have computers that are all linked together  
-**Socrates:** for simplicity, you've given them all unique integer names  
-**Socrates:** so you can `ssh socrates@1` to get to server 1  
-**Socrates:** it would be nice to connect this network to another university's network, so you plug all the computers together  
-**Socrates:** and you'll remember a while back I mentioned that you would route between computers with UUCP like `socrates!socratespc!freenode!glauconspc!glaucon`?  
-**Socrates:** my uni doesn't have a direct link to your uni   
-**Socrates:** so we need to bounce through some intermediary, possibly several, to get to your PC  
-**Socrates:** in fact, let's do an experiment now  
-**Socrates:** pop a shell, and `traceroute 8.8.8.8` (the Google DNS server)  
-**Glaucon:** uhh, not a command I have  
-**Glaucon:** I'm on Windows 10 right now  
-**Socrates:** OK, give me a moment  
-**Socrates:** err  
-**Socrates:** `tracert 8.8.8.8`  
-**Socrates:** in `cmd.exe`  
-**Socrates:** you should get something like this:  
+<b class="name">Glaucon:</b> So who runs the Internet, exactly?  
+<b class="name">Glaucon:</b> Is it DARPA still?  
+<b class="name">Socrates:</b> no one, it's a collaboration  
+<b class="name">Socrates:</b> the Internet is exactly as it sounds: inter-networked networks  
+<b class="name">Glaucon:</b> how are they connected?  
+<b class="name">Glaucon:</b> satellites? landlines?  
+<b class="name">Socrates:</b> consider a university  
+<b class="name">Socrates:</b> it has its own computer. later, it has its own network as they buy several computers and plug them together  
+<b class="name">Socrates:</b> we have all these universities, and they have computers that are all linked together  
+<b class="name">Socrates:</b> for simplicity, you've given them all unique integer names  
+<b class="name">Socrates:</b> so you can `ssh socrates@1` to get to server 1  
+<b class="name">Socrates:</b> it would be nice to connect this network to another university's network, so you plug all the computers together  
+<b class="name">Socrates:</b> and you'll remember a while back I mentioned that you would route between computers with UUCP like `socrates!socratespc!freenode!glauconspc!glaucon`?  
+<b class="name">Socrates:</b> my uni doesn't have a direct link to your uni   
+<b class="name">Socrates:</b> so we need to bounce through some intermediary, possibly several, to get to your PC  
+<b class="name">Socrates:</b> in fact, let's do an experiment now  
+<b class="name">Socrates:</b> pop a shell, and `traceroute 8.8.8.8` (the Google DNS server)  
+<b class="name">Glaucon:</b> uhh, not a command I have  
+<b class="name">Glaucon:</b> I'm on Windows 10 right now  
+<b class="name">Socrates:</b> OK, give me a moment  
+<b class="name">Socrates:</b> err  
+<b class="name">Socrates:</b> `tracert 8.8.8.8`  
+<b class="name">Socrates:</b> in `cmd.exe`  
+<b class="name">Socrates:</b> you should get something like this:  
 
 	C:\Users\Socrates>tracert 8.8.8.8
 	
@@ -274,145 +274,145 @@ Clue through the labyrinth
 	
 	Trace complete.
 
-**Glaucon:** is this all the nodes my PC has to get through to, for example, ping Google's DNS?  
-**Socrates:** yes  
-**Socrates:** we'll rename nodes soon, and it'll make more sense  
-**Socrates:** so, we're back in the day, and everyone can just remember that to get from my computer to someone else's, we need to jump through these servers  
-**Socrates:** in the end, the network kept growing, so they decided that some other method would have to be done  
-**Glaucon:** At first, there's a few computers, and only a few directories you'll be sending to, and it's easy to do it manually  
-**Glaucon:** but as the network grows, it needs to be automated, and there needs to be standardized targets for files to be sent to?  
-**Socrates:** so everyone had these local campus networks where every computer had a locally unique number as a name  
-**Socrates:** only 1 computer, probably the oldest one, actually connected to peers  
-**Socrates:** when things got bigger, we decided that we'd say "this central computer (5) can see computers 9, 17, 12, and 3 on its own network"  
-**Socrates:** and it would tell the other computers it connected to at other campuses this  
-**Glaucon:** tells them how?  
-**Socrates:** just, magically for now  
-**Glaucon:** alright  
-**Socrates:** say, MIT's central computer was 91  
-**Socrates:** someone on machine 92 at MIT asks 91, its gateway computer, to send an email to `socrates@9`  
-**Socrates:** MIT looks up all the announcements it has seen, and notices that the last computer that announced 9 was 5, my university's gateway  
-**Socrates:** so it sets up the link 92---91---5---9  
-**Socrates:** so my friend's PC---MIT gateway---Athens gateway---Socrates' PC  
-**Socrates:** now, here's the big jump  
-**Socrates:** Berkeley is way out in California, it's several times as far from Athens as MIT is  
-**Socrates:** I'm never going to connect to California directly  
-**Socrates:** however, Berkeley to MIT is a connection that *does* exist  
-**Socrates:** Berkeley is, say, 173, and has 174--179  
-**Socrates:** it announces to all its peers, including MIT (91), that it hosts 174--179  
-**Socrates:** when I want to email `glaucon@175` from `socrates@9`, this is what happens:  
-**Socrates:** 9 asks 5 (Athens gateway) for 174  
-**Socrates:** 5 (Athens gateway) doesn't have it, so it looks towards its peers to see if they know  
-**Socrates:** none of them do, but 92 (MIT) says "ah yeah, I have a peer, 173 (Berkeley) that has 175; send it through me"  
-**Socrates:** so it goes `socrates@9`---5 (Athens)---91 (MIT)---173 (Berkeley)---`glaucon@174`  
-**Socrates:** these numbers are the names of the nodes you see in `tracert`  
-**Socrates:** they are Inter-net[work] Protocol addresses  
-**Socrates:** routers are gateways that sit on the borders of their own networks and connect to computers that likewise sit at the border of their own network  
-**Socrates:** in this case, 5, 91, and 173 for the routers at Athens, MIT, and Berkeley, and they announce the IPs they host, as well as the networks their peers host, and that their peers' peers host  
+<b class="name">Glaucon:</b> is this all the nodes my PC has to get through to, for example, ping Google's DNS?  
+<b class="name">Socrates:</b> yes  
+<b class="name">Socrates:</b> we'll rename nodes soon, and it'll make more sense  
+<b class="name">Socrates:</b> so, we're back in the day, and everyone can just remember that to get from my computer to someone else's, we need to jump through these servers  
+<b class="name">Socrates:</b> in the end, the network kept growing, so they decided that some other method would have to be done  
+<b class="name">Glaucon:</b> At first, there's a few computers, and only a few directories you'll be sending to, and it's easy to do it manually  
+<b class="name">Glaucon:</b> but as the network grows, it needs to be automated, and there needs to be standardized targets for files to be sent to?  
+<b class="name">Socrates:</b> so everyone had these local campus networks where every computer had a locally unique number as a name  
+<b class="name">Socrates:</b> only 1 computer, probably the oldest one, actually connected to peers  
+<b class="name">Socrates:</b> when things got bigger, we decided that we'd say "this central computer (5) can see computers 9, 17, 12, and 3 on its own network"  
+<b class="name">Socrates:</b> and it would tell the other computers it connected to at other campuses this  
+<b class="name">Glaucon:</b> tells them how?  
+<b class="name">Socrates:</b> just, magically for now  
+<b class="name">Glaucon:</b> alright  
+<b class="name">Socrates:</b> say, MIT's central computer was 91  
+<b class="name">Socrates:</b> someone on machine 92 at MIT asks 91, its gateway computer, to send an email to `socrates@9`  
+<b class="name">Socrates:</b> MIT looks up all the announcements it has seen, and notices that the last computer that announced 9 was 5, my university's gateway  
+<b class="name">Socrates:</b> so it sets up the link 92---91---5---9  
+<b class="name">Socrates:</b> so my friend's PC---MIT gateway---Athens gateway---Socrates' PC  
+<b class="name">Socrates:</b> now, here's the big jump  
+<b class="name">Socrates:</b> Berkeley is way out in California, it's several times as far from Athens as MIT is  
+<b class="name">Socrates:</b> I'm never going to connect to California directly  
+<b class="name">Socrates:</b> however, Berkeley to MIT is a connection that *does* exist  
+<b class="name">Socrates:</b> Berkeley is, say, 173, and has 174--179  
+<b class="name">Socrates:</b> it announces to all its peers, including MIT (91), that it hosts 174--179  
+<b class="name">Socrates:</b> when I want to email `glaucon@175` from `socrates@9`, this is what happens:  
+<b class="name">Socrates:</b> 9 asks 5 (Athens gateway) for 174  
+<b class="name">Socrates:</b> 5 (Athens gateway) doesn't have it, so it looks towards its peers to see if they know  
+<b class="name">Socrates:</b> none of them do, but 92 (MIT) says "ah yeah, I have a peer, 173 (Berkeley) that has 175; send it through me"  
+<b class="name">Socrates:</b> so it goes `socrates@9`---5 (Athens)---91 (MIT)---173 (Berkeley)---`glaucon@174`  
+<b class="name">Socrates:</b> these numbers are the names of the nodes you see in `tracert`  
+<b class="name">Socrates:</b> they are Inter-net[work] Protocol addresses  
+<b class="name">Socrates:</b> routers are gateways that sit on the borders of their own networks and connect to computers that likewise sit at the border of their own network  
+<b class="name">Socrates:</b> in this case, 5, 91, and 173 for the routers at Athens, MIT, and Berkeley, and they announce the IPs they host, as well as the networks their peers host, and that their peers' peers host  
 
 I know a guy who knows a guy
 ----------------------------
 
-**Glaucon:** so in the early days, did computers connected to these networks have routers?  
-**Glaucon:** or was it software?  
-**Glaucon:** For example, having the gateway computer handle the routing, as opposed to a designated single router  
-**Socrates:** in the early days, every computer was general  
-**Socrates:** so you'd have a computer that was your computer to do stuff on via a serial terminal  
-**Socrates:** that computer had a mail server for sending mail to other users on that server  
-**Glaucon:** So could I theoretically use a router as a computer?  
-**Socrates:** yes  
-**Glaucon:** neato  
-**Socrates:** and vice versa, your laptop could be a router  
-**Socrates:** all at same time as normal  
-**Glaucon:** right, kinda like using your phone as a hotspot?  
-**Socrates:** yeah  
-**Socrates:** its all just software  
-**Glaucon:** right right  
-**Glaucon:** routing software  
-**Socrates:** so we have local networks, where some machines on those networks are connected deeply to their own network, but also to the borders of other networks, acting as gateways  
-**Socrates:** the protocol they use to *announce* these links and the routes that you can use to get from one computer to another, is called BGP, the Border Gateway Protocol  
-**Socrates:** each BGP peer has an Autonomous System Number---don't worry about the name on that one---and they announce the IP prefixes they can route to  
-**Socrates:** each ISP is allotted a certain group of IPs  
-**Socrates:** say 1.2.3.1--255  
-**Socrates:** so they host the prefix 1.2.3.0/24 (24 bits i.e. 3x bytes 1.2.3 and then 8 bits left at the end)  
-**Glaucon:** and whoever they provide Internet service to, gets assigned an IP?  
-**Socrates:** yes  
-**Socrates:** they say to their peers, "I'm AS25178, and I host 1.2.3.0/24"  
-**Socrates:** so all the other routers they are connected to know that 1.2.3.99 is by that router  
-**Socrates:** they can also announce to their peers the router downstream of them  
-**Socrates:** so say you have AS75---AS192---AS1  
-**Socrates:** AS75 says "I have 1.2.3.0/24" to AS192  
-**Socrates:** AS192 says to AS1: "I have 9.8.7.0/24, also 1.2.3.0/24 [as a downstream peer]"  
-**Socrates:** so now AS1 knows that if they want to get 9.8.7.15, that goes to AS192  
-**Socrates:** if they want to get 1.2.3.99, they send it to AS192 as well, who knows to send it to AS75, who has the IP proper  
-**Glaucon:** so an ISP is like a general gateway?  
-**Glaucon:** and BGP is the protocol that links ISPs together?  
-**Socrates:** an ISP is just one kind of network, usually selling access to their network, but more importantly to the rest of the Internet, via their router  
-**Socrates:** this is how the chain in `tracert` output is formed  
-**Glaucon:** you could use a ham radio's server as an "ISP" if you wanted  
-**Socrates:** yep, and people do  
-**Socrates:** in fact, a lot of finance companies have radio networks  
-**Socrates:** the point is that the Internet doesn't really care about the physical medium  
-**Socrates:** you can route over Ethernet, radio, fiber-optic, or printed-out packet data, scanned, after being transported by pigeon  
-**Glaucon:** IPoAC [^ioa]  
-**Socrates:** right  
-**Socrates:** all that needs to happen is that routers can resolve a route from beginning to end via the IP prefixes they know about  
-**Glaucon:** it just cares about the protocol?  
-**Socrates:** "the" protocol?  
-**Glaucon:** BGP? You mentioned it, and didn't explain it  
-**Glaucon:** you said BGP is to the Internet as HTTP is to the web  
-**Socrates:** right. you asked earlier "how do routers tell each other what IPs they have"  
-**Socrates:** BGP is the protocol that routers use to announce to their peers what IPs they own or can reach on their behalf  
-**Glaucon:** so let's say my router is connected to my next door neighbor's router  
-**Glaucon:** we're crazy and we physically connected them with a very long cable  
-**Socrates:** that's how most of the world does it  
-**Socrates:** very long cables across the ocean  
-**Glaucon:** let's say he has two computers in connected to his router  
-**Glaucon:** I'm gonna send an email, but not to my friend  
-**Glaucon:** I'm gonna send it to someone in Zimbabwe  
-**Glaucon:** I send the email  
-**Glaucon:** Does my router, ask both my friend's router, as well as the ISP's gateway about that IP I'm looking for?  
-**Glaucon:** does it contact every gateway it's directly connected to, and whichever does actually have the gateway responds?  
-**Glaucon:** and what if I want to connect directly to my friend, and I can connect directly through his router, or by going through the ISP and back, can my router figure out that one router has a shorter route, and automatically chose that?  
+<b class="name">Glaucon:</b> so in the early days, did computers connected to these networks have routers?  
+<b class="name">Glaucon:</b> or was it software?  
+<b class="name">Glaucon:</b> For example, having the gateway computer handle the routing, as opposed to a designated single router  
+<b class="name">Socrates:</b> in the early days, every computer was general  
+<b class="name">Socrates:</b> so you'd have a computer that was your computer to do stuff on via a serial terminal  
+<b class="name">Socrates:</b> that computer had a mail server for sending mail to other users on that server  
+<b class="name">Glaucon:</b> So could I theoretically use a router as a computer?  
+<b class="name">Socrates:</b> yes  
+<b class="name">Glaucon:</b> neato  
+<b class="name">Socrates:</b> and vice versa, your laptop could be a router  
+<b class="name">Socrates:</b> all at same time as normal  
+<b class="name">Glaucon:</b> right, kinda like using your phone as a hotspot?  
+<b class="name">Socrates:</b> yeah  
+<b class="name">Socrates:</b> its all just software  
+<b class="name">Glaucon:</b> right right  
+<b class="name">Glaucon:</b> routing software  
+<b class="name">Socrates:</b> so we have local networks, where some machines on those networks are connected deeply to their own network, but also to the borders of other networks, acting as gateways  
+<b class="name">Socrates:</b> the protocol they use to *announce* these links and the routes that you can use to get from one computer to another, is called BGP, the Border Gateway Protocol  
+<b class="name">Socrates:</b> each BGP peer has an Autonomous System Number---don't worry about the name on that one---and they announce the IP prefixes they can route to  
+<b class="name">Socrates:</b> each ISP is allotted a certain group of IPs  
+<b class="name">Socrates:</b> say 1.2.3.1--255  
+<b class="name">Socrates:</b> so they host the prefix 1.2.3.0/24 (24 bits i.e. 3x bytes 1.2.3 and then 8 bits left at the end)  
+<b class="name">Glaucon:</b> and whoever they provide Internet service to, gets assigned an IP?  
+<b class="name">Socrates:</b> yes  
+<b class="name">Socrates:</b> they say to their peers, "I'm AS25178, and I host 1.2.3.0/24"  
+<b class="name">Socrates:</b> so all the other routers they are connected to know that 1.2.3.99 is by that router  
+<b class="name">Socrates:</b> they can also announce to their peers the router downstream of them  
+<b class="name">Socrates:</b> so say you have AS75---AS192---AS1  
+<b class="name">Socrates:</b> AS75 says "I have 1.2.3.0/24" to AS192  
+<b class="name">Socrates:</b> AS192 says to AS1: "I have 9.8.7.0/24, also 1.2.3.0/24 [as a downstream peer]"  
+<b class="name">Socrates:</b> so now AS1 knows that if they want to get 9.8.7.15, that goes to AS192  
+<b class="name">Socrates:</b> if they want to get 1.2.3.99, they send it to AS192 as well, who knows to send it to AS75, who has the IP proper  
+<b class="name">Glaucon:</b> so an ISP is like a general gateway?  
+<b class="name">Glaucon:</b> and BGP is the protocol that links ISPs together?  
+<b class="name">Socrates:</b> an ISP is just one kind of network, usually selling access to their network, but more importantly to the rest of the Internet, via their router  
+<b class="name">Socrates:</b> this is how the chain in `tracert` output is formed  
+<b class="name">Glaucon:</b> you could use a ham radio's server as an "ISP" if you wanted  
+<b class="name">Socrates:</b> yep, and people do  
+<b class="name">Socrates:</b> in fact, a lot of finance companies have radio networks  
+<b class="name">Socrates:</b> the point is that the Internet doesn't really care about the physical medium  
+<b class="name">Socrates:</b> you can route over Ethernet, radio, fiber-optic, or printed-out packet data, scanned, after being transported by pigeon  
+<b class="name">Glaucon:</b> IPoAC [^ioa]  
+<b class="name">Socrates:</b> right  
+<b class="name">Socrates:</b> all that needs to happen is that routers can resolve a route from beginning to end via the IP prefixes they know about  
+<b class="name">Glaucon:</b> it just cares about the protocol?  
+<b class="name">Socrates:</b> "the" protocol?  
+<b class="name">Glaucon:</b> BGP? You mentioned it, and didn't explain it  
+<b class="name">Glaucon:</b> you said BGP is to the Internet as HTTP is to the web  
+<b class="name">Socrates:</b> right. you asked earlier "how do routers tell each other what IPs they have"  
+<b class="name">Socrates:</b> BGP is the protocol that routers use to announce to their peers what IPs they own or can reach on their behalf  
+<b class="name">Glaucon:</b> so let's say my router is connected to my next door neighbor's router  
+<b class="name">Glaucon:</b> we're crazy and we physically connected them with a very long cable  
+<b class="name">Socrates:</b> that's how most of the world does it  
+<b class="name">Socrates:</b> very long cables across the ocean  
+<b class="name">Glaucon:</b> let's say he has two computers in connected to his router  
+<b class="name">Glaucon:</b> I'm gonna send an email, but not to my friend  
+<b class="name">Glaucon:</b> I'm gonna send it to someone in Zimbabwe  
+<b class="name">Glaucon:</b> I send the email  
+<b class="name">Glaucon:</b> Does my router, ask both my friend's router, as well as the ISP's gateway about that IP I'm looking for?  
+<b class="name">Glaucon:</b> does it contact every gateway it's directly connected to, and whichever does actually have the gateway responds?  
+<b class="name">Glaucon:</b> and what if I want to connect directly to my friend, and I can connect directly through his router, or by going through the ISP and back, can my router figure out that one router has a shorter route, and automatically chose that?  
 
 Mr. Osborne, may I be excused?
 ------------------------------
 
-**Socrates:** you'll notice so far that everything I've spoken about so far has a linear network  
-**Socrates:** everyone has at most 2 router peers—their left and their right  
-**Socrates:** really this needs a diagram  
-**Socrates:** want me to make one up for you?  
-**Socrates:** it'll help a lot  
+<b class="name">Socrates:</b> you'll notice so far that everything I've spoken about so far has a linear network  
+<b class="name">Socrates:</b> everyone has at most 2 router peers—their left and their right  
+<b class="name">Socrates:</b> really this needs a diagram  
+<b class="name">Socrates:</b> want me to make one up for you?  
+<b class="name">Socrates:</b> it'll help a lot  
 
-*Despite his litany of questions, Glaucon suddenly realises he is exhausted.*
+*Despite his litany of questions, <span class="name">Glaucon</span> suddenly realises he is exhausted.*
 
-**Glaucon:** Uhh, can we do this in the morning  
-**Glaucon:** I'm extremely curious  
-**Socrates:** I'm glad  
-**Glaucon:** and having trouble keeping my eyes open  
-**Socrates:** BGP is the biggest monster on the Internet  
-**Socrates:** everyone has been hiding under the covers and pretending its not under the bed  
-**Socrates:** for years  
-**Socrates:** and you'll see why tomorrow  
-**Glaucon:** Well, it's rare I get someone so knowledgeable that's so willing to share  
+<b class="name">Glaucon:</b> Uhh, can we do this in the morning  
+<b class="name">Glaucon:</b> I'm extremely curious  
+<b class="name">Socrates:</b> I'm glad  
+<b class="name">Glaucon:</b> and having trouble keeping my eyes open  
+<b class="name">Socrates:</b> BGP is the biggest monster on the Internet  
+<b class="name">Socrates:</b> everyone has been hiding under the covers and pretending its not under the bed  
+<b class="name">Socrates:</b> for years  
+<b class="name">Socrates:</b> and you'll see why tomorrow  
+<b class="name">Glaucon:</b> Well, it's rare I get someone so knowledgeable that's so willing to share  
 
-*Glaucon says his goodbyes, and leaves the agora for bed.*
+*<span class="name">Glaucon</span> says his goodbyes, and leaves the agora for bed.*
 
 Epilogue
 --------
 
-*Later that evening, Socrates speaks to Thrasymachus.*
+*Later that evening, <span class="name">Socrates</span> speaks to <span class="name">Thrasymachus</span>.*
 
-**Socrates:** did you see my BGP explainer earlier?  
-**Thrasymachus:** Yeah but I haven't read it thoroughly  
-**Socrates:** probably for the best  
-**Thrasymachus:** No, I'll read it, a) don't assume I know a lot, b) even if I did notice something wrong, it's not like he's not getting amazing value for money  
-**Socrates:** tbh its close enough anyway  
-**Thrasymachus:** I do soak up some BGP stuff, but mostly they keep me out of it and firmly at a command line  
-**Thrasymachus:** People get high-paying jobs basically out of making BGP work properly  
-**Socrates:** I've touched BGP once, and it was not a good experience  
-**Thrasymachus:** Yeah...  
-**Socrates:** even the experienced guy was like "tbh we'll see what happens if we make the news for blackholing the city"  
-**Thrasymachus:** Yeah.  
+<b class="name">Socrates:</b> did you see my BGP explainer earlier?  
+<b class="name">Thrasymachus:</b> Yeah but I haven't read it thoroughly  
+<b class="name">Socrates:</b> probably for the best  
+<b class="name">Thrasymachus:</b> No, I'll read it, a) don't assume I know a lot, b) even if I did notice something wrong, it's not like he's not getting amazing value for money  
+<b class="name">Socrates:</b> tbh its close enough anyway  
+<b class="name">Thrasymachus:</b> I do soak up some BGP stuff, but mostly they keep me out of it and firmly at a command line  
+<b class="name">Thrasymachus:</b> People get high-paying jobs basically out of making BGP work properly  
+<b class="name">Socrates:</b> I've touched BGP once, and it was not a good experience  
+<b class="name">Thrasymachus:</b> Yeah...  
+<b class="name">Socrates:</b> even the experienced guy was like "tbh we'll see what happens if we make the news for blackholing the city"  
+<b class="name">Thrasymachus:</b> Yeah.  
 
 [^bsd]: An [implementation of *Tetris*](https://www.invidio.us/watch?v=RI64hStZ7mU) available on BSD that runs in a terminal.
 [^sep]: In 1993, America Online's aggressively marketed consumer internet plans led to a massive influx of new users to Usenet that overwhelmed the established culture there.  This is generally referred to as ["the September that never ended"](https://en.wikipedia.org/wiki/Eternal_September), named for the month in which a more manageable influx of new users joining from American universities had been expected in prior years.
