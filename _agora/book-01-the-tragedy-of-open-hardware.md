@@ -645,4 +645,4 @@ Epilogue
 
 [^rpi]: An 8GB variant of the Raspberry Pi 4 had recently been released: <https://www.raspberrypi.org/blog/8gb-raspberry-pi-4-on-sale-now-at-75/>
 [^rtl]: Register Transfer Level: <https://en.wikipedia.org/wiki/Register-transfer_level>
-[^ice]: The Lattice iCE line of FPGAs was one of the only FPGA families to have had its bitstream protocol reverse engineered. This enabled a fully FOSS toolchain to be produced, unlike any other in the notoriously proprietary space. <https://en.wikipedia.org/wiki/ICE_(FPGA)#Open_source>
+[^ice]: The Lattice iCE line of FPGAs was one of the only FPGA families to have had its bitstream protocol reverse engineered. This enabled a fully free and open-source toolchain to be produced, unlike any other in the notoriously proprietary space. <https://en.wikipedia.org/wiki/ICE_(FPGA)#Open_source>
