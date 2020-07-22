@@ -44,7 +44,7 @@ Prelude
 **Socrates:** NNTP services were not something afforded to home users at the beginning of the Internet  
 **Socrates:** so a BBS service that did have access to Usenet was a good springboard  
 **Socrates:** that some of these BBS services peered with each other is separate  
-**Glaucon:** right, BBS was a weird custom connection to a server which had email and connections with other users and stuff, but you couldn't just Telnet in usually, you needed the software  
+**Glaucon:** right, BBS was a weird custom connection to a server which had email and connections with other users and stuff, but you couldn't just Telnet in usually, you needed the software?  
 **Socrates:** no  
 **Glaucon:** I'm lost then  
 **Glaucon:** go on  
@@ -63,7 +63,7 @@ A strange game
 **Socrates:** anyway  
 **Socrates:** imagine now that you did this via Telnet  
 **Socrates:** and imagine instead of Tetris it was something like a modern (well, late 00s I guess now) web forum  
-**Glaucon:** was I supposed to play multiplayer to test  
+**Glaucon:** was I supposed to play multiplayer to test?  
 **Socrates:** I don't really care as long as you get the picture  
 **Socrates:** this is what a BBS was  
 **Adeimantus:** except with awesome ASCII art  
@@ -92,7 +92,7 @@ The genealogy of network forums
 **Glaucon:** oh okay  
 **Socrates:** of which FidoNet was an overlaid network  
 **Socrates:** BBS were like forums  
-**Glaucon:** BBS is a custom Telnet, FidoNet was a network of them, and Usenet is more like proto-Internet  
+**Glaucon:** BBS is a custom Telnet, FidoNet was a network of them, and Usenet is more like proto-Internet?  
 **Socrates:** no  
 **Socrates:** Glaucon: BBSes were just software running on a server  
 **Glaucon:** but that's an accurate description of BBS?  
@@ -199,7 +199,7 @@ Protocols vs networks
 **Socrates:** pretty much the only other networks were tiny  
 **Socrates:** Usenet became *the* network, in the same way that The Internet is *the* inter-network-network  
 **Glaucon:** even though the Internet is just a network, the protocol is HTTP  
-**Glaucon:** but because it's so ubiquitous we think of it as the way of connecting itself sometimes  
+**Glaucon:** but because it's so ubiquitous we think of it as the way of connecting itself sometimes?  
 **Socrates:** well, no, the Internet isn't HTTP; the *web* is  
 **Glaucon:** right right, the world wide web is HTTP  
 **Socrates:** anyway, NNTP went down this whole path by itself, and eventually was entirely diverged, as email made its own evolution from very simple local mail servers into its own fully fledged SMTP system  
@@ -325,7 +325,7 @@ I know a guy who knows a guy
 **Socrates:** each ISP is allotted a certain group of IPs  
 **Socrates:** say 1.2.3.1--255  
 **Socrates:** so they host the prefix 1.2.3.0/24 (24 bits i.e. 3x bytes 1.2.3 and then 8 bits left at the end)  
-**Glaucon:** and whoever they provide Internet service to, gets assigned an IP  
+**Glaucon:** and whoever they provide Internet service to, gets assigned an IP?  
 **Socrates:** yes  
 **Socrates:** they say to their peers, "I'm AS25178, and I host 1.2.3.0/24"  
 **Socrates:** so all the other routers they are connected to know that 1.2.3.99 is by that router  
