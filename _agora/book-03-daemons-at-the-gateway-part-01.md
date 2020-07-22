@@ -31,6 +31,8 @@ In order of appearance:
 Prelude
 -------
 
+*The citizens in the agora have been discussing the finer points of mail servers, conversational automata, and correctly naming characters in <cite>Sailor Moon</cite>, before Glaucon poses his question.*
+
 **Glaucon:** Socrates, do you know what FidoNet and Usenet are?  
 **Socrates:** yes  
 **Glaucon:** what's the difference between them?  
@@ -54,6 +56,9 @@ A strange game
 
 **Socrates:** `$ ssh netris.rocketnine.space`  
 **Socrates:** enjoy a game, get back to me in 5  
+
+*Glaucon, Adeimantus, and Thrasymachus each try the game.*
+
 **Adeimantus:** wow, better than BSD `tetris` [^bsd]  
 **Thrasymachus:** Cool  
 **Socrates:** good, right?  
@@ -126,12 +131,14 @@ Cursing daemons
 
 **Glaucon:** I understand so far  
 **Glaucon:** but what's a daemon?  
-**Glaucon:** I still don't quite understand  
-**Socrates:** a daemon is just server software  
-**Pyrrhus:** A daemon is just a program that can run without user input strictly required  
 **Glaucon:** I read that term a few days ago and was like "wat"  
-**Adeimantus:** what's a daemon? really?  
+
+*Surprised by this confession of ignorance, Adeimantus interrupts, attracting the attention of Pyrrhus, another newcomer.*
+
+**Adeimantus:** "what's a daemon?" *really?*  
 **Glaucon:** okay okay, go on  
+**Pyrrhus:** A daemon is just a program that can run without user input strictly required  
+**Socrates:** a daemon is just server software  
 **Socrates:** `httpd` = http daemon = Apache  
 **Socrates:** etc  
 **Glaucon:** neato  
@@ -142,6 +149,8 @@ Cursing daemons
 
 Uni-to-uni copy
 ---------------
+
+*After a brief scuffle about systemd, Socrates' lesson resumes.*
 
 **Socrates:** anyway, some bastard decided it would be cool if MIT could speak to Berkeley to share projects, and ARPA (later DARPA) decided "shit man, it would be really cool if we could do this in the military, too"  
 **Socrates:** so ARPA paid a lot of money for research, and experimental campus-to-campus networking that connected MIT to Berkeley to Los Alamos, etc  
@@ -373,6 +382,9 @@ Mr. Osborne, may I be excused?
 **Socrates:** really this needs a diagram  
 **Socrates:** want me to make one up for you?  
 **Socrates:** it'll help a lot  
+
+*Despite his litany of questions, Glaucon suddenly realises he is exhausted.*
+
 **Glaucon:** Uhh, can we do this in the morning  
 **Glaucon:** I'm extremely curious  
 **Socrates:** I'm glad  
@@ -383,10 +395,14 @@ Mr. Osborne, may I be excused?
 **Socrates:** and you'll see why tomorrow  
 **Glaucon:** Well, it's rare I get someone so knowledgeable that's so willing to share  
 
+*Glaucon says his goodbyes, and leaves the agora for bed.*
+
 Epilogue
 --------
 
-**Socrates:** Thrasymachus: did you see my BGP explainer earlier?  
+*Later that evening, Socrates speaks to Thrasymachus.*
+
+**Socrates:** did you see my BGP explainer earlier?  
 **Thrasymachus:** Yeah but I haven't read it thoroughly  
 **Socrates:** probably for the best  
 **Thrasymachus:** No, I'll read it, a) don't assume I know a lot, b) even if I did notice something wrong, it's not like he's not getting amazing value for money  
