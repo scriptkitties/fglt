@@ -59,12 +59,10 @@ A strange game
 **Socrates:** Glaucon: good, right?  
 **Glaucon:** I didn't know you could do something like this with SSH  
 **Glaucon:** the latency is non-existent  
-**Socrates:** OK  
-**Socrates:** anyway  
 **Socrates:** imagine now that you did this via Telnet  
 **Socrates:** and imagine instead of Tetris it was something like a modern (well, late 00s I guess now) web forum  
 **Glaucon:** was I supposed to play multiplayer to test?  
-**Socrates:** I don't really care as long as you get the picture  
+**Socrates:** I don't really mind as long as you get the picture  
 **Socrates:** this is what a BBS was  
 **Adeimantus:** except with awesome ASCII art  
 **Socrates:** yes, in the late BBS age, there were experiments in using other protocols, usually for more advanced graphical capabilities  
