@@ -146,8 +146,8 @@ Uni-to-uni copy
 **Socrates:** anyway, some bastard decided it would be cool if MIT could speak to Berkeley to share projects, and ARPA (later DARPA) decided "shit man, it would be really cool if we could do this in the military, too"  
 **Socrates:** so ARPA paid a lot of money for research, and experimental campus-to-campus networking that connected MIT to Berkeley to Los Alamos, etc  
 **Socrates:** let me get the map  
-**Socrates:** <https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arpanet_1974.svg/1920px-Arpanet_1974.svg.png>  
-**Socrates:** (or <https://upload.wikimedia.org/wikipedia/commons/b/bf/Arpanet_logical_map%2C_march_1977.png>)  
+**Socrates:** [https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arpanet_1974.svg/1920px-Arpanet_1974.svg.png](/assets/img/agora/arpanet-1974.png)  
+**Socrates:** (or [https://upload.wikimedia.org/wikipedia/commons/b/bf/Arpanet_logical_map%2C_march_1977.png](/assets/img/agora/arpanet-1977.png))  
 **Socrates:** this network came about, and someone said, "sure would be cool if I could mail Peter at Berkeley, like I could mail Alice here"  
 **Socrates:** then someone said "well we have this tool called `uucp` [Unix-to-Unix copy, basically the granddaddy of `scp`], and mail messages are just files---why not hack them together?"  
 **Glaucon:** I have a feeling I don't know what `scp` is  
