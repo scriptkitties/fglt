@@ -56,7 +56,7 @@ A strange game
 **Socrates:** enjoy a game, get back to me in 5  
 **Adeimantus:** wow, better than BSD `tetris` [^bsd]  
 **Thrasymachus:** Cool  
-**Socrates:** Glaucon: good, right?  
+**Socrates:** good, right?  
 **Glaucon:** I didn't know you could do something like this with SSH  
 **Glaucon:** the latency is non-existent  
 **Socrates:** imagine now that you did this via Telnet  
@@ -92,7 +92,7 @@ The genealogy of network forums
 **Socrates:** BBS were like forums  
 **Glaucon:** BBS is a custom Telnet, FidoNet was a network of them, and Usenet is more like proto-Internet?  
 **Socrates:** no  
-**Socrates:** Glaucon: BBSes were just software running on a server  
+**Socrates:** BBSes were just software running on a server  
 **Glaucon:** but that's an accurate description of BBS?  
 **Glaucon:** right  
 **Socrates:** you still had to connect like Telnet  
