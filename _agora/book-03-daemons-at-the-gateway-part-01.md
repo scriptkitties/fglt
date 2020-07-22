@@ -38,7 +38,7 @@ Prelude
 **Socrates:** Usenet was a network of NNTP servers  
 **Socrates:** FidoNet was a network of bulletin board systems  
 **Socrates:** NNTP is a sister protocol to email, which had shared roots in using what was basically SCP to copy people's mail and files around  
-**Socrates:** BBSes were basically someone who said "what if I put a custom login shell on my home SSH connection a la netris.rocketnine.space  
+**Socrates:** BBSes were basically someone who said "what if I put a custom login shell on my home SSH connection a la [netris.rocketnine.space](https://netris.rocketnine.space)  
 **Glaucon:** but I've heard people use FidoNet to connect to Usenet?  
 **Socrates:** yes, in the same way that you can use some SSH shell server to connect to IRC  
 **Socrates:** NNTP services were not something afforded to home users at the beginning of the Internet  
