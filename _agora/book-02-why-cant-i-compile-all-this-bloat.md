@@ -434,7 +434,7 @@ Learn Python, dammit
 Epilogue
 --------
 
-<b class="name">Socrates:</b> what's a linker  
+<b class="name">Socrates:</b> what's a linker?  
 <b class="name">Adeimantus:</b> not doing much C, as I recall, a linker is used in compilation to combine object files into other files  
 <b class="name">Socrates:</b> thanks for that  
 <b class="name">Adeimantus:</b> did I miss something here?  

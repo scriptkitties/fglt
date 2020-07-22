@@ -97,7 +97,7 @@ The economics of open hardware
 ------------------------------
 
 <b class="name">Glaucon:</b> I don't understand why I can't get an SBC with an open source CPU  
-<b class="name">Socrates:</b> that's because you don't understand market economics, but that's ok  
+<b class="name">Socrates:</b> that's because you don't understand market economics, but that's OK  
 <b class="name">Socrates:</b> if SBC grade is what you're looking for, you can get RISC-V now for a shit perf:$ ratio, but a low absolute cost  
 <b class="name">Glaucon:</b> okay  
 <b class="name">Glaucon:</b> but a few hundred dollars would be possible  
@@ -136,7 +136,7 @@ The economics of open hardware
 <b class="name">Socrates:</b> what you're upgrading from  
 <b class="name">Glaucon:</b> I don't understand  
 <b class="name">Glaucon:</b> that's what I'm upgrading from, that tower, do you want the model  
-<b class="name">Socrates:</b> ok  
+<b class="name">Socrates:</b> OK  
 <b class="name">Socrates:</b> just get whatever the most-FOSS SBC you can find is  
 <b class="name">Socrates:</b> but just remember that half of them aren't actually FOSS  
 <b class="name">Socrates:</b> (either because they are crippled when running FOSS only, or they ship violating blobs)  
@@ -193,7 +193,7 @@ The economics of open hardware
 <b class="name">Glaucon:</b> a cheap chinese SBC is still preferable to an x86 tower  
 <b class="name">Glaucon:</b> in this case  
 <b class="name">Glaucon:</b> and I don't have 1000 dollars  
-<b class="name">Socrates:</b> ok, but a cheap chinese SBC will not be any more free  
+<b class="name">Socrates:</b> OK, but a cheap chinese SBC will not be any more free  
 <b class="name">Socrates:</b> instead you're just going to be more limited  
 <b class="name">Glaucon:</b> a Rockchip is more open than an Intel CPU  
 <b class="name">Glaucon:</b> lol  
@@ -210,7 +210,7 @@ The economics of open hardware
 <b class="name">Glaucon:</b> I'd like to meet them, that they can just decide they have a bigger budget on the fly  
 <b class="name">Glaucon:</b> I'm relaxing openness   
 <b class="name">Glaucon:</b> And I still think getting an ARM Banana Pi or something is a better option than buying a new Wintel tower  
-<b class="name">Socrates:</b> ok, then accept that any SBC you have is going to be loaded with blobs out the foundry  
+<b class="name">Socrates:</b> OK, then accept that any SBC you have is going to be loaded with blobs out the foundry  
 <b class="name">Glaucon:</b> When did I say that I didn't accept this  
 <b class="name">Socrates:</b> you came in here saying you wanted to be more open  
 <b class="name">Glaucon:</b> Okay but when did I say that I didn't accept that  
@@ -275,7 +275,7 @@ The false promises of ARM
 <b class="name">Socrates:</b> this isn't the same as the analogy you're drawing in your head  
 <b class="name">Glaucon:</b> I think you misunderstand  
 <b class="name">Glaucon:</b> I know only one manufacturer will only ever make any particular ARM device  
-<b class="name">Socrates:</b> ok, let me reframe it  
+<b class="name">Socrates:</b> OK, let me reframe it  
 <b class="name">Socrates:</b> ARM-based chips are motherboards  
 <b class="name">Socrates:</b> the only replaceable part is the ARM IP core  
 <b class="name">Glaucon:</b> that's fine with me  
@@ -574,7 +574,7 @@ FPGAs
 <b class="name">Socrates:</b> s/ARM/RISC-V  
 <b class="name">Glaucon:</b> what FPGA do you recommend  
 <b class="name">Glaucon:</b> I kinda wanna do this  
-<b class="name">Socrates:</b> I mean, this will probably take 2-3 years of learning and a few thousand dollars  
+<b class="name">Socrates:</b> I mean, this will probably take 2--3 years of learning and a few thousand dollars  
 <b class="name">Socrates:</b> but the cost is spread out  
 <b class="name">Socrates:</b> its things like replacing a $300 FPGA board when you trash the first one  
 <b class="name">Glaucon:</b> mmmmmmmmmmmmm  
@@ -586,7 +586,7 @@ FPGAs
 <b class="name">Socrates:</b> there are various FPGAs that have been reversed well enough to be targeted by FOSS toolchains  
 <b class="name">Socrates:</b> have a look at the butterfly  
 <b class="name">Socrates:</b> <https://papilio.cc/>  
-<b class="name">Socrates:</b> an AVR will take 1/2-1/3rd of these devices  
+<b class="name">Socrates:</b> an AVR will take ½--⅓ of these devices  
 <b class="name">Glaucon:</b> what's an AVR?  
 <b class="name">Glaucon:</b> I still don't quite understand  
 <b class="name">Socrates:</b> an AVR is a microcontroller  
@@ -610,7 +610,7 @@ Doing it the hardest way
 <b class="name">Socrates:</b> then do it  
 <b class="name">Socrates:</b> same way: start with Arduino, learn how electronics work, then start with FPGAs, blink a few LEDs, then try your first 3rd party IP, then start thinking about gluing them together  
 <b class="name">Glaucon:</b> nah nah nah I'll be gucci  
-<b class="name">Socrates:</b> ok  
+<b class="name">Socrates:</b> OK  
 <b class="name">Glaucon:</b> I'll figure it out from the bottom up  
 <b class="name">Glaucon:</b> from electricity to circuitry to simple circuits to a simple Intel 4004 PC  
 <b class="name">Socrates:</b> well, enjoy your paint by numbers CPU but you're going to spent twice as long and twice as much by just slamming yourself into the higher end of it rather than actually learning  
@@ -620,7 +620,7 @@ Doing it the hardest way
 <b class="name">Glaucon:</b> nah I'll just buy a breadboard we'll be gucci  
 <b class="name">Socrates:</b> then you can ditch the Arduino software framework, write C directly, understand how co-silicon peripherals interact  
 <b class="name">Socrates:</b> etc  
-<b class="name">Socrates:</b> ok  
+<b class="name">Socrates:</b> OK  
 <b class="name">Socrates:</b> well  
 <b class="name">Socrates:</b> enjoy your timing errors, transparent latches eating 30% of your gate count, and parasitic capacitance meaning you can never find a compromise between stable clock and voltage  
 <b class="name">Glaucon:</b> I will  
