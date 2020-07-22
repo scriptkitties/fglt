@@ -54,7 +54,7 @@ A strange game
 
 **Socrates:** `$ ssh netris.rocketnine.space`  
 **Socrates:** enjoy a game, get back to me in 5  
-**Adeimantus:** wow, better than BSD `tetris`  
+**Adeimantus:** wow, better than BSD `tetris` [^bsd]  
 **Thrasymachus:** Cool  
 **Socrates:** Glaucon: good, right?  
 **Glaucon:** I didn't know you could do something like this with SSH  
@@ -71,7 +71,7 @@ A strange game
 **Socrates:** FidoNet likewise was a popular experiment, but an experiment nonetheless  
 **Glaucon:** even with stronger PCs, I still don't get it  
 **Glaucon:** why did we stop?  
-**Socrates:** AOL, basically  
+**Socrates:** AOL, basically [^sep]  
 
 The genealogy of network forums
 -------------------------------
@@ -103,7 +103,7 @@ The genealogy of network forums
 **Socrates:** (i.e., it's not at all custom, just instead of launching `bash`, it launches another application)  
 **Socrates:** SSH/telnet remained unchanged  
 **Glaucon:** right that's what I meant  
-**Glaucon:** you jack into a program as opposed to the terminal  
+**Glaucon:** you jack into a program as opposed to the terminal [^svt]  
 
 The golden age of email
 -----------------------
@@ -153,7 +153,7 @@ Uni-to-uni copy
 **Socrates:** this network came about, and someone said, "sure would be cool if I could mail Peter at Berkeley, like I could mail Alice here"  
 **Socrates:** then someone said "well we have this tool called `uucp` [Unix-to-Unix copy, basically the granddaddy of `scp`], and mail messages are just files---why not hack them together?"  
 **Glaucon:** I have a feeling I don't know what `scp` is  
-**Glaucon:** because I'm just thinking of anomalies  
+**Glaucon:** because I'm just thinking of anomalies [^scp]  
 **Socrates:** `cp`, but over SSH  
 **Glaucon:** ah okay  
 **Socrates:** `$ scp dick.png socrates@server.com:pics/`  
@@ -344,7 +344,7 @@ I know a guy who knows a guy
 **Socrates:** in fact, a lot of finance companies have radio networks  
 **Socrates:** the point is that the Internet doesn't really care about the physical medium  
 **Socrates:** you can route over Ethernet, radio, fiber-optic, or printed out packet data scanned after being transported by pigeon  
-**Glaucon:** IPoAC  
+**Glaucon:** IPoAC [^ioa]  
 **Socrates:** right  
 **Socrates:** all that needs to happen is that routers can resolve a route from beginning to end via the IP prefixes they know about  
 **Glaucon:** it just cares about the protocol?  
@@ -397,3 +397,9 @@ Epilogue
 **Thrasymachus:** Yeah...  
 **Socrates:** even the experienced guy was like "tbh we'll see what happens if we make the news for blackholing the city"  
 **Thrasymachus:** Yeah.  
+
+[^bsd]: An [implementation of *Tetris*](https://www.invidio.us/watch?v=RI64hStZ7mU) available on BSD that runs in a terminal.
+[^sep]: In 1993, America Online's aggressively marketed consumer internet plans led to a massive influx of new users to Usenet that overwhelmed the established culture there.  This is generally referred to as ["the September that never ended"](https://en.wikipedia.org/wiki/Eternal_September), named for the month in which a more manageable influx of new users joining from American universities had been expected in prior years.
+[^svt]: Glaucon very likely means "...as opposed to *a command-line shell*", such as Bash or Korn shell.
+[^scp]: An allusion to the [*SCP Foundation*](https://en.wikipedia.org/wiki/SCP_Foundation), a collaborative horror/science fiction project.
+[^ioa]: [Internet Protocol over Avian Carriers](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers), an April Fool's Day "Request For Comment" (a de-facto internet standard), [RFC 1149](https://tools.ietf.org/html/rfc1149).  While very tongue-in-cheek, the protocol does actually work, and neatly demonstrates the principle of the Internet's independence from physical transmission media.
