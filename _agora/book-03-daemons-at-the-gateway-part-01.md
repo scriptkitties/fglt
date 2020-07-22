@@ -92,8 +92,8 @@ The genealogy of network forums
 **Socrates:** BBS were like forums  
 **Glaucon:** BBS is a custom Telnet, FidoNet was a network of them, and Usenet is more like proto-Internet?  
 **Socrates:** no  
-**Socrates:** BBSes were just software running on a server  
 **Glaucon:** but that's an accurate description of BBS?  
+**Socrates:** BBSes were just software running on a server  
 **Glaucon:** right  
 **Socrates:** you still had to connect like Telnet  
 **Socrates:** but it was no more custom than SSH to Netris is "custom" SSH  
@@ -376,10 +376,10 @@ Mr. Osborne, may I be excused?
 **Socrates:** I'm glad  
 **Glaucon:** and having trouble keeping my eyes open  
 **Socrates:** BGP is the biggest monster on the Internet  
-**Glaucon:** Well, it's rare I get someone so knowledgeable that's so willing to share  
 **Socrates:** everyone has been hiding under the covers and pretending its not under the bed  
 **Socrates:** for years  
 **Socrates:** and you'll see why tomorrow  
+**Glaucon:** Well, it's rare I get someone so knowledgeable that's so willing to share  
 
 Epilogue
 --------
