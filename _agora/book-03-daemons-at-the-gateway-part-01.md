@@ -291,7 +291,9 @@ Clue through the labyrinth
 **Socrates:** Berkeley is, say, 173, and has 174--179  
 **Socrates:** it announces to all its peers, including MIT (91), that it hosts 174--179  
 **Socrates:** when I want to email `glaucon@175` from `socrates@9`, this is what happens:  
-**Socrates:** 9 asks 5 (Athens gateway) for 174. 5 (Athens gateway) doesn't have it, so it looks towards its peers to see if they know. none of them do, but 92 (MIT) says "ah yeah, I have a peer, 173 (Berkeley) that has 175, send it through me"  
+**Socrates:** 9 asks 5 (Athens gateway) for 174  
+**Socrates:** 5 (Athens gateway) doesn't have it, so it looks towards its peers to see if they know  
+**Socrates:** none of them do, but 92 (MIT) says "ah yeah, I have a peer, 173 (Berkeley) that has 175; send it through me"  
 **Socrates:** so it goes `socrates@9`---5 (Athens)---91 (MIT)---173 (Berkeley)---`glaucon@174`  
 **Socrates:** these numbers are the names of the nodes you see in `tracert`  
 **Socrates:** they are Inter-net[work] Protocol addresses  
