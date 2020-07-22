@@ -640,7 +640,7 @@ Epilogue
 
 <b class="name">Polemarchus:</b> hey could you maybe talk about CPU architectures for two and a half hours? oh you already did?  
 <b class="name">Glaucon:</b> yeah sorry we can do it again if you'd like  
-<b class="name">Socrates:</b> fuck, people talking tech in #sqt  
+<b class="name">Socrates:</b> fuck, people talking tech in [#sqt](/irc.html)  
 <b class="name">Socrates:</b> close the damn doors  
 
 [^rpi]: An 8GB variant of the Raspberry Pi 4 had recently been released: <https://www.raspberrypi.org/blog/8gb-raspberry-pi-4-on-sale-now-at-75/>
