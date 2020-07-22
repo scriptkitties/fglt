@@ -78,7 +78,7 @@ The genealogy of network forums
 **Socrates:** firstly as web forums  
 **Socrates:** now as Reddit  
 **Glaucon:** neat  
-**Socrates:** there are still some hangers-on who use ye olde style BBSes, but Reddit is a direct descendant, via web forums  
+**Socrates:** there are still some hangers-on who use *þe olde style* BBSes, but Reddit is a direct descendant, via web forums  
 **Glaucon:** so Usenet is sort of like a more versatile FidoNet?  
 **Socrates:** no  
 **Glaucon:** uhh  
@@ -89,7 +89,7 @@ The genealogy of network forums
 **Socrates:** BBS  
 **Glaucon:** oh okay  
 **Socrates:** of which FidoNet was an overlaid network  
-**Socrates:** BBS were like forums  
+**Socrates:** BBSes were like forums  
 **Glaucon:** BBS is a custom Telnet, FidoNet was a network of them, and Usenet is more like proto-Internet?  
 **Socrates:** no  
 **Glaucon:** but that's an accurate description of BBS?  
@@ -99,7 +99,7 @@ The genealogy of network forums
 **Socrates:** but it was no more custom than SSH to Netris is "custom" SSH  
 **Socrates:** make sense?  
 **Socrates:** (i.e., it's not at all custom, just instead of launching `bash`, it launches another application)  
-**Socrates:** SSH/telnet remained unchanged  
+**Socrates:** SSH/Telnet remained unchanged  
 **Glaucon:** right that's what I meant  
 **Glaucon:** you jack into a program as opposed to the terminal [^svt]  
 
@@ -113,11 +113,11 @@ The golden age of email
 **Glaucon:** well you could have multiple terminals connected to one computer  
 **Socrates:** computers with multiple terminals were really just screens and keyboards with *really* long cables  
 **Socrates:** and terminals weren't computers  
-**Socrates:** they were literally just HID devices that had serial out the back  
+**Socrates:** they were literally just human interface devices that had serial out the back  
 **Glaucon:** well a teletype could be a terminal  
 **Glaucon:** it's just an access point  
 **Socrates:** you could send "mail" to a user by essentially writing a file, sending it the mail daemon, that could parse and distribute copies of that into people's own home directories, when you couldn't directly  
-**Socrates:** so you could write to Alice and Bob, and the server would insert that mail file into their `~/maildir`  
+**Socrates:** so you could write to Alice and Bob, and the server would insert that mail file into their `~/mbox`  
 **Socrates:** this was good  
 **Socrates:** in fact, this was basically peak email---it's all been downhill ever since  
 
@@ -135,7 +135,7 @@ Cursing daemons
 **Socrates:** `httpd` = http daemon = Apache  
 **Socrates:** etc  
 **Glaucon:** neato  
-**Socrates:** see also systemd  
+**Socrates:** see also: systemd  
 **Adeimantus:** he said the s-word  
 **Pyrrhus:** Inb4 systemD is botnet  
 **Adeimantus:** see, there it goes  
@@ -178,10 +178,10 @@ Protocols vs networks
 ---------------------
 
 **Socrates:** someone realized that actually being able to have some kind of mailing list where everyone could subscribe would be pretty cool, and you could all message each other on various topics, share files, etc  
-**Socrates:** so they wrote news servers, which were like mail servers, but they handled many channels inside of them rather than users, and delivered the contents to users via mail   
+**Socrates:** so they wrote news servers, which were like mail servers, but they handled many *channels* inside of them rather than users, and delivered the contents to users via mail   
 **Socrates:** so `comp.lang.python` would be about computers-&gt;languages-&gt;python  
 **Socrates:** so everyone could shitpost in real time on their local news server  
-**Socrates:** and then, every night, when the lines were open (they were still dial-up style connections, even between unis at the cutting edge of research in those days)  
+**Socrates:** and then, every night, when the lines were open (they were still dial-up style connections, even between universities at the cutting edge of research in those days)  
 **Socrates:** they would connect to their peers and copy the day's news file to everyone else  
 **Socrates:** and those spread throughout the network  
 **Socrates:** eventually, this system grew and developed into a fully defined protocol called NNTP  
@@ -195,14 +195,14 @@ Protocols vs networks
 **Socrates:** right  
 **Socrates:** Usenet was even more dominant though  
 **Socrates:** pretty much the only other networks were tiny  
-**Socrates:** Usenet became *the* network, in the same way that The Internet is *the* inter-network-network  
+**Socrates:** Usenet became *the* network, in the same way that the Internet is *the* inter-network-network  
 **Glaucon:** even though the Internet is just a network, the protocol is HTTP  
 **Glaucon:** but because it's so ubiquitous we think of it as the way of connecting itself sometimes?  
 **Socrates:** well, no, the Internet isn't HTTP; the *web* is  
 **Glaucon:** right right, the world wide web is HTTP  
 **Socrates:** anyway, NNTP went down this whole path by itself, and eventually was entirely diverged, as email made its own evolution from very simple local mail servers into its own fully fledged SMTP system  
 **Glaucon:** so NNTP isn't the protocol we use for email now, SMTP is?  
-**Socrates:** correct. NNTP became specialized in managing mailing lists, which were basically bundled and federated mailing lists  
+**Socrates:** correct. NNTP became specialized in managing news lists, which were basically bundled and federated mailing lists  
 **Socrates:** usually your Usenet address was the same as your email address, back when you were `socrates@aol.com` or whatever  
 **Socrates:** they gave you the same account on both their mail server and their news server  
 **Socrates:** (though you'd usually have to pay extra for them to turn on access to the news server)  
@@ -219,7 +219,7 @@ Protocols vs networks
 **Glaucon:** and Usenet is a network of news lists?  
 **Socrates:** yes  
 **Glaucon:** it just gets confusing because the usage of these things overlap  
-**Socrates:** but the problem is The Internet exists at a layer underpinning all these  
+**Socrates:** but the problem is the Internet exists at a layer underpinning all these  
 
 Clue through the labyrinth
 --------------------------
@@ -280,8 +280,8 @@ Clue through the labyrinth
 **Socrates:** just, magically for now  
 **Glaucon:** alright  
 **Socrates:** say, MIT's central computer was 91  
-**Socrates:** someone on machine 92 at MIT asks 91, its gateway computer to send an email to `socrates@9`  
-**Socrates:** MIT looks up all the announcements it has seen, and notices that the last person who announced 9 was 5, my university's gateway  
+**Socrates:** someone on machine 92 at MIT asks 91, its gateway computer, to send an email to `socrates@9`  
+**Socrates:** MIT looks up all the announcements it has seen, and notices that the last computer that announced 9 was 5, my university's gateway  
 **Socrates:** so it sets up the link 92---91---5---9  
 **Socrates:** so my friend's PC---MIT gateway---Athens gateway---Socrates' PC  
 **Socrates:** now, here's the big jump  
@@ -319,7 +319,7 @@ I know a guy who knows a guy
 **Glaucon:** routing software  
 **Socrates:** so we have local networks, where some machines on those networks are connected deeply to their own network, but also to the borders of other networks, acting as gateways  
 **Socrates:** the protocol they use to *announce* these links and the routes that you can use to get from one computer to another, is called BGP, the Border Gateway Protocol  
-**Socrates:** each BGP peer has as Autonomous System Number---don't worry about the name on that one---and they announce the IP prefixes they can route to  
+**Socrates:** each BGP peer has an Autonomous System Number---don't worry about the name on that one---and they announce the IP prefixes they can route to  
 **Socrates:** each ISP is allotted a certain group of IPs  
 **Socrates:** say 1.2.3.1--255  
 **Socrates:** so they host the prefix 1.2.3.0/24 (24 bits i.e. 3x bytes 1.2.3 and then 8 bits left at the end)  
@@ -341,7 +341,7 @@ I know a guy who knows a guy
 **Socrates:** yep, and people do  
 **Socrates:** in fact, a lot of finance companies have radio networks  
 **Socrates:** the point is that the Internet doesn't really care about the physical medium  
-**Socrates:** you can route over Ethernet, radio, fiber-optic, or printed out packet data scanned after being transported by pigeon  
+**Socrates:** you can route over Ethernet, radio, fiber-optic, or printed-out packet data, scanned, after being transported by pigeon  
 **Glaucon:** IPoAC [^ioa]  
 **Socrates:** right  
 **Socrates:** all that needs to happen is that routers can resolve a route from beginning to end via the IP prefixes they know about  
@@ -359,7 +359,7 @@ I know a guy who knows a guy
 **Glaucon:** I'm gonna send an email, but not to my friend  
 **Glaucon:** I'm gonna send it to someone in Zimbabwe  
 **Glaucon:** I send the email  
-**Glaucon:** Does my router, ask both my friend's router, as well as the ISPs' gateway about that IP I'm looking for?  
+**Glaucon:** Does my router, ask both my friend's router, as well as the ISP's gateway about that IP I'm looking for?  
 **Glaucon:** does it contact every gateway it's directly connected to, and whichever does actually have the gateway responds?  
 **Glaucon:** and what if I want to connect directly to my friend, and I can connect directly through his router, or by going through the ISP and back, can my router figure out that one router has a shorter route, and automatically chose that?  
 
