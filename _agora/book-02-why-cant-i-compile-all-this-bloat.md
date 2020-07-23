@@ -47,9 +47,12 @@ If you come at the King...
 <b class="name">Socrates:</b> but the concept is fairly general  
 <b class="name">Socrates:</b> a compiler takes Translation Units (usually a file) and parses the code, and then turns that into an object file  
 <b class="name">Socrates:</b> so if you have a program with two files: `frontend.c` (which has `main()`, etc, to read input) and `compute.c` (which does some kind of stuff with them), then you will use the compiler twice, to generate `frontend.o` and `compute.o`  
-<b class="name">Diogenes:</b> <span class="greentext">&gt;not calling it Compilation Units</span>  
+
+*<span class="name">Diogenes</span> the Corinthian interrupts, taking issue with <span class="name">Socrates</span>' terminology.*
+
+<b class="name">Diogenes:</b> <span class="greentext">&gt;not calling them "Compilation Units"</span>  
 <b class="name">Diogenes:</b> very disappointed  
-<b class="name">Socrates:</b> Diogenes: that's because compilation unit wouldn't be correct in the context of the C standard  
+<b class="name">Socrates:</b> that's because compilation unit wouldn't be correct in the context of the C standard  
 <b class="name">Socrates:</b> <https://stackoverflow.com/questions/1106149/what-is-a-translation-unit-in-c>  
 <b class="name">Diogenes:</b> change the standard  
 <b class="name">Thrasymachus:</b> <https://nitter.net/dril/status/134787490526658561>  
