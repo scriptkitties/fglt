@@ -153,3 +153,6 @@ b.name {
 span.name {
 	font-variant: small-caps;
 }
+.greentext {
+	color: #77cc77;
+}

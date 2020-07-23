@@ -37,7 +37,7 @@ Prelude
 <b class="name">Glaucon:</b> right right  
 <b class="name">Glaucon:</b> because once compiled the program should just run on its own, right?  
 <b class="name">Socrates:</b> if the compiled program has no runtime dependencies, sure  
-<b class="name">Glaucon:</b> &gt;runtime dependencies  
+<b class="name">Glaucon:</b> <span class="greentext">&gt;runtime dependencies</span>  
 <b class="name">Glaucon:</b> bloat  
 
 If you come at the King...
@@ -47,7 +47,7 @@ If you come at the King...
 <b class="name">Socrates:</b> but the concept is fairly general  
 <b class="name">Socrates:</b> a compiler takes Translation Units (usually a file) and parses the code, and then turns that into an object file  
 <b class="name">Socrates:</b> so if you have a program with two files: `frontend.c` (which has `main()`, etc, to read input) and `compute.c` (which does some kind of stuff with them), then you will use the compiler twice, to generate `frontend.o` and `compute.o`  
-<b class="name">Diogenes:</b> &gt;not calling it Compilation Units  
+<b class="name">Diogenes:</b> <span class="greentext">&gt;not calling it Compilation Units</span>  
 <b class="name">Diogenes:</b> very disappointed  
 <b class="name">Socrates:</b> Diogenes: that's because compilation unit wouldn't be correct in the context of the C standard  
 <b class="name">Socrates:</b> <https://stackoverflow.com/questions/1106149/what-is-a-translation-unit-in-c>  
@@ -169,10 +169,10 @@ The road less travelled by, for a reason
 <b class="name">Thrasymachus:</b> The sooner Glaucon realises he needs to install Ubuntu and learn how to `echo` and `cd`, the happier he will be  
 <b class="name">Adeimantus:</b> ^  
 <b class="name">Thrasymachus:</b> But it looks like it's going to take a long time  
-<b class="name">Glaucon:</b> &gt;install Ubuntu  
+<b class="name">Glaucon:</b> <span class="greentext">&gt;install Ubuntu</span>  
 <b class="name">Glaucon:</b> I don't understand why I wouldn't just use BSD or Void like an adult  
 <b class="name">Adeimantus:</b> because you're *not* an adult  
-<b class="name">Adeimantus:</b> &gt;`apt install build-essential`  
+<b class="name">Adeimantus:</b> `apt install build-essential`  
 <b class="name">Adeimantus:</b> "look ma I can compile shit"  
 <b class="name">Glaucon:</b> Although, since NetBSD is borked, and I can't install MINIX  
 <b class="name">Glaucon:</b> I'm a bit limited on BSD options  
@@ -246,7 +246,7 @@ Keep it simple and/or difficult
 <b class="name">Glaucon:</b> yeah I know it's way too powerful  
 <b class="name">Glaucon:</b> I'm gonna have to find a weaker PC, or use the ao486 core on the MiSTer  
 <b class="name">Glaucon:</b> <https://github.com/sergev/LiteBSD>  
-<b class="name">Socrates:</b> &gt;runs only on PIC32  
+<b class="name">Socrates:</b> <span class="greentext">&gt;runs only on PIC32</span>  
 <b class="name">Socrates:</b> damn  
 <b class="name">Socrates:</b> do it  
 <b class="name">Socrates:</b> that'd be sick as fuck  
@@ -282,7 +282,7 @@ The truth gets vicious when you corner it
 <b class="name">Glaucon:</b> lemme find one to buy  
 <b class="name">Socrates:</b> OK, well, like I said, I recommend Arduino if you want to go down this path  
 <b class="name">Socrates:</b> understand that you'll be using C, but not in an environment like anything you've programmed before  
-<b class="name">Glaucon:</b> &gt;he thinks I've programmed before  
+<b class="name">Glaucon:</b> <span class="greentext">&gt;he thinks I've programmed before</span>  
 <b class="name">Glaucon:</b> haha  
 <b class="name">Socrates:</b> OK, let me put it this way. you will need to learn a custom variant of C, use a custom compiler, assembler, linker, hardware programming tools, and learn electronics enough (way past the "build your own Z80 stuff")  
 <b class="name">Glaucon:</b> Okay, now  
@@ -396,7 +396,7 @@ Learn Python, dammit
 <b class="name">Socrates:</b> which is really the crux of why this is so painful  
 <b class="name">Glaucon:</b> of course, but I have learned a lot  
 <b class="name">Socrates:</b> yes, the slow and hard way  
-<b class="name">Glaucon:</b> &gt;the slow and hard way  
+<b class="name">Glaucon:</b> <span class="greentext">&gt;the slow and hard way</span>  
 <b class="name">Glaucon:</b> it's been a few days lmao  
 <b class="name">Socrates:</b> yes, and it's going to take, many, many, many more  
 <b class="name">Glaucon:</b> it's a lot faster than I ever learned before  
@@ -423,7 +423,7 @@ Learn Python, dammit
 <b class="name">Socrates:</b> there's a reason why we teach python rather than C in schools  
 <b class="name">Socrates:</b> some might say it's right, some might say it's wrong  
 <b class="name">Socrates:</b> but teaching the concepts without the sharp edges is sensible  
-<b class="name">Glaucon:</b> &gt;paying to learn python  
+<b class="name">Glaucon:</b> <span class="greentext">&gt;paying to learn python</span>  
 <b class="name">Glaucon:</b> do you think I should pay to learn python?  
 <b class="name">Socrates:</b> unironically yes, you should learn at least some high level language first  
 <b class="name">Socrates:</b> then C  

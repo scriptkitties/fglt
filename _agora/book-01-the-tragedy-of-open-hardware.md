@@ -49,7 +49,7 @@ The spectre of management engines
 <b class="name">Thrasymachus:</b> Socrates may be able to help you  
 <b class="name">Glaucon:</b> hi Socrates  
 <b class="name">Socrates:</b> <https://www.raptorcs.com/content/TL2B01/intro.html>  
-<b class="name">Glaucon:</b> &gt;OpenPOWER  
+<b class="name">Glaucon:</b> <span class="greentext">&gt;OpenPOWER</span>  
 <b class="name">Glaucon:</b> BEAUTIFUL  
 <b class="name">Socrates:</b> POWER arch, auditable/disablable management  
 <b class="name">Glaucon:</b> this is exactly what I was looking for  
