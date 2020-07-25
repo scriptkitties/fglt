@@ -10,16 +10,21 @@ layout: default
 * Port: [6697 for secure](ircs://chat.freenode.net:6697), [6667 for cleartext](/assets/img/shiggy.jpg)
 * Channel: #sqt
 
-## Connect now via webchat
+## Choosing a client
 
-- [KiwiIRC](https://kiwiirc.com/client/irc.freenode.net/sqt)
+[Connect now via webchat](https://kiwiirc.com/client/irc.freenode.net/sqt)
 
-## Local clients
+The webchat is OK as a means of connection for those new to IRC, but if you end
+up having fun in our channel and decide to stick around, you will be
+<del>harassed</del> <ins>encouraged</ins> to switch to a local client instead:
 
-You are encouraged to use a local client to connect to IRC, however, the
-process of installing one differs per distribution. See your distribution's
-wiki for help on installing one, and using the connection details above to
-connect to the IRC network.
+* [HexChat](https://hexchat.github.io/) (GUI)
+* [Irssi](https://irssi.org/) (terminal)
+* [WeeChat](https://weechat.org/) (terminal)
+
+Your distribution of Linux very likely includes packages for at least one of
+these.  HexChat is probably the easiest for beginners without much experience
+with terminal programs.
 
 ## Helpful links
 
