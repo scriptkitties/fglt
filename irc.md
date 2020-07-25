@@ -21,6 +21,13 @@ process of installing one differs per distribution. See your distribution's
 wiki for help on installing one, and using the connection details above to
 connect to the IRC network.
 
+## Helpful links
+
+* #sqt anthem: [Pink Guy---*Pink Season*---"STFU"](https://www.invidio.us/watch?v=OLpeX4RRo28)—Take careful note of [1m42s](https://www.invidio.us/watch?v=OLpeX4RRo28&t=1m42s).  This is how your initial entrance to the channel will most likely be perceived.
+* [Renaming Git "master" to "main"](https://www.invidio.us/watch?v=EztbyhAJNtk)
+* [Why kline stays](/assets/img/why-kline-stays.jpg)
+* [Telling DigitalHandcuffs he's wrong](/assets/vid/telling-digitalhandcuffs-hes-wrong.webm)
+
 ## Shit #sqt says
 
 ### 2020
