@@ -349,7 +349,7 @@ Drawing a line in the silicon
 <b class="name">Adeimantus:</b> part of the Unix philosophy includes choice of tooling by virtue of their modular nature. If there was only one good way to do something, alternative tools would not exist or be needed. If they add something legitimately useful, they're not bloat. bloat comes from adding useless things that go beyond the purpose or focus of the tool  
 <b class="name">Glaucon:</b> bro if you need bloat to work that's fine I just don't  
 <b class="name">Glaucon:</b> das all  
-<b class="name">Adeimantus:</b> much like casions and dojos, this "bloat" is all in your mind  
+<b class="name">Adeimantus:</b> much like casinos and dojos, this "bloat" is all in your mind  
 <b class="name">Diogenes:</b> but alpine is "too minimal"  
 <b class="name">Diogenes:</b> 🤔  
 <b class="name">Glaucon:</b> it's not too minimal at all  
