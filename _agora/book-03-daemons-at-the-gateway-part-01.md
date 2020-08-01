@@ -131,11 +131,11 @@ Cursing daemons
 
 <b class="name">Glaucon:</b> I understand so far  
 <b class="name">Glaucon:</b> but what's a daemon?  
-<b class="name">Glaucon:</b> I read that term a few days ago and was like "wat"  
+<b class="name">Glaucon:</b> I read that term a few days ago and was like <q>wat</q>  
 
 *Surprised by this confession of ignorance, <span class="name">Adeimantus</span> interrupts, attracting the attention of <span class="name">Pyrrhus</span>, another newcomer.*
 
-<b class="name">Adeimantus:</b> "what's a daemon?" *really?*  
+<b class="name">Adeimantus:</b> <q>what's a daemon?</q> *really?*  
 <b class="name">Glaucon:</b> okay okay, go on  
 <b class="name">Pyrrhus:</b> A daemon is just a program that can run without user input strictly required  
 <b class="name">Socrates:</b> a daemon is just server software  
@@ -152,13 +152,13 @@ Uni-to-uni copy
 
 *After a brief scuffle about systemd, <span class="name">Socrates</span>' lesson resumes.*
 
-<b class="name">Socrates:</b> anyway, some bastard decided it would be cool if MIT could speak to Berkeley to share projects, and ARPA (later DARPA) decided "shit man, it would be really cool if we could do this in the military, too"  
+<b class="name">Socrates:</b> anyway, some bastard decided it would be cool if MIT could speak to Berkeley to share projects, and ARPA (later DARPA) decided <q>shit man, it would be really cool if we could do this in the military, too</q>  
 <b class="name">Socrates:</b> so ARPA paid a lot of money for research, and experimental campus-to-campus networking that connected MIT to Berkeley to Los Alamos, etc  
 <b class="name">Socrates:</b> let me get the map  
 <b class="name">Socrates:</b> [https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arpanet_1974.svg/1920px-Arpanet_1974.svg.png](/assets/img/agora/arpanet-1974.png)  
 <b class="name">Socrates:</b> (or [https://upload.wikimedia.org/wikipedia/commons/b/bf/Arpanet_logical_map%2C_march_1977.png](/assets/img/agora/arpanet-1977.png))  
-<b class="name">Socrates:</b> this network came about, and someone said, "sure would be cool if I could mail Peter at Berkeley, like I could mail Alice here"  
-<b class="name">Socrates:</b> then someone said "well we have this tool called `uucp` [Unix-to-Unix copy, basically the granddaddy of `scp`], and mail messages are just files---why not hack them together?"  
+<b class="name">Socrates:</b> this network came about, and someone said, <q>sure would be cool if I could mail Peter at Berkeley, like I could mail Alice here</q>  
+<b class="name">Socrates:</b> then someone said <q>well we have this tool called `uucp` [Unix-to-Unix copy, basically the granddaddy of `scp`], and mail messages are just files---why not hack them together?</q>  
 <b class="name">Glaucon:</b> I have a feeling I don't know what `scp` is  
 <b class="name">Glaucon:</b> because I'm just thinking of anomalies [^scp]  
 <b class="name">Socrates:</b> `cp`, but over SSH  
@@ -224,7 +224,7 @@ Protocols vs networks
 <b class="name">Glaucon:</b> a BBS is just software running on a computer? it doesn't refer to the server itself?  
 <b class="name">Socrates:</b> correct  
 <b class="name">Socrates:</b> BBS is just software, same as an ircd (IRC daemon) (freenode's is called ircd-seven)  
-<b class="name">Socrates:</b> Apache's technical name is "HTTPD"  
+<b class="name">Socrates:</b> Apache's technical name is <q>HTTPD</q>  
 <b class="name">Glaucon:</b> and Usenet is a network of news lists?  
 <b class="name">Socrates:</b> yes  
 <b class="name">Glaucon:</b> it just gets confusing because the usage of these things overlap  
@@ -283,7 +283,7 @@ Clue through the labyrinth
 <b class="name">Glaucon:</b> but as the network grows, it needs to be automated, and there needs to be standardized targets for files to be sent to?  
 <b class="name">Socrates:</b> so everyone had these local campus networks where every computer had a locally unique number as a name  
 <b class="name">Socrates:</b> only 1 computer, probably the oldest one, actually connected to peers  
-<b class="name">Socrates:</b> when things got bigger, we decided that we'd say "this central computer (5) can see computers 9, 17, 12, and 3 on its own network"  
+<b class="name">Socrates:</b> when things got bigger, we decided that we'd say <q>this central computer (5) can see computers 9, 17, 12, and 3 on its own network</q>  
 <b class="name">Socrates:</b> and it would tell the other computers it connected to at other campuses this  
 <b class="name">Glaucon:</b> tells them how?  
 <b class="name">Socrates:</b> just, magically for now  
@@ -302,7 +302,7 @@ Clue through the labyrinth
 <b class="name">Socrates:</b> when I want to email `glaucon@175` from `socrates@9`, this is what happens:  
 <b class="name">Socrates:</b> 9 asks 5 (Athens gateway) for 174  
 <b class="name">Socrates:</b> 5 (Athens gateway) doesn't have it, so it looks towards its peers to see if they know  
-<b class="name">Socrates:</b> none of them do, but 92 (MIT) says "ah yeah, I have a peer, 173 (Berkeley) that has 175; send it through me"  
+<b class="name">Socrates:</b> none of them do, but 92 (MIT) says <q>ah yeah, I have a peer, 173 (Berkeley) that has 175; send it through me</q>  
 <b class="name">Socrates:</b> so it goes `socrates@9`---5 (Athens)---91 (MIT)---173 (Berkeley)---`glaucon@174`  
 <b class="name">Socrates:</b> these numbers are the names of the nodes you see in `tracert`  
 <b class="name">Socrates:</b> they are Inter-net[work] Protocol addresses  
@@ -332,18 +332,18 @@ I know a guy who knows a guy
 <b class="name">Socrates:</b> the protocol they use to *announce* these links and the routes that you can use to get from one computer to another, is called BGP, the Border Gateway Protocol  
 <b class="name">Socrates:</b> each BGP peer has an Autonomous System Number---don't worry about the name on that one---and they announce the IP prefixes they can route to  
 <b class="name">Socrates:</b> each ISP is allotted a certain group of IPs  
-<b class="name">Socrates:</b> say 203.0.113.1--255  
-<b class="name">Socrates:</b> so they host the prefix 203.0.113.0/24 (24 bits i.e. 3x bytes 203.0.113 and then 8 bits left at the end)  
+<b class="name">Socrates:</b> say `203.0.113.1` through `203.0.113.255`  
+<b class="name">Socrates:</b> so they host the prefix `203.0.113.0/24` (24 bits i.e. 3x bytes `203.0.113` and then 8 bits left at the end)  
 <b class="name">Glaucon:</b> and whoever they provide Internet service to, gets assigned an IP?  
 <b class="name">Socrates:</b> yes  
-<b class="name">Socrates:</b> they say to their peers, "I'm AS64501, and I host 203.0.113.0/24"  
-<b class="name">Socrates:</b> so all the other routers they are connected to know that 203.0.113.99 is by that router  
+<b class="name">Socrates:</b> they say to their peers, <q>I'm AS64501, and I host `203.0.113.0/24`</q>  
+<b class="name">Socrates:</b> so all the other routers they are connected to know that `203.0.113.99` is by that router  
 <b class="name">Socrates:</b> they can also announce to their peers the router downstream of them  
 <b class="name">Socrates:</b> so say you have AS64502---AS64503---AS64504  
-<b class="name">Socrates:</b> AS64502 says "I have 203.0.113.0/24" to AS64503  
-<b class="name">Socrates:</b> AS64503 says to AS64504: "I have 198.51.100.0/24, also 203.0.113.0/24 [as a downstream peer]"  
-<b class="name">Socrates:</b> so now AS64504 knows that if they want to get 198.51.100.15, that goes to AS64503  
-<b class="name">Socrates:</b> if they want to get 203.0.113.99, they send it to AS64503 as well, who knows to send it to AS64502, who has the IP proper  
+<b class="name">Socrates:</b> AS64502 says <q>I have `203.0.113.0/24`</q> to AS64503  
+<b class="name">Socrates:</b> AS64503 says to AS64504: <q>I have `198.51.100.0/24`, also `203.0.113.0/24` [as a downstream peer]</q>  
+<b class="name">Socrates:</b> so now AS64504 knows that if they want to get `198.51.100.15`, that goes to AS64503  
+<b class="name">Socrates:</b> if they want to get `203.0.113.99`, they send it to AS64503 as well, who knows to send it to AS64502, who has the IP proper  
 <b class="name">Glaucon:</b> so an ISP is like a general gateway?  
 <b class="name">Glaucon:</b> and BGP is the protocol that links ISPs together?  
 <b class="name">Socrates:</b> an ISP is just one kind of network, usually selling access to their network, but more importantly to the rest of the Internet, via their router  
@@ -360,7 +360,7 @@ I know a guy who knows a guy
 <b class="name">Socrates:</b> "the" protocol?  
 <b class="name">Glaucon:</b> BGP? You mentioned it, and didn't explain it  
 <b class="name">Glaucon:</b> you said BGP is to the Internet as HTTP is to the web  
-<b class="name">Socrates:</b> right. you asked earlier "how do routers tell each other what IPs they have"  
+<b class="name">Socrates:</b> right. you asked earlier <q>how do routers tell each other what IPs they have</q>  
 <b class="name">Socrates:</b> BGP is the protocol that routers use to announce to their peers what IPs they own or can reach on their behalf  
 <b class="name">Glaucon:</b> so let's say my router is connected to my next door neighbor's router  
 <b class="name">Glaucon:</b> we're crazy and we physically connected them with a very long cable  
@@ -411,11 +411,11 @@ Epilogue
 <b class="name">Thrasymachus:</b> People get high-paying jobs basically out of making BGP work properly  
 <b class="name">Socrates:</b> I've touched BGP once, and it was not a good experience  
 <b class="name">Thrasymachus:</b> Yeah...  
-<b class="name">Socrates:</b> even the experienced guy was like "tbh we'll see what happens if we make the news for blackholing the city"  
+<b class="name">Socrates:</b> even the experienced guy was like <q>tbh we'll see what happens if we make the news for blackholing the city</q>  
 <b class="name">Thrasymachus:</b> Yeah.  
 
 [^bsd]: An [implementation of *Tetris*](https://www.invidio.us/watch?v=RI64hStZ7mU) available on BSD that runs in a terminal.
 [^sep]: In 1993, America Online's aggressively marketed consumer internet plans led to a massive influx of new users to Usenet that overwhelmed the established culture there.  This is generally referred to as ["the September that never ended"](https://en.wikipedia.org/wiki/Eternal_September), named for the month in which a more manageable influx of new users joining from American universities had been expected in prior years.
-[^svt]: Glaucon very likely means "...as opposed to *a command-line shell*", such as Bash or Korn shell.
+[^svt]: Glaucon very likely means <q>...as opposed to *a command-line shell*</q>, such as Bash or Korn shell.
 [^scp]: An allusion to the [*SCP Foundation*](https://en.wikipedia.org/wiki/SCP_Foundation), a collaborative horror/science fiction project.
 [^ioa]: [Internet Protocol over Avian Carriers](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers), an April Fool's Day "Request For Comment" (a de-facto internet standard), [RFC 1149](https://tools.ietf.org/html/rfc1149).  While very tongue-in-cheek, the protocol does actually work, and neatly demonstrates the principle of the Internet's independence from physical transmission media.
