@@ -1,5 +1,5 @@
 ---
-title: Book III—Daemons at the Gateway
+title: Book III—Daemons at the Gateway—Part 1
 description: Glaucon returns to the agora in the hopes of restoring a bygone age of internet social media, and Socrates explains to him how the spirit of the past endures in both culture and technology.
 layout: default
 ---
