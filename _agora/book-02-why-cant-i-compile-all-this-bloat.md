@@ -200,7 +200,7 @@ The road less travelled by, for a reason
 Glaucon and the Temple of God
 -----------------------------
 
-<b class="name">Socrates:</b> this is what Glaucon is worried will happen if he uses technology: <https://invidio.us/watch?v=6y0QKiTQPkY>  
+<b class="name">Socrates:</b> this is what Glaucon is worried will happen if he uses technology: [rip-aluminum-pan-man.webm](/assets/vid/agora/rip-aluminum-pan-man.webm)  
 <b class="name">Socrates:</b> (btw the lightning doesn't happen with TempleOS)  
 <b class="name">Socrates:</b> which actually is a really good idea  
 <b class="name">Socrates:</b> Glaucon: have you tried TempleOS yet?  

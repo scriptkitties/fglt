@@ -414,7 +414,7 @@ Epilogue
 <b class="name">Socrates:</b> even the experienced guy was like <q>tbh we'll see what happens if we make the news for blackholing the city</q>  
 <b class="name">Thrasymachus:</b> Yeah.  
 
-[^bsd]: An [implementation of *Tetris*](https://www.invidio.us/watch?v=RI64hStZ7mU) available on BSD that runs in a terminal.
+[^bsd]: An [implementation of *Tetris*](/assets/vid/agora/bsd-tetris.webm) available on BSD that runs in a terminal.
 [^sep]: In 1993, America Online's aggressively marketed consumer internet plans led to a massive influx of new users to Usenet that overwhelmed the established culture there.  This is generally referred to as ["the September that never ended"](https://en.wikipedia.org/wiki/Eternal_September), named for the month in which a more manageable influx of new users joining from American universities had been expected in prior years.
 [^svt]: Glaucon very likely means <q>...as opposed to *a command-line shell*</q>, such as Bash or Korn shell.
 [^scp]: An allusion to the [*SCP Foundation*](https://en.wikipedia.org/wiki/SCP_Foundation), a collaborative horror/science fiction project.
