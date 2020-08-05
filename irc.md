@@ -30,7 +30,8 @@ experience with terminal programs.
 
 * #sqt anthem: [Pink Guy---*Pink Season*---"STFU"](https://www.invidio.us/watch?v=OLpeX4RRo28)—Take careful note of [1m42s](https://www.invidio.us/watch?v=OLpeX4RRo28&t=1m42s).  This is how your initial entrance to the channel will most likely be perceived.
 * [Renaming Git "master" to "main"](https://www.invidio.us/watch?v=EztbyhAJNtk)
-* [Why kline stays](/assets/img/why-kline-stays.jpg)
+* [How kline feels in #sqt](/assets/vid/kline-in-sqt.webm)
+* [Why he stays in #sqt anyway](/assets/img/why-kline-stays.jpg)
 * [Telling DigitalHandcuffs he's wrong](/assets/vid/telling-digitalhandcuffs-hes-wrong.webm)
 
 ## Shit #sqt says
