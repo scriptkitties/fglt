@@ -49,7 +49,7 @@ Clone the site repository and change directory into it:
 	$ git clone https://git.sr.ht/~tyil/www-fglt.nl
 	$ cd www-fglt.nl
 
-Install Ruby libraries; this also takes a while.
+Install Ruby libraries; this also takes a while:
 
 	$ bundle install
 
