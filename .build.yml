@@ -19,7 +19,7 @@ tasks:
       sudo rc-service docker start
   - build: |
       cd www-fglt.nl
-      bundle install --deployment
+      bundle install
       bundle exec jekyll build
       docker build -t tyil/www-fglt.nl:ci-$JOB_ID .
   - publish-quay: |
