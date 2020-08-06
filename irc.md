@@ -23,7 +23,7 @@ up having fun in our channel and decide to stick around, you will be
 * [WeeChat](https://weechat.org/) (terminal)
 
 Your operating system's package manager very likely includes packages for at
-least one of these.  HexChat is probably the easiest for beginners without much
+least one of these.  HexChat is probably the easiest for anyone without much
 experience with terminal programs.
 
 ## Helpful links
