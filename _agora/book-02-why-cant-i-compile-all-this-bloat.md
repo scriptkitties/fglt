@@ -1,6 +1,7 @@
 ---
 title: Book II—Why Can’t I Compile All This Bloat?
 description: The newcomer returns to the agora in hopes of instruction on how to compile software, something with which many of the regulars are familiar—except that he wants to do it on a 16-bit operating system.
+date: 2020-07-09 00:00:00 UTC
 layout: default
 ---
 

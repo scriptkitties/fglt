@@ -1,6 +1,7 @@
 ---
 title: Book IV—Daemons at the Gateway—Part 2
 description: Socrates' lesson on internet routing continues, with the demonstration of something much closer to a real-world BGP-routed IPv4 network internet.
+date: 2020-08-06 00:00:00 UTC
 layout: default
 ---
 
