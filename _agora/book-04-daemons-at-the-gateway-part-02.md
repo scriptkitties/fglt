@@ -310,7 +310,7 @@ Epilogue
 
 [^win]: [Wine Is Not an Emulator](https://www.winehq.org/), a software compatibility layer that allows some Windows applications to run on GNU/Linux, \*BSD, and other POSIX-fearing operating systems.
 [^int]: Pyrrhus is alluding to [Interix](https://en.wikipedia.org/wiki/Interix), a POSIX-conforming UNIX subsystem that was available for Windows NT.
-[^rec]: See <cite>[Part 1](/agora/book-04-daemons-at-the-gateway-part-01.html)</cite>.
+[^rec]: See <cite>[Part 1](/agora/book-03-daemons-at-the-gateway-part-01.html)</cite>.
 [^hub]: Socrates' simplified explanation asserted that a switch repeats traffic it receives down all its ports, *multiplying* the data.  This is in fact what a simpler device called a *hub* does, and is what Pyrrhus means here.  Switching technology is so commonplace now that hubs are rare outside of legacy networks.
 [^wir]: [Wireshark](https://www.wireshark.org/) is a free and open-source packet analyzer for decoding network packets of various kinds, often used for diagnosis of network issues or for reverse engineering.
 [^loc]: Per [RFC 3330](https://www.rfc-editor.org/rfc/rfc3330.txt), any IPv4 address in the range `127.0.0.0/8`---that is, any address with the first of its four octets being `127`---is a *local* address, and should always return directly to the same host that sent it, generally without crossing any network links.  Seeing such an address appear in network traffic is unusual and almost certainly wrong.
