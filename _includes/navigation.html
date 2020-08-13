@@ -1,6 +1,26 @@
-<li><a href="{{ "/index.html" | prepend: site.baseurl }}">Home</a></li>
-<li><a href="{{ "/guides.html" | prepend: site.baseurl }}">Guides</a></li>
-<li><a href="{{ "/irc.html" | prepend: site.baseurl }}">IRC</a></li>
-<li><a href="{{ "/agora.html" | prepend: site.baseurl }}">Agora</a></li>
-<li><a href="{{ "/resources.html" | prepend: site.baseurl }}">Resources</a></li>
-
+{% assign current = page.url | split: '/' %}
+<li class="nav-item">
+	<a class="nav-link{% if page.index %} active{% endif %}" href="{{ "/" | prepend: site.baseurl }}">
+		Home
+	</a>
+</li>
+<li class="nav-item">
+	<a class="nav-link{% if current[1] == 'guides.html' %} active{% endif %}" href="{{ "/guides.html" | prepend: site.baseurl }}">
+		Guides
+	</a>
+</li>
+<li class="nav-item">
+	<a class="nav-link{% if current[1] == 'irc.html' %} active{% endif %}" href="{{ "/irc.html" | prepend: site.baseurl }}">
+		IRC
+	</a>
+</li>
+<li class="nav-item">
+	<a class="nav-link{% if current[1] == 'agora.html' or current[1] == 'agora' %} active{% endif %}" href="{{ "/agora.html" | prepend: site.baseurl }}">
+		Agora
+	</a>
+</li>
+<li class="nav-item">
+	<a class="nav-link{% if current[1] == 'resources.html' %} active{% endif %}" href="{{ "/resources.html" | prepend: site.baseurl }}">
+		Resources
+	</a>
+</li>
