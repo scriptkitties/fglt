@@ -27,3 +27,17 @@ collections:
     output: true
   guides:
     output: true
+
+# page defaults
+defaults:
+  - scope:
+      path: ""
+    values:  # Set front matter variables
+      layout: "default"  # Default appears to be no layout…
+
+# Pages for jekyll-optional-front-matter to render.
+include:
+  - README.md
+
+plugins:
+  - jekyll-optional-front-matter
