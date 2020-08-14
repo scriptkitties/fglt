@@ -3,7 +3,8 @@ title: Picking a GNU+Linux distribution
 layout: guide
 authors: [
 	"Patrick 'tyil' Spek &lt;p.spek@tyil.work&gt;",
-	"ShadowM00n &lt;shadowm00n@airmail.cc&gt;"
+	"ShadowM00n &lt;shadowm00n@airmail.cc&gt;",
+	"Winston (winny) Weinert &lt;winston+fglt@ml1.net&gt;"
 ]
 ---
 
@@ -80,16 +81,25 @@ A free distribution based on [Debian][debian].
 The netinstaller for Debian is the most minimal version you can start out with.
 It's stable, produces a very small OS once done installing is incredibly
 stable. Be aware that Debian by default does not allow non-free software in the
-main repos, so not all hardware may be supported out of the box.
+main repos, so not all hardware may be supported out of the box.  An amd64
+Debian netinstall is about 1&nbsp;Gigabyte in size.
 
 #### [Lubuntu][lubuntu]
 Lubuntu's LXDE desktop environment is made specifically to be usable on systems
-with low resources.
+with low resources.  A Lubuntu install is about 4½&nbsp;GB.
 
 #### [Xubuntu][xubuntu]
 While not as lightweight as Lubuntu, it's lightweight enough to run on most
 machines. It's a little more polished than Lubuntu by default, but this is
-ofcourse subjective to your tastes.
+ofcourse subjective to your tastes.  A Xubuntu install is about 5½&nbsp;GB.
+
+#### [Alpine][alpine]
+A standard Alpine install is less than 1 Gigabyte.  Installation is dead
+simple, however, it defers additional software configuration to the user.
+Alpine is flexible enough for server, basic desktop, and embedded use.  Alpine
+is also widely used for Docker and virtual machines.  Due to a reduced package
+selection, a small tight-knit community, and use of the Musl libc, Alpine may
+not be as stable as enterprise-grade distros.
 
 ### Stability
 #### [Debian][debian]
@@ -147,6 +157,7 @@ distribution. I'd greatly appreciate any help in maintaining this list, and
 that includes suggestions for other distros in the list. You can have one
 added by sending in a MR on the repository.
 
+[alpine]: https://alpinelinux.org/
 [archlinux]: https://www.archlinux.org/
 [debian]: https://www.debian.org/
 [devuan]: https://www.devuan.org/
