@@ -1,8 +1,22 @@
+/* Force scrollbar even when not needed to keep elements aligned */
+html {
+	overflow-y: scroll;
+}
+
+/* Stick the footer to the bottom of the page by forcing a minimum height with
+ * a flexbox display model */
 body {
-	padding-top: 20px;
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
+}
+.flex-body {
+	flex: 1;
+}
+
+/* Add some vertical space above the header */
+header {
+	margin: 20px 0;
 }
 
 /* Header link is same color as plain text, so it works like a link but doesn't
@@ -13,28 +27,16 @@ header h1 a:active {
 	color: inherit;
 }
 
-header #motto {
+/* Center and italicize the site motto beneath the title */
+#motto {
 	font-style: italic;
 	text-align: center;
 }
 
-.footer {
-	padding: 20px 0;
-	background-color: rgba(0, 0, 0, 0.3);
-	border-top: 10px solid rgba(0, 0, 0, 0.1);
-}
-
-/* Main marketing message and sign up button */
-.jumbotron {
-	text-align: center;
-	background-color: transparent;
-}
-.jumbotron .btn {
-	padding: 14px 24px;
-	font-size: 21px;
-}
-
+/* Custom styles for navigation bar over the top of Bootstrap's "Superhero"
+ * theme */
 .navbar {
+	margin: 20px 0;
 	padding: 0;
 	background-color: #eee;
 	border: 1px solid #ccc;
@@ -67,7 +69,6 @@ header #motto {
 	box-shadow: inset 0 3px 7px rgba(0,0,0,.15);
 	-webkit-box-shadow: inset 0 3px 7px rgba(0,0,0,.15);
 }
-
 .nav-item:first-child .nav-link {
 	border-radius: 5px 5px 0 0;
 }
@@ -92,40 +93,11 @@ header #motto {
 	}
 }
 
-/* Responsive: Portrait tablets and up */
-@media screen and (min-width: 768px) {
-	/* Remove the padding we set earlier */
-	.masthead,
-	.marketing,
-	.footer {
-		padding-right: 0;
-		padding-left: 0;
-	}
-}
-
-/* add some margin to the navbox */
-.masthead {
-	margin: 20px 0;
-}
-
-/* sticky footer */
-.flex-body {
-	flex: 1;
-}
-
-/* set max-width for images */
-img {
-	max-width: 100%
-}
-
-/* guide css */
-.guide-footer {
-	margin-top: 20px;
-}
-
-/* force scrollbar */
-html {
-	overflow-y: scroll;
+/* Change color of footer */
+.footer {
+	padding: 20px 0;
+	background-color: rgba(0, 0, 0, 0.3);
+	border-top: 10px solid rgba(0, 0, 0, 0.1);
 }
 
 /* Wash out the colors in the links and code blocks to avoid the contrast
@@ -137,10 +109,14 @@ code, pre {
 	background-color: #233546;
 	color: inherit;
 }
+pre {
+	padding: 1em;
+}
 
-/* Distinguish blockquote backgrounds just a little */
+/* Distinguish blockquote backgrounds just a little, and add some padding */
 blockquote {
 	background-color: #233546;
+	padding: 0 1em;
 }
 
 /* Make deeper headings italic, just for some visual distinction */
@@ -148,6 +124,7 @@ h3, h4, h5, h6 {
 	font-style: italic;
 }
 
+/* Format names in small caps for dialogues */
 b.name {
 	color: #ffffff;
 	font-variant: small-caps;
@@ -155,11 +132,8 @@ b.name {
 span.name {
 	font-variant: small-caps;
 }
+
+/* >greentexting on community website  >shaggy do wop */
 .greentext {
 	color: #77cc77;
-}
-
-/* No link border around footer license badge */
-a[rel=license] img {
-	border: 0;
 }
