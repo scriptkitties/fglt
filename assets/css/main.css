@@ -158,3 +158,8 @@ span.name {
 .greentext {
 	color: #77cc77;
 }
+
+/* No link border around footer license badge */
+a[rel=license] img {
+	border: 0;
+}
