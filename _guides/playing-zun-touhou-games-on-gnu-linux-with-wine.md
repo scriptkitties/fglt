@@ -1,5 +1,6 @@
 ---
 layout: guide
+section: guides
 title: Playing ZUN Touhou games on GNU/Linux with wine
 authors: [
 	"apt-get"

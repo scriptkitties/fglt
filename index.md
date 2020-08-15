@@ -1,5 +1,6 @@
 ---
 index: true
+section: home
 layout: default
 ---
 

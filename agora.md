@@ -1,5 +1,6 @@
 ---
 title: Agora
+section: agora
 layout: default
 rss: /rss/agora.xml
 ---

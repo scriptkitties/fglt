@@ -1,5 +1,6 @@
 ---
 title: Resources
+section: resources
 layout: default
 ---
 

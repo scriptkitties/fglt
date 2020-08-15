@@ -2,6 +2,7 @@
 title: Book I—The Tragedy of Open Hardware
 description: A newcomer to the agora with high hopes for computing freedom has some of the subtleties of the problem explained to him by a channel regular.
 date: 2020-06-25 00:00:00 UTC
+section: agora
 layout: default
 ---
 

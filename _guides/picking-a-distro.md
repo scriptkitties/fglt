@@ -1,5 +1,6 @@
 ---
 title: Picking a GNU+Linux distribution
+section: guides
 layout: guide
 authors: [
 	"Patrick 'tyil' Spek &lt;p.spek@tyil.work&gt;",

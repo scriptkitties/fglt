@@ -1,6 +1,7 @@
 ---
 title: IRC
 permalink: /irc.html
+section: irc
 layout: default
 ---
 

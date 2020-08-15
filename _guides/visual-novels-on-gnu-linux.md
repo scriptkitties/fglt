@@ -1,5 +1,6 @@
 ---
 title: Playing visual novels on GNU/Linux with Wine
+section: guides
 layout: guide
 authors: [
 	apt-get
