@@ -16,8 +16,8 @@ realised these conversations might make instructive reading for anyone
 interested in the same topics, and so decided to publish them here.
 
 The names are pseudonyms, and there's a little editing and correction for
-clarity, along with some footnotes, but it represents the conversations pretty
-well as they happened.
+clarity, along with some footnotes, but it otherwise represents the
+conversations pretty well as they happened.
 
 {% for dialogue in site.agora %}
 * [<cite>{{ dialogue.title }}</cite>]({{ dialogue.url }}){% endfor%}
