@@ -19,12 +19,12 @@ tasks:
       sudo rc-service docker start
   - build: |
       cd www-fglt.nl
-      bundle install
+      bundle install --verbose
       bundle exec jekyll build
       docker build -t tyil/www-fglt.nl:ci-$JOB_ID .
   - publish-quay: |
       COMMIT="$(git -C www-fglt.nl/ rev-parse HEAD)"
-      docker tag tyil/www-fglt.nl:ci-$JOB_ID quay.io/tyil/www-fglt.nl:git-$COMMIT 
+      docker tag tyil/www-fglt.nl:ci-$JOB_ID quay.io/tyil/www-fglt.nl:git-$COMMIT
       docker push quay.io/tyil/www-fglt.nl:git-$COMMIT
       docker tag tyil/www-fglt.nl:ci-$JOB_ID quay.io/tyil/www-fglt.nl:latest
       docker push quay.io/tyil/www-fglt.nl:latest
