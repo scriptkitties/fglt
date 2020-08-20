@@ -19,7 +19,7 @@ layout: null
 			<guid isPermaLink="true">{{ quote.url | prepend: site.baseurl | prepend: site.url | xml_escape }}</guid>
 			<pubDate>{{ quote.date | date_to_rfc822 | xml_escape }}</pubDate>
 			<link>{{ quote.url | prepend: site.baseurl | prepend: site.url | xml_escape }}</link>
-			<description>{{ quote.content | newline_to_br | xml_escape }}</description>
+			<description>{{ quote.content | replace: "<", "&lt;" | replace: ">", "&gt;" | newline_to_br | xml_escape }}</description>
 		</item>{% endfor %}
 	</channel>
 </rss>
