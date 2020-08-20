@@ -1,0 +1,25 @@
+---
+layout: null
+---
+{% assign quotes = site.quotes | sort: 'date' | reverse %}<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>{{ site.title | xml_escape }}</title>
+		<description>{{ site.description | strip | xml_escape }}</description>
+		<link>{{ site.baseurl | prepend: site.url | xml_escape }}</link>
+		<language>en</language>
+		<managingEditor>{{ site.email | xml_escape }} ({{ site.author | xml_escape }})</managingEditor>
+		<webMaster>{{ site.email | xml_escape }} ({{ site.author | xml_escape }})</webMaster>
+		<pubDate>{{ site.time | date_to_rfc822 | xml_escape }}</pubDate>
+		<docs>https://www.rssboard.org/rss-specification</docs>
+		<ttl>180</ttl>
+		<generator>Jekyll v{{ jekyll.version | xml_escape }}</generator>{% for quote in quotes limit:10 %}
+		<item>
+			<title>{{ quote.title | xml_escape }}</title>
+			<guid isPermaLink="true">{{ quote.url | prepend: site.baseurl | prepend: site.url | xml_escape }}</guid>
+			<pubDate>{{ quote.date | date_to_rfc822 | xml_escape }}</pubDate>
+			<link>{{ quote.url | prepend: site.baseurl | prepend: site.url | xml_escape }}</link>
+			<description>{{ quote.content | newline_to_br | xml_escape }}</description>
+		</item>{% endfor %}
+	</channel>
+</rss>

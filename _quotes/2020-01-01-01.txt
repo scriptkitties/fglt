@@ -1,0 +1,19 @@
+---
+---
+
+<kyrio> i run everything as root
+<kyrio> i install new things to run as root daily
+<kyrio> all my permissions are 777
+<kyrio> i use apache behind nginx behind lighttpd
+<kyrio> actually i use cloudflare between each one
+<kyrio> ssh is enabled at every level
+<kyrio> i run php exclusively
+<kyrio> i use discord and tiktok on my iphone
+<kyrio> i prefer templeos
+<kyrio> i only buy intel
+<kyrio> my favorite windows version was ME
+<kyrio> internet explorer 6.0 was the best version and modern browsers can't compete
+<kyrio> reddit is the best website
+<kyrio> it should be illegal to have sex with anyone under age 21
+<kyrio> there is nothing better in life that smoking some weed and watching cartoons about pickles on my ipad while i eat a bowl of fruit loops
+<kyrio> i had a special adapter case shaped like nintendo's mario made for me by someone on etsy. it holds the 7 adapters that i need to listen to music on my iphone while i charge it. it only cost me $733, which i thought was a really great deal!

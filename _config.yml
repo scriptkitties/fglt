@@ -23,9 +23,11 @@ redcarpet:
 collections:
   agora:
     output: true
+  guides:
+    output: true
   pages:
     output: true
-  guides:
+  quotes:
     output: true
 
 # page defaults

@@ -1,0 +1,8 @@
+---
+---
+
+<ProtoMan> herbstluftwm finally got proper floating windows, I have the perfect tiling wm now
+<tyil> nice
+<tyil> only took them like 10 years
+<ProtoMan> remind me what you've done in the past 10 years?
+<tyil> install gentoo

@@ -1,0 +1,9 @@
+---
+---
+<tejr> i have been writing vim plugins
+<tejr> hel!!
+<tejr> s/l/lp/
+<ShadowM00n> and lo', he happen'd upon a vision
+<tejr> sir i perceive by this editor in my hand that i am condemned to configure and thence write pluggins and i find myself afraid to do the former and unable to do the latter
+<ShadowM00n> why not willing to configure, since this editor is attended to by so many options?
+<tejr> because i fear this ad-hoc, byzantine scripting language will sink me lower than the grave, and i shall fall into Topkek
