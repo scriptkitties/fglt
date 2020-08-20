@@ -22,9 +22,9 @@ quay.io:
   services:
     - docker:dind
   before_script:
-    - echo "$QUAY_PASSWORD" | docker login -u $QUAY_USER --password-stdin https://quay.io
+    - echo "$QUAY_PASSWORD" | docker login -u "$QUAY_USER" --password-stdin https://quay.io
   script:
-    - docker build -t $QUAY_REPOSITORY:latest $QUAY_REPOSITORY:ci-$CI_COMMIT_SHA .
+    - docker build -t $QUAY_REPOSITORY:latest -t $QUAY_REPOSITORY:ci-$CI_COMMIT_SHA .
     - docker push $QUAY_REPOSITORY:latest $QUAY_REPOSITORY:ci-$CI_COMMIT_SHA
 
 registry.gitlab.com:
@@ -37,5 +37,5 @@ registry.gitlab.com:
   before_script:
     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
   script:
-    - docker build -t $CI_REGISTRY_IMAGE:latest $CI_REGISTRY_IMAGE:ci-$CI_COMMIT_SHA .
+    - docker build -t $CI_REGISTRY_IMAGE:latest -t $CI_REGISTRY_IMAGE:ci-$CI_COMMIT_SHA .
     - docker push $CI_REGISTRY_IMAGE:latest $CI_REGISTRY_IMAGE:ci-$CI_COMMIT_SHA
