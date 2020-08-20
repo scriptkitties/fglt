@@ -22,7 +22,7 @@ Push Docker image:
   services:
     - docker:dind
   before_script:
-    - docker login -u $QUAY_USER -p $QUAY_PASSWORD quay.io
+    - echo "$QUAY_PASSWORD" | docker login -u $QUAY_USER --password-stdin https://quay.io
   script:
     - docker build -t $QUAY_REPOSITORY:latest $QUAY_REPOSITORY:ci-$CI_COMMIT_SHA .
     - docker push $QUAY_REPOSITORY:latest $QUAY_REPOSITORY:ci-$CI_COMMIT_SHA
