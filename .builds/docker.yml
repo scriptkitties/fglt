@@ -3,12 +3,12 @@ sources:
   - https://git.sr.ht/~tyil/www-fglt.nl
 packages:
   - docker
-  - ruby-bundler
   - ruby-dev
 secrets:
   - 4577a183-953e-4612-a48b-e48c4c4763c9
 tasks:
   - prepare: |
+      # Configure Docker
       sudo mkdir -p /etc/docker
       cat <<-EOF > /tmp/dockerd.json
       {
@@ -17,6 +17,11 @@ tasks:
       EOF
       sudo mv /tmp/dockerd.json /etc/docker/daemon.json
       sudo rc-service docker start
+
+      # Install latest bundler gem
+      sudo gem install bundler
+
+      hash -r
   - build: |
       cd www-fglt.nl
       bundle install --verbose
