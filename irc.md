@@ -37,6 +37,8 @@ experience with terminal programs.
 
 ## Shit #sqt says
 
+You can follow updates on new quotes [through RSS](/rss/quotes.xml)!
+
 {% assign quotes = site.quotes | sort: 'name' | reverse %}
 {% for quote in quotes %}
     {% assign this_year = quote.date | date: "%Y" %}
