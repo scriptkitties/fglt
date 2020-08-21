@@ -4,7 +4,7 @@ layout: null
 {% assign dialogues = site.agora | sort: 'date' | reverse %}<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 	<channel>
-		<title>{{ site.title | xml_escape }}</title>
+		<title>{{ site.title | xml_escape }} - Agora Dialogues</title>
 		<description>{{ site.description | strip | xml_escape }}</description>
 		<link>{{ site.baseurl | prepend: site.url | xml_escape }}</link>
 		<language>en</language>
